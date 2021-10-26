@@ -5,6 +5,7 @@ on:
       - main
       - master
       - develop
+  workflow_dispatch:
 jobs:
   deploy:
     runs-on: ubuntu-latest

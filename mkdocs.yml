@@ -8,7 +8,6 @@ repo_name: jimbrig/KaaS
 remote_branch: gh-pages
 edit_uri: blob/main/docs/
 use_directory_urls: true
-docs_dir: .
 
 theme:
   name: 'material'

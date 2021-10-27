@@ -1,6 +1,6 @@
 - **URL:** https://medium.com/p/7e47c485edbf
 - **Author:** Michael Krasnov
-- **Tags:** #Type/Article
+- **Tags:** #Type/Source/Article
 - **Date:** [2021-05-13](../_daily/2021-05-13.md)
 ---
 

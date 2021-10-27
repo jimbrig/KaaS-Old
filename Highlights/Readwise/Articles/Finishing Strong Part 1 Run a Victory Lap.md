@@ -9,7 +9,7 @@ Link: https://feedly.com/i/entry/d4UeDsw6o7c52AhcP1SziyOM7sQPVaBTOJSjij0oNtE=_17
 ## Metadata
 - Author: [[Charlie Gilkey]]
 - Full Title: Finishing Strong Part 1: Run a Victory Lap
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://feedly.com/i/entry/d4UeDsw6o7c52AhcP1SziyOM7sQPVaBTOJSjij0oNtE=_176aa91deb5:fcfbb9:7edf6590
 
 ## Highlights

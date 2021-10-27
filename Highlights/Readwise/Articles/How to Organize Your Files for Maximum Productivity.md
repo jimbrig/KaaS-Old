@@ -9,7 +9,7 @@ Link: https://medium.com/swlh/how-to-organize-your-files-for-maximum-productivit
 ## Metadata
 - Author: [[Giorgos Petkakis]]
 - Full Title: How to Organize Your Files for Maximum Productivity
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/swlh/how-to-organize-your-files-for-maximum-productivity-afdc6430126a
 
 ## Highlights

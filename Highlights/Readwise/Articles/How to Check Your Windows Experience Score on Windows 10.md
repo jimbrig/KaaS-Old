@@ -9,7 +9,7 @@ Link: https://www.makeuseof.com/tag/check-windows-experience-score-windows-10/
 ## Metadata
 - Author: 
 - Full Title: How to Check Your Windows Experience Score on Windows 10
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.makeuseof.com/tag/check-windows-experience-score-windows-10/
 
 ## Highlights

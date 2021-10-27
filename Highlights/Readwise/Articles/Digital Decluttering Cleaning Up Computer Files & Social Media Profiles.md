@@ -9,7 +9,7 @@ Link: https://howtogyst.com/digital-decluttering/
 ## Metadata
 - Author: [[howtogyst.com]]
 - Full Title: Digital Decluttering: Cleaning Up Computer Files & Social Media Profiles
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://howtogyst.com/digital-decluttering/
 
 ## Highlights

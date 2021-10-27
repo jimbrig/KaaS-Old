@@ -9,7 +9,7 @@ Link: https://filterize.net/blog/
 ## Metadata
 - Author: 
 - Full Title: Blog | Filterize
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://filterize.net/blog/
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://niklasblog.com/?p=25043
 ## Metadata
 - Author: [[niklasblog.com]]
 - Full Title: Obsidian: My New Knowledge Base or Base for Knowledge
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://niklasblog.com/?p=25043
 
 ## Highlights

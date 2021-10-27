@@ -9,7 +9,7 @@ Link: https://collegeinfogeek.com/productivity-apps/
 ## Metadata
 - Author: 
 - Full Title: The 25+ Best Productivity Apps in 2020
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://collegeinfogeek.com/productivity-apps/
 
 ## Highlights

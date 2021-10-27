@@ -9,7 +9,7 @@ Link: https://medium.com/@melissajclark_/how-i-use-evernote-to-organize-client-p
 ## Metadata
 - Author: [[Melissa Jean Clark]]
 - Full Title: How I Use Evernote to Organize Client Projects
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/@melissajclark_/how-i-use-evernote-to-organize-client-projects-1ee99c4cb46b
 
 ## Highlights

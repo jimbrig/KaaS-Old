@@ -9,7 +9,7 @@ Link: https://www.nerdwallet.com/blog/pay-off-debt/
 ## Metadata
 - Author: [[nerdwallet.com]]
 - Full Title: Pay Off Your Debt: Tools and Tips
-- Category: #articles
+- Category: #Type/Highlights/Article
 - Document Tags: [[Liked]] 
 - URL: https://www.nerdwallet.com/blog/pay-off-debt/
 

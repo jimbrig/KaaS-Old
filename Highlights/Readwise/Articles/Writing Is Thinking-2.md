@@ -9,7 +9,7 @@ Link: https://alistapart.com/article/writing-is-thinking/
 ## Metadata
 - Author: [[alistapart.com]]
 - Full Title: Writing Is Thinking
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://alistapart.com/article/writing-is-thinking/
 
 ## Highlights

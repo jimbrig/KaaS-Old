@@ -9,7 +9,7 @@ Link: https://kalynbrooke.com/life-and-style/time-management/brain-dump-101/
 ## Metadata
 - Author: [[kalynbrooke.com]]
 - Full Title: 4 Steps to Organize Your Massive To-Do List
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://kalynbrooke.com/life-and-style/time-management/brain-dump-101/
 
 ## Highlights

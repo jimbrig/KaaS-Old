@@ -9,7 +9,7 @@ Link: https://jamesstuber.com/systems/
 ## Metadata
 - Author: 
 - Full Title: The Importance of Systems
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://jamesstuber.com/systems/
 
 ## Highlights

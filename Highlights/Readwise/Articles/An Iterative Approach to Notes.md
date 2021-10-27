@@ -9,7 +9,7 @@ Link: https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29
 ## Metadata
 - Author: 
 - Full Title: An Iterative Approach to Notes
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29
 
 ## Highlights

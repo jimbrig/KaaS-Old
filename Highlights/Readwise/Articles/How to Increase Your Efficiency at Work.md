@@ -9,7 +9,7 @@ Link: https://www.lifehack.org/893609/efficiency-at-work
 ## Metadata
 - Author: [[Adrian Shepherd]]
 - Full Title: How to Increase Your Efficiency at Work
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.lifehack.org/893609/efficiency-at-work
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://medium.com/p/f6f7842c9865
 ## Metadata
 - Author: [[Dr. Stefan Karenfort]]
 - Full Title: The Data Science Landscape
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/f6f7842c9865
 
 ## Highlights

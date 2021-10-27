@@ -9,7 +9,7 @@ Link: https://cran.r-project.org/web/packages/expss/vignettes/labels-support.htm
 ## Metadata
 - Author: 
 - Full Title: Variable and Value Labels Support in Base R and Other Packages
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://cran.r-project.org/web/packages/expss/vignettes/labels-support.html
 
 ## Highlights

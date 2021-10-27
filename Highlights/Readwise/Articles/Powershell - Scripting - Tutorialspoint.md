@@ -9,7 +9,7 @@ Link: https://www.tutorialspoint.com/powershell/powershell_scripting.htm
 ## Metadata
 - Author: [[tutorialspoint.com]]
 - Full Title: Powershell - Scripting - Tutorialspoint
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.tutorialspoint.com/powershell/powershell_scripting.htm
 
 ## Highlights

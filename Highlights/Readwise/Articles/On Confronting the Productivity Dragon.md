@@ -9,7 +9,7 @@ Link: https://www.calnewport.com/blog/2020/07/23/on-confronting-the-productivity
 ## Metadata
 - Author: [[calnewport.com]]
 - Full Title: On Confronting the Productivity Dragon
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.calnewport.com/blog/2020/07/23/on-confronting-the-productivity-dragon-take-2/
 
 ## Highlights

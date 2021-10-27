@@ -9,7 +9,7 @@ Link: https://rtask.thinkr.fr/whats-a-successful-shiny-application/
 ## Metadata
 - Author: [[Agence Breizhtorm - Www.Breizhtorm.Fr]]
 - Full Title: What's a "Successful" Shiny Application? - Rtask
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://rtask.thinkr.fr/whats-a-successful-shiny-application/
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://medium.com/@axtonliu/how-to-build-an-efficient-personal-knowledge-
 ## Metadata
 - Author: [[medium.com]]
 - Full Title: How to Build an Efficient Personal Knowledge Management System
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/@axtonliu/how-to-build-an-efficient-personal-knowledge-management-system-355332ae5991
 
 ## Highlights

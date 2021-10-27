@@ -9,7 +9,7 @@ Link: https://jon.bo/posts/digital-tools/
 ## Metadata
 - Author: [[jon.bo]]
 - Full Title: Digital Tools I Wish Existed
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://jon.bo/posts/digital-tools/
 
 ## Highlights

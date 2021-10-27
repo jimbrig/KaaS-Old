@@ -9,7 +9,7 @@ Link: https://fortelabs.co/blog/one-touch-to-inbox-zero/
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: One-Touch to Inbox Zero: How I Spend 17 Minutes Per Day on Email - Forte Labs
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://fortelabs.co/blog/one-touch-to-inbox-zero/
 
 ## Highlights

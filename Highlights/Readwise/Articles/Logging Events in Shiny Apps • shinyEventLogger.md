@@ -9,7 +9,7 @@ Link: https://kalimu.github.io/shinyEventLogger/index.html
 ## Metadata
 - Author: 
 - Full Title: Logging Events in Shiny Apps • shinyEventLogger
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://kalimu.github.io/shinyEventLogger/index.html
 
 ## Highlights

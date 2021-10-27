@@ -9,7 +9,7 @@ Link: https://addicted2success.com/success-advice/3-steps-to-managing-your-time-
 ## Metadata
 - Author: [[John Furneaux]]
 - Full Title: 3 Steps to Managing Your Time and Maximizing Your Workday
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://addicted2success.com/success-advice/3-steps-to-managing-your-time-and-maximizing-your-workday/
 
 ## Highlights

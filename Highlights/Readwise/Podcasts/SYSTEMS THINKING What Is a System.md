@@ -9,7 +9,7 @@ Link: https://www.airr.io/episode/5d1d03cb5cae25de51e2096c
 ## Metadata
 - Author: [[Systems Thinking]]
 - Full Title: SYSTEMS THINKING: What Is a System?
-- Category: #podcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5d1d03cb5cae25de51e2096c
 
 ## Highlights

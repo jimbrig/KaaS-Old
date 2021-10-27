@@ -9,7 +9,7 @@ Link: https://hbr.org/2020/01/create-a-productivity-workflow-that-works-for-you
 ## Metadata
 - Author: [[hbr.org]]
 - Full Title: Create a Productivity Workflow That Works for You
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://hbr.org/2020/01/create-a-productivity-workflow-that-works-for-you
 
 ## Highlights

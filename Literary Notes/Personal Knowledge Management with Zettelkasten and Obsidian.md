@@ -4,7 +4,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Alias: Personal Knowledge Management with Zettelkasten and Obsidian
 ---
 
-Source Type: #Type/Article
+Source Type: #Type/Source/Article
 Category: #Category/PKM	
 
 # Personal Knowledge Management with Zettelkasten and Obsidian

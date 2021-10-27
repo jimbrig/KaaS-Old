@@ -9,7 +9,7 @@ Link: https://medium.com/machine-words/writing-technical-design-docs-revisited-8
 ## Metadata
 - Author: 
 - Full Title: Writing Technical Design Docs, Revisited - Machine Words - Medium
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/machine-words/writing-technical-design-docs-revisited-850d36570ec
 
 ## Highlights

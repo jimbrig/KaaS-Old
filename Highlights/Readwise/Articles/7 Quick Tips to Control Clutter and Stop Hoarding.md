@@ -9,7 +9,7 @@ Link: https://www.thespruce.com/6-quick-tips-to-control-clutter-and-stop-hoardin
 ## Metadata
 - Author: [[thespruce.com]]
 - Full Title: 7 Quick Tips to Control Clutter and Stop Hoarding
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.thespruce.com/6-quick-tips-to-control-clutter-and-stop-hoarding-2648657
 
 ## Highlights

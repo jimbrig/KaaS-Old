@@ -9,7 +9,7 @@ Link: https://www.freecodecamp.org/news/automate-project-github-setup-mac/
 ## Metadata
 - Author: 
 - Full Title: How to Automate Your Project and Github Repo Setup From the Command Line
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.freecodecamp.org/news/automate-project-github-setup-mac/
 
 ## Highlights

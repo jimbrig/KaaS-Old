@@ -9,7 +9,7 @@ Link: https://longleafsys.com/rebooting-your-productivity-system/
 ## Metadata
 - Author: 
 - Full Title: Rebooting Your Productivity System
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://longleafsys.com/rebooting-your-productivity-system/
 
 ## Highlights

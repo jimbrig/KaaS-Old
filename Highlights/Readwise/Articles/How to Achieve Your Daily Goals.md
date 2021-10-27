@@ -9,7 +9,7 @@ Link: https://quickbooost.com/daily-goals/
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: How to Achieve Your Daily Goals
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://quickbooost.com/daily-goals/
 
 ## Highlights

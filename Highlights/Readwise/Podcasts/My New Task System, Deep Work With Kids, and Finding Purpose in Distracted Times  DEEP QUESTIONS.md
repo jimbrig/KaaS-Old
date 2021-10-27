@@ -9,7 +9,7 @@ Link: https://www.airr.io/episode/5ee6d7109070069bd377b8f4
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times | DEEP QUESTIONS
-- Category: #podcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5ee6d7109070069bd377b8f4
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 ---
 
-#Type/Readme
+#Type/Vault/Readme
 
 # <% tp.file.folder() %>
 

@@ -9,7 +9,7 @@ Link: https://www.cio.com/article/2384870/get-new-it-pros-up-to-speed-fast-with-
 ## Metadata
 - Author: [[Rich Hein]]
 - Full Title: Get New IT Pros Up to Speed Fast With This Onboarding Checklist
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.cio.com/article/2384870/get-new-it-pros-up-to-speed-fast-with-this-onboarding-checklist.html
 
 ## Highlights

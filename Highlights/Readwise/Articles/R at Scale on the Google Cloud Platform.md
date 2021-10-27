@@ -9,7 +9,7 @@ Link: https://code.markedmondson.me/r-at-scale-on-google-cloud-platform/
 ## Metadata
 - Author: [[Mark Edmondson]]
 - Full Title: R at Scale on the Google Cloud Platform
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://code.markedmondson.me/r-at-scale-on-google-cloud-platform/
 
 ## Highlights

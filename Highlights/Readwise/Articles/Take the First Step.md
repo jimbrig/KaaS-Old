@@ -9,7 +9,7 @@ Link: https://facilethings.com/blog/en/first-step.html
 ## Metadata
 - Author: [[Francisco Sáez]]
 - Full Title: Take the First Step
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://facilethings.com/blog/en/first-step.html
 
 ## Highlights

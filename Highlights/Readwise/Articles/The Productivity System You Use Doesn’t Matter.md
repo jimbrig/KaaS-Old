@@ -9,7 +9,7 @@ Link: https://medium.com/p/d64fbc73291c
 ## Metadata
 - Author: [[Megan Holstein]]
 - Full Title: The Productivity System You Use Doesn’t Matter
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/d64fbc73291c
 
 ## Highlights

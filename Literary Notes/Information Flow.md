@@ -6,6 +6,9 @@ Alias: Information Flow
 
 Source Type: #Type/Diagram
 Category: #Category/PKM
+Status: #Status/Permanent 
+
+#Favorite
 
 # Information Flow
 

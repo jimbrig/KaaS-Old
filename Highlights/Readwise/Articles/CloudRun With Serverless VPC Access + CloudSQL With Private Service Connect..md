@@ -9,7 +9,7 @@ Link: https://medium.com/p/9432a749ff7b
 ## Metadata
 - Author: [[Johanes Glenn]]
 - Full Title: CloudRun With Serverless VPC Access + CloudSQL With Private Service Connect.
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/9432a749ff7b
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://towardsdatascience.com/structure-and-automated-workflow-for-a-mach
 ## Metadata
 - Author: [[Mateusz Bednarski]]
 - Full Title: Structure and Automated Workflow for a Machine Learning Project — part 1
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://towardsdatascience.com/structure-and-automated-workflow-for-a-machine-learning-project-2fa30d661c1e
 
 ## Highlights

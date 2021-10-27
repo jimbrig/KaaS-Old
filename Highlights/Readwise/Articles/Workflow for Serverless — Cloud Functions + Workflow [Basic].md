@@ -9,7 +9,7 @@ Link: https://medium.com/p/eb755048c982
 ## Metadata
 - Author: [[Johanes Glenn]]
 - Full Title: Workflow for Serverless — Cloud Functions + Workflow [Basic]
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/eb755048c982
 
 ## Highlights

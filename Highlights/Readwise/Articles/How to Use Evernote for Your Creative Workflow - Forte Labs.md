@@ -9,7 +9,7 @@ Link: https://fortelabs.co/blog/how-to-use-evernote-for-your-creative-workflow/
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: How to Use Evernote for Your Creative Workflow - Forte Labs
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://fortelabs.co/blog/how-to-use-evernote-for-your-creative-workflow/
 
 ## Highlights

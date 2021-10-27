@@ -9,7 +9,7 @@ Link: https://github.com/ropenscilabs/dataspice
 ## Metadata
 - Author: 
 - Full Title: Ropenscilabs/Dataspice: Create Lightweight schema.org Descriptions of Datas
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://github.com/ropenscilabs/dataspice
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://fortelabs.co/blog/strategically-constrained-how-to-turn-limitation
 ## Metadata
 - Author: 
 - Full Title: Strategically Constrained: How to Turn Limitations Into Opportunities - Forte Labs
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://fortelabs.co/blog/strategically-constrained-how-to-turn-limitations-into-opportunities/
 
 ## Highlights

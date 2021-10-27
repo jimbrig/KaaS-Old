@@ -9,7 +9,7 @@ Link: http://www.open-meta.org/technology/one-observer-for-all-buttons-in-shiny-
 ## Metadata
 - Author: 
 - Full Title: One Observer for All Buttons in Shiny Using JavaScript / jQuery
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: http://www.open-meta.org/technology/one-observer-for-all-buttons-in-shiny-using-javascriptjquery/
 
 ## Highlights

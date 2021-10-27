@@ -9,7 +9,7 @@ Link: https://jamesstuber.com/overwhelm/
 ## Metadata
 - Author: [[James Stuber]]
 - Full Title: Productivity Overwhelm
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://jamesstuber.com/overwhelm/
 
 ## Highlights

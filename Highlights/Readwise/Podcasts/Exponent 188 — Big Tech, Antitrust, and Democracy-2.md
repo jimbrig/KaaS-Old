@@ -9,7 +9,7 @@ Link: https://www.airr.io/episode/5f2d2283257ee251cc1707fd
 ## Metadata
 - Author: [[Exponent]]
 - Full Title: Exponent 188 — Big Tech, Antitrust, and Democracy
-- Category: #podcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5f2d2283257ee251cc1707fd
 
 ## Highlights

@@ -4,7 +4,8 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Alias: Rinse and Repeat - Research, Read, Assimilate
 ---
 
-Source Type: #Type/Article
+Source Type: #Type/Source/Article
+Status: #Status/Permanent 
 
 # Rinse and Repeat - Research, Read, Assimilate
 

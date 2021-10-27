@@ -9,7 +9,7 @@ Link: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_
 ## Metadata
 - Author: [[developer.mozilla.org]]
 - Full Title: A Re-Introduction to JavaScript (JS Tutorial) - JavaScript | MDN
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
 ## Highlights

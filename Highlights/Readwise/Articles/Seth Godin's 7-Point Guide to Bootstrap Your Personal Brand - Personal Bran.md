@@ -9,7 +9,7 @@ Link: https://www.personalbrandingblog.com/seth-godins-7-point-guide-to-bootstra
 ## Metadata
 - Author: 
 - Full Title: Seth Godin's 7-Point Guide to Bootstrap Your Personal Brand - Personal Bran
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.personalbrandingblog.com/seth-godins-7-point-guide-to-bootstrap-your-personal-brand/
 
 ## Highlights

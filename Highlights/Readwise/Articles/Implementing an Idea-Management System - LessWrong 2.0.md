@@ -9,7 +9,7 @@ Link: https://www.lesswrong.com/posts/BHp82PvqCDayFpefg/implementing-an-idea-man
 ## Metadata
 - Author: [[lesswrong.com]]
 - Full Title: Implementing an Idea-Management System - LessWrong 2.0
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.lesswrong.com/posts/BHp82PvqCDayFpefg/implementing-an-idea-management-system
 
 ## Highlights

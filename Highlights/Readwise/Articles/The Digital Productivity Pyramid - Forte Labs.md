@@ -9,7 +9,7 @@ Link: https://fortelabs.co/blog/the-digital-productivity-pyramid/
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: The Digital Productivity Pyramid - Forte Labs
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://fortelabs.co/blog/the-digital-productivity-pyramid/
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://roxygen2.r-lib.org/articles/rd-formatting.html
 ## Metadata
 - Author: [[roxygen2.r-lib.org]]
 - Full Title: Rd Formatting
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://roxygen2.r-lib.org/articles/rd-formatting.html
 
 ## Highlights

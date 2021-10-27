@@ -9,7 +9,7 @@ Link: https://www.lifehack.org/833077/daily-checklist
 ## Metadata
 - Author: [[lifehack.org]]
 - Full Title: 13 Things to Put on Your Daily Checklist for Boosted Productivity
-- Category: #articles
+- Category: #Type/Highlights/Article
 - Document Tags: [[Liked]] 
 - URL: https://www.lifehack.org/833077/daily-checklist
 

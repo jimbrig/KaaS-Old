@@ -9,7 +9,7 @@ Link: https://facilethings.com/blog/en/the-mind-sweep
 ## Metadata
 - Author: [[Francisco Sáez]]
 - Full Title: Want to Get Organized? Start With the Mind Sweep
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://facilethings.com/blog/en/the-mind-sweep
 
 ## Highlights

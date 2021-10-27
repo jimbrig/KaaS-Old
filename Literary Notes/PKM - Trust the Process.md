@@ -4,8 +4,9 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Alias: PKM - Trust the Process
 ---
 
-Source Type: #Type/Article
+Source Type: #Type/Source/Article
 Category: #Category/PKM
+Status: #Status/Permanent 
 
 # PKM - Trust the Process
 

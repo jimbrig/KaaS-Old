@@ -9,7 +9,7 @@ Link: https://bioconductor.org/developers/package-guidelines/
 ## Metadata
 - Author: 
 - Full Title: Bioconductor - Package Guidelines
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://bioconductor.org/developers/package-guidelines/
 
 ## Highlights

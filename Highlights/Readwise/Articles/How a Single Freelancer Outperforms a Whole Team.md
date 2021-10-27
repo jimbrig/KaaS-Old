@@ -9,7 +9,7 @@ Link: https://medium.com/p/5974fe5db597
 ## Metadata
 - Author: [[Jovan Cicmil]]
 - Full Title: How a Single Freelancer Outperforms a Whole Team
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/5974fe5db597
 
 ## Highlights

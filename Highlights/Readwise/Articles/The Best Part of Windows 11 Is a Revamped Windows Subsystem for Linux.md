@@ -9,7 +9,7 @@ Link: https://arstechnica.com/gadgets/2021/10/the-best-part-of-windows-11-is-a-r
 ## Metadata
 - Author: [[Jim Salter]]
 - Full Title: The Best Part of Windows 11 Is a Revamped Windows Subsystem for Linux
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://arstechnica.com/gadgets/2021/10/the-best-part-of-windows-11-is-a-revamped-windows-subsystem-for-linux/
 
 ## Highlights

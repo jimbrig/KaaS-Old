@@ -9,7 +9,7 @@ Link: https://rsangole.netlify.app/post/2020/10/10/reproducible-work-in-r/
 ## Metadata
 - Author: [[rsangole.netlify.app]]
 - Full Title: {yHat} - Reproducible Work in R
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://rsangole.netlify.app/post/2020/10/10/reproducible-work-in-r/
 
 ## Highlights

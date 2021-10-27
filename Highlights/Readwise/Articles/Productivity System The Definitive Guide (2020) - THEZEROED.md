@@ -9,7 +9,7 @@ Link: https://thezeroed.com/productivity-system-the-definitive-guide-2019/
 ## Metadata
 - Author: 
 - Full Title: Productivity System: The Definitive Guide (2020) - THEZEROED
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://thezeroed.com/productivity-system-the-definitive-guide-2019/
 
 ## Highlights

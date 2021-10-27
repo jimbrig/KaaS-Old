@@ -9,7 +9,7 @@ Link: https://personaldevelopmentideas.com/tag/get-organized-2/
 ## Metadata
 - Author: [[personaldevelopmentideas.com]]
 - Full Title: Get Organized – Personal Development Ideas
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://personaldevelopmentideas.com/tag/get-organized-2/
 
 ## Highlights

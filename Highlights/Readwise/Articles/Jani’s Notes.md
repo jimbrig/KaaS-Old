@@ -9,7 +9,7 @@ Link: https://jevakallio.github.io/notes/foam-one-month-in.html
 ## Metadata
 - Author: [[jevakallio.github.io]]
 - Full Title: Jani’s Notes
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://jevakallio.github.io/notes/foam-one-month-in.html
 
 ## Highlights

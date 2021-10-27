@@ -1,6 +1,6 @@
 - **URL:** https://medium.com/p/2c03ea4873b2
 - **Author:** Anisuzzaman Babla
-- **Tags:** #Type/Article
+- **Tags:** #Type/Source/Article
 - **Date:** [2021-05-11](../_daily/2021-05-11.md)
 ---
 

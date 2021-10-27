@@ -9,7 +9,7 @@ Link: https://www.datree.io/resources/github-best-practices
 ## Metadata
 - Author: 
 - Full Title: Top GitHub Best Practices for Developers
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.datree.io/resources/github-best-practices
 
 ## Highlights

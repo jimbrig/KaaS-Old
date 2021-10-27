@@ -9,7 +9,7 @@ Link: https://medium.com/p/e57a25ab2f0a
 ## Metadata
 - Author: [[Abracadabra]]
 - Full Title: System Design Paradigm: Caching
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/e57a25ab2f0a
 
 ## Highlights

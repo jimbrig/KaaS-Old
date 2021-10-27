@@ -9,7 +9,7 @@ Link: https://www.calnewport.com/blog/2020/05/14/the-deep-reset/
 ## Metadata
 - Author: [[calnewport.com]]
 - Full Title: The Deep Reset - Study Hacks - Cal Newport
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.calnewport.com/blog/2020/05/14/the-deep-reset/
 
 ## Highlights

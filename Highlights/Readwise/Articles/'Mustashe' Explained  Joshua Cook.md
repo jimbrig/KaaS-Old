@@ -9,7 +9,7 @@ Link: https://joshuacook.netlify.app/post/mustashe-explained/
 ## Metadata
 - Author: 
 - Full Title: 'Mustashe' Explained | Joshua Cook
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://joshuacook.netlify.app/post/mustashe-explained/
 
 ## Highlights

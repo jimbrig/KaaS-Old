@@ -9,7 +9,7 @@ Link: https://medium.com/p/bde3011b604a
 ## Metadata
 - Author: [[Lucas Soares]]
 - Full Title: Optimized Workflow
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/bde3011b604a
 
 ## Highlights

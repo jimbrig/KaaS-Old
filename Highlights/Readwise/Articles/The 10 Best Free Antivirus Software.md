@@ -9,7 +9,7 @@ Link: https://www.makeuseof.com/tag/ten-best-antivirus-programs/
 ## Metadata
 - Author: 
 - Full Title: The 10 Best Free Antivirus Software
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.makeuseof.com/tag/ten-best-antivirus-programs/
 
 ## Highlights

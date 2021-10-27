@@ -9,7 +9,7 @@ Link: https://jcrodriguez1989.github.io/rco/
 ## Metadata
 - Author: 
 - Full Title: The R Code Optimizer • Rco
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://jcrodriguez1989.github.io/rco/
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://rstudio.com/
 ## Metadata
 - Author: 
 - Full Title: RStudio | Open Source & Professional Software for Data Science Teams
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://rstudio.com/
 
 ## Highlights

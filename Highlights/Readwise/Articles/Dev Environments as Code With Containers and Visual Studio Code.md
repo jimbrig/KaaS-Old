@@ -9,7 +9,7 @@ Link: https://medium.com/p/690897a2be59
 ## Metadata
 - Author: [[Ari]]
 - Full Title: Dev Environments as Code With Containers and Visual Studio Code
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/690897a2be59
 
 ## Highlights

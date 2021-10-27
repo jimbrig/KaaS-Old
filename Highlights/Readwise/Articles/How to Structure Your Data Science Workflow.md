@@ -9,7 +9,7 @@ Link: https://medium.com/p/b06748b7761a
 ## Metadata
 - Author: [[Mikhail Klassen]]
 - Full Title: How to Structure Your Data Science Workflow
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/b06748b7761a
 
 ## Highlights

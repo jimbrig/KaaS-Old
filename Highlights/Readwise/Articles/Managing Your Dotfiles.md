@@ -9,7 +9,7 @@ Link: https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/
 ## Metadata
 - Author: [[anishathalye.com]]
 - Full Title: Managing Your Dotfiles
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/
 
 ## Highlights

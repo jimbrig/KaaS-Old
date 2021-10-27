@@ -9,7 +9,7 @@ Link: https://www.projectmanager.com/training/define-workflow-process
 ## Metadata
 - Author: 
 - Full Title: 3 Steps to Designing a Powerful Project Workflow - ProjectManager.com
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.projectmanager.com/training/define-workflow-process
 
 ## Highlights

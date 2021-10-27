@@ -9,7 +9,7 @@ Link: https://www.asianefficiency.com/productivity/common-gtd-mistake/
 ## Metadata
 - Author: [[Thanh Pham]]
 - Full Title: Are You Making This GTD Mistake? - Asian Efficiency
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.asianefficiency.com/productivity/common-gtd-mistake/
 
 ## Highlights

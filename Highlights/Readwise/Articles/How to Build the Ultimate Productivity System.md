@@ -9,7 +9,7 @@ Link: https://medium.com/p/286d6e329b4f
 ## Metadata
 - Author: [[Chris Kyle]]
 - Full Title: How to Build the Ultimate Productivity System
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/286d6e329b4f
 
 ## Highlights

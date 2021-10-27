@@ -9,7 +9,7 @@ Link: https://www.cminds.com/3-uses-curated-lists-manager/
 ## Metadata
 - Author: [[Courtney Jones]]
 - Full Title: 3 Smart Uses of Curated Lists and How to Create Them
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.cminds.com/3-uses-curated-lists-manager/
 
 ## Highlights

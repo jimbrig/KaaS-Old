@@ -9,7 +9,7 @@ Link: http://mystigal.com/weekly-reset-system-for-increased-productivity/
 ## Metadata
 - Author: 
 - Full Title: Weekly Reset System for Increased Productivity | Mystigal
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: http://mystigal.com/weekly-reset-system-for-increased-productivity/
 
 ## Highlights

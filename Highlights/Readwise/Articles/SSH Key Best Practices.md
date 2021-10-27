@@ -9,7 +9,7 @@ Link: https://dev.to/paulmicheli/ssh-key-best-practices-2cb7
 ## Metadata
 - Author: [[dev.to]]
 - Full Title: SSH Key Best Practices
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://dev.to/paulmicheli/ssh-key-best-practices-2cb7
 
 ## Highlights

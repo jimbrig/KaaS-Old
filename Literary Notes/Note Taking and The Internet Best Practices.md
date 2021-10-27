@@ -4,7 +4,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Alias: Note Taking and The Internet Best Practices
 ---
 
-Source Type: #Type/Article
+Source Type: #Type/Source/Article
 Category: #Category/PKM #Category/Productivity
 
 # Note Taking and The Internet Best Practices

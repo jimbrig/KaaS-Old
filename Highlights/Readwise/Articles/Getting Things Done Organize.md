@@ -9,7 +9,7 @@ Link: https://joebuhlig.com/getting-things-done-organize/
 ## Metadata
 - Author: 
 - Full Title: Getting Things Done: Organize
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://joebuhlig.com/getting-things-done-organize/
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://www.makeuseof.com/tag/best-windows-10-apps/
 ## Metadata
 - Author: 
 - Full Title: The Best Microsoft Store Apps for Windows 10
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.makeuseof.com/tag/best-windows-10-apps/
 
 ## Highlights

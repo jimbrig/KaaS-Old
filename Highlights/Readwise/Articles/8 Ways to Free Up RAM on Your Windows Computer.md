@@ -9,7 +9,7 @@ Link: https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-com
 ## Metadata
 - Author: 
 - Full Title: 8 Ways to Free Up RAM on Your Windows Computer
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/
 
 ## Highlights

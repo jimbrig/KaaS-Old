@@ -9,7 +9,7 @@ Link: https://jamesaltucher.com/blog/how-to-be-mentally-strong/
 ## Metadata
 - Author: 
 - Full Title: How to Be Mentally Strong - James Altucher
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://jamesaltucher.com/blog/how-to-be-mentally-strong/
 
 ## Highlights

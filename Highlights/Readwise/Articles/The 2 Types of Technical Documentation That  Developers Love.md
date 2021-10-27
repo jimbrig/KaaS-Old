@@ -9,7 +9,7 @@ Link: https://medium.com/p/c07db236b367
 ## Metadata
 - Author: [[Dmytro Khmelenko]]
 - Full Title: The 2 Types of Technical Documentation That  Developers Love
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/c07db236b367
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://thesephist.com/posts/programming-environment/
 ## Metadata
 - Author: 
 - Full Title: It's the Programming Environment, Not the Programming Language | thesephist.com
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://thesephist.com/posts/programming-environment/
 
 ## Highlights

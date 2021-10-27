@@ -9,7 +9,7 @@ Link: https://mobydiction.ca/blog/my-personal-knowledge-management-system
 ## Metadata
 - Author: [[mobydiction.ca]]
 - Full Title: My Personal Knowledge Management System — Moby Diction
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://mobydiction.ca/blog/my-personal-knowledge-management-system
 
 ## Highlights

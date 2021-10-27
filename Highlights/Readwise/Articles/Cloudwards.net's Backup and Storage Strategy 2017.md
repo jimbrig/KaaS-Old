@@ -9,7 +9,7 @@ Link: https://www.cloudwards.net/backup-storage-strategy-2017/
 ## Metadata
 - Author: [[Mauricio Prinzlau]]
 - Full Title: Cloudwards.net's Backup and Storage Strategy 2017
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.cloudwards.net/backup-storage-strategy-2017/
 
 ## Highlights

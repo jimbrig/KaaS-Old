@@ -9,7 +9,7 @@ Link: https://www.airr.io/episode/6006b12697881f08a112da92
 ## Metadata
 - Author: [[The Knowledge Project with Shane Parrish]]
 - Full Title: #101 Jane McGonigal: The Psychology of Gaming
-- Category: #podcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/6006b12697881f08a112da92
 
 ## Highlights

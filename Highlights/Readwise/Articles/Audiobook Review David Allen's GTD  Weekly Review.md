@@ -9,7 +9,7 @@ Link: https://www.lifehack.org/articles/featured/audiobook-review-david-allens-g
 ## Metadata
 - Author: [[lifehack.org]]
 - Full Title: Audiobook Review: David Allen's "GTD > Weekly Review"
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.lifehack.org/articles/featured/audiobook-review-david-allens-gtd-weekly-review.html
 
 ## Highlights

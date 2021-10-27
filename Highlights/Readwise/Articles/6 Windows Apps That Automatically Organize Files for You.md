@@ -9,7 +9,7 @@ Link: https://www.makeuseof.com/tag/automatically-organize-files-windows/
 ## Metadata
 - Author: 
 - Full Title: 6 Windows Apps That Automatically Organize Files for You
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.makeuseof.com/tag/automatically-organize-files-windows/
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://baucemag.com/get-more-things-done-with-the-weekly-review-dan-allen
 ## Metadata
 - Author: [[Bauce Media Partner]]
 - Full Title: The 'Weekly Review' Method Will Help You Get Things Done
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://baucemag.com/get-more-things-done-with-the-weekly-review-dan-allen/
 
 ## Highlights

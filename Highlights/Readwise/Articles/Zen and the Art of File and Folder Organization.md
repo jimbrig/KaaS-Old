@@ -9,7 +9,7 @@ Link: https://www.howtogeek.com/howto/15677/zen-and-the-art-of-file-and-folder-o
 ## Metadata
 - Author: [[Mark Virtue]]
 - Full Title: Zen and the Art of File and Folder Organization
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.howtogeek.com/howto/15677/zen-and-the-art-of-file-and-folder-organization/
 
 ## Highlights

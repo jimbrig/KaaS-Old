@@ -9,7 +9,7 @@ Link: https://joebuhlig.com/getting-things-done-clarify/
 ## Metadata
 - Author: [[joebuhlig.com]]
 - Full Title: Getting Things Done: Clarify
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://joebuhlig.com/getting-things-done-clarify/
 
 ## Highlights

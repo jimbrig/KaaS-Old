@@ -9,7 +9,7 @@ Link: https://ferd.ca/complexity-has-to-live-somewhere.html
 ## Metadata
 - Author: [[ferd.ca]]
 - Full Title: Complexity Has to Live Somewhere
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://ferd.ca/complexity-has-to-live-somewhere.html
 
 ## Highlights

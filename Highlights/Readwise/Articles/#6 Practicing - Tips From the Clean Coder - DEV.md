@@ -9,7 +9,7 @@ Link: https://dev.to/yurishenrique/6-practicing-tips-from-the-clean-coder-18cf
 ## Metadata
 - Author: 
 - Full Title: #6 Practicing - Tips From the Clean Coder - DEV
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://dev.to/yurishenrique/6-practicing-tips-from-the-clean-coder-18cf
 
 ## Highlights

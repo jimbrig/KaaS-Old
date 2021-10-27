@@ -9,7 +9,7 @@ Link: https://foolishlycreative.com/5-pitfalls-of-being-an-information-hoarder/
 ## Metadata
 - Author: 
 - Full Title: 5 Pitfalls of Being an Information Hoarder | Foolishly Creative
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://foolishlycreative.com/5-pitfalls-of-being-an-information-hoarder/
 
 ## Highlights

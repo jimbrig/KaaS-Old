@@ -9,7 +9,7 @@ Link: https://eranraviv.com/r-tips-tricks-utilities/
 ## Metadata
 - Author: 
 - Full Title: R Tips and Tricks – Utilities
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://eranraviv.com/r-tips-tricks-utilities/
 
 ## Highlights

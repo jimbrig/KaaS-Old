@@ -9,7 +9,7 @@ Link: https://medium.com/the-data-experience/building-a-data-pipeline-from-scrat
 ## Metadata
 - Author: [[Alan Marazzi]]
 - Full Title: Building a Data Pipeline From Scratch - The Data Experience - Medium
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/the-data-experience/building-a-data-pipeline-from-scratch-32b712cfb1db
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://hbr.org/2011/05/managing-yourself-extreme-productivity
 ## Metadata
 - Author: [[hbr.org]]
 - Full Title: Managing Yourself: Extreme Productivity
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://hbr.org/2011/05/managing-yourself-extreme-productivity
 
 ## Highlights

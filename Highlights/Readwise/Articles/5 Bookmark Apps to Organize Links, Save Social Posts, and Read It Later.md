@@ -9,7 +9,7 @@ Link: https://www.makeuseof.com/tag/bookmark-apps-organize-links-save-social-pos
 ## Metadata
 - Author: 
 - Full Title: 5 Bookmark Apps to Organize Links, Save Social Posts, and Read It Later
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.makeuseof.com/tag/bookmark-apps-organize-links-save-social-posts-read-later/
 
 ## Highlights

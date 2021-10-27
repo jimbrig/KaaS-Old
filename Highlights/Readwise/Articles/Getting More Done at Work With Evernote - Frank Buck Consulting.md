@@ -9,7 +9,7 @@ Link: https://www.frankbuck.org/getting-more-done/
 ## Metadata
 - Author: 
 - Full Title: Getting More Done at Work With Evernote - Frank Buck Consulting
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.frankbuck.org/getting-more-done/
 
 ## Highlights

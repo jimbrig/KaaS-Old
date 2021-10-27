@@ -9,7 +9,7 @@ Link: https://superorganizers.substack.com/p/the-notetaking-cold-war
 ## Metadata
 - Author: [[Dan Shipper]]
 - Full Title: The Notetaking Cold War
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://superorganizers.substack.com/p/the-notetaking-cold-war
 
 ## Highlights

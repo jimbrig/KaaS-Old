@@ -1,6 +1,6 @@
 - **URL:** https://medium.com/p/b06748b7761a
 - **Author:** Mikhail Klassen
-- **Tags:** #Type/Article
+- **Tags:** #Type/Source/Article
 - **Date:** [2021-05-13](../_daily/2021-05-13.md)
 ---
 

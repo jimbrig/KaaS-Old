@@ -9,7 +9,7 @@ Link: https://support.microsoft.com/en-us/office/best-practices-for-outlook-f90e
 ## Metadata
 - Author: 
 - Full Title: Best Practices for Outlook
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://support.microsoft.com/en-us/office/best-practices-for-outlook-f90e5f69-8832-4d89-95b3-bfdf76c82ef8
 
 ## Highlights

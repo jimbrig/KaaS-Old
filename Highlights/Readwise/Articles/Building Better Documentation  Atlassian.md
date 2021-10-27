@@ -9,7 +9,7 @@ Link: https://www.atlassian.com/software/confluence/documentation
 ## Metadata
 - Author: 
 - Full Title: Building Better Documentation | Atlassian
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.atlassian.com/software/confluence/documentation
 
 ## Highlights

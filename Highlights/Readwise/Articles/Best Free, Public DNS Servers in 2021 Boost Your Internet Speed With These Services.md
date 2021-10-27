@@ -9,7 +9,7 @@ Link: https://www.techradar.com/news/best-dns-server
 ## Metadata
 - Author: [[Mike Williams]]
 - Full Title: Best Free, Public DNS Servers in 2021: Boost Your Internet Speed With These Services
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.techradar.com/news/best-dns-server
 
 ## Highlights

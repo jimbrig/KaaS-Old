@@ -9,7 +9,7 @@ Link: https://www.redeemingproductivity.com/markdown/
 ## Metadata
 - Author: [[redeemingproductivity.com]]
 - Full Title: How to Organize Your Writing With Markdown - Redeeming Productivity
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.redeemingproductivity.com/markdown/
 
 ## Highlights

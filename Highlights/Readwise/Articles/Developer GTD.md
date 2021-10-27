@@ -9,7 +9,7 @@ Link: https://helpercode.com/2009/06/21/developer-gtd/
 ## Metadata
 - Author: [[Dror Helper]]
 - Full Title: Developer GTD
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://helpercode.com/2009/06/21/developer-gtd/
 
 ## Highlights

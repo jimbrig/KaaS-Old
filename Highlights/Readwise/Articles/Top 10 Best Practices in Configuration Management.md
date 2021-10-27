@@ -9,7 +9,7 @@ Link: https://www.cmcrossroads.com/article/top-10-best-practices-configuration-m
 ## Metadata
 - Author: [[cmcrossroads.com]]
 - Full Title: Top 10 Best Practices in Configuration Management
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.cmcrossroads.com/article/top-10-best-practices-configuration-management
 
 ## Highlights

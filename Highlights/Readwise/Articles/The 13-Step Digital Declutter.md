@@ -9,7 +9,7 @@ Link: http://www.theguardian.com/technology/2017/jul/30/13-step-digital-declutte
 ## Metadata
 - Author: [[Darien Graham-Smith]]
 - Full Title: The 13-Step Digital Declutter
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: http://www.theguardian.com/technology/2017/jul/30/13-step-digital-declutter-clean-up-online
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://www.carlpullein.com/blog/how-to-do-a-weekly-planning-session/18/11
 ## Metadata
 - Author: [[Carl Pullein]]
 - Full Title: How to Do a Weekly Planning Session.
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.carlpullein.com/blog/how-to-do-a-weekly-planning-session/18/11/2020-1
 
 ## Highlights

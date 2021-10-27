@@ -9,7 +9,7 @@ Link: https://www.makeuseof.com/tag/declutter-data-no-regrets/
 ## Metadata
 - Author: 
 - Full Title: How to Declutter Your Data With No Regrets
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.makeuseof.com/tag/declutter-data-no-regrets/
 
 ## Highlights

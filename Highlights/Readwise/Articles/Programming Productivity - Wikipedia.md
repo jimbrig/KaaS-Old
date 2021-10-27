@@ -9,7 +9,7 @@ Link: https://en.wikipedia.org/wiki/Programming_productivity
 ## Metadata
 - Author: 
 - Full Title: Programming Productivity - Wikipedia
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://en.wikipedia.org/wiki/Programming_productivity
 
 ## Highlights

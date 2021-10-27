@@ -9,7 +9,7 @@ Link: http://jianghao.wang/post/2017-12-08-rmarkdown-templates/
 ## Metadata
 - Author: [[Jianghao Wang]]
 - Full Title: Templates for R Markdown | Jianghao
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: http://jianghao.wang/post/2017-12-08-rmarkdown-templates/
 
 ## Highlights

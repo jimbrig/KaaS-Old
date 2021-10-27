@@ -9,7 +9,7 @@ Link: https://mdneuzerling.com/post/what-ive-learnt-about-making-an-r-package/
 ## Metadata
 - Author: 
 - Full Title: What I've Learnt About Making an R Package
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://mdneuzerling.com/post/what-ive-learnt-about-making-an-r-package/
 
 ## Highlights

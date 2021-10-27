@@ -9,7 +9,7 @@ Link: https://www.developgoodhabits.com/todoist-tutorial/
 ## Metadata
 - Author: [[developgoodhabits.com]]
 - Full Title: How to Use Todoist Tutorial
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.developgoodhabits.com/todoist-tutorial/
 
 ## Highlights

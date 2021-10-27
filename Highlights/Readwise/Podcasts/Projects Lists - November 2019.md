@@ -9,7 +9,7 @@ Link: https://www.airr.io/episode/60177110dd6600f5640c1865
 ## Metadata
 - Author: [[GTD|Connect Members-Only Podcasts]]
 - Full Title: Projects Lists - November 2019
-- Category: #podcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/60177110dd6600f5640c1865
 
 ## Highlights

@@ -4,7 +4,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Alias: ['<% tp.date.now("YYYY-[Q]Q") %>']
 ---
 
-Type: #Type/Quarterly
+Type: #Type/Temporal/Quarterly
 
 # <% tp.date.now("YYYY-[Q]Q") %>
 

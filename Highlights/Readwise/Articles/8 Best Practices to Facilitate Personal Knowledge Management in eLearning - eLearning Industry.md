@@ -9,7 +9,7 @@ Link: https://elearningindustry.com/best-practices-facilitate-personal-knowledge
 ## Metadata
 - Author: [[Christopher Pappas]]
 - Full Title: 8 Best Practices to Facilitate Personal Knowledge Management in eLearning - eLearning Industry
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://elearningindustry.com/best-practices-facilitate-personal-knowledge-management-elearning
 
 ## Highlights

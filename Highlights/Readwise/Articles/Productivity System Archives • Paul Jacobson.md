@@ -9,7 +9,7 @@ Link: https://pauljacobson.me/tag/productivity-system/
 ## Metadata
 - Author: [[pauljacobson.me]]
 - Full Title: Productivity System Archives • Paul Jacobson
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://pauljacobson.me/tag/productivity-system/
 
 ## Highlights

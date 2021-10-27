@@ -9,7 +9,7 @@ Link: https://csgillespie.github.io/efficientR/
 ## Metadata
 - Author: 
 - Full Title: 4 Efficient Workflow | Efficient R Programming
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://csgillespie.github.io/efficientR/
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://medium.com/p/4405154f0ae7
 ## Metadata
 - Author: [[Arturo Ríos]]
 - Full Title: One Productivity System to Rule Them All
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/4405154f0ae7
 
 ## Highlights

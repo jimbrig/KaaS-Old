@@ -9,7 +9,7 @@ Link: https://medium.com/p/355332ae5991
 ## Metadata
 - Author: [[Axton]]
 - Full Title: How to Build an Efficient Personal Knowledge Management System
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/355332ae5991
 
 ## Highlights

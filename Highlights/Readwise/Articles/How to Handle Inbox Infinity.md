@@ -9,7 +9,7 @@ Link: http://rtalbert.org/how-to-handle-inbox-infinity/
 ## Metadata
 - Author: [[Robert Talbert]]
 - Full Title: How to Handle Inbox Infinity
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: http://rtalbert.org/how-to-handle-inbox-infinity/
 
 ## Highlights

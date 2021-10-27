@@ -9,7 +9,7 @@ Link: https://zenhabits.net/inbox-master-get-all-your-inboxes-to-zero-and-have-f
 ## Metadata
 - Author: 
 - Full Title: Inbox Master: Get All Your Inboxes to Zero, and Have Fewer Inboxes : Zen Habits
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://zenhabits.net/inbox-master-get-all-your-inboxes-to-zero-and-have-fewer-inboxes/
 
 ## Highlights

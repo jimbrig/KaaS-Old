@@ -9,7 +9,7 @@ Link: https://dev.to/strio/kubernetes-explained-to-product-managers-4b1a
 ## Metadata
 - Author: [[dev.to]]
 - Full Title: Kubernetes Explained to Product Managers
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://dev.to/strio/kubernetes-explained-to-product-managers-4b1a
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://devblogs.microsoft.com/commandline/a-preview-of-wsl-in-the-microso
 ## Metadata
 - Author: [[devblogs.microsoft.com]]
 - Full Title: A Preview of WSL in the Microsoft Store Is Now Available!
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://devblogs.microsoft.com/commandline/a-preview-of-wsl-in-the-microsoft-store-is-now-available/
 
 ## Highlights

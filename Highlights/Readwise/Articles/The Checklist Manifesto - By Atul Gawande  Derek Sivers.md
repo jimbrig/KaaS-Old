@@ -9,7 +9,7 @@ Link: https://sivers.org/book/ChecklistManifesto
 ## Metadata
 - Author: [[sivers.org]]
 - Full Title: The Checklist Manifesto - By Atul Gawande | Derek Sivers
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://sivers.org/book/ChecklistManifesto
 
 ## Highlights

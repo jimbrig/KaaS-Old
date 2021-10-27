@@ -9,7 +9,7 @@ Link: https://stackoverflow.com/questions/39281266/use-internal-links-in-rmarkdo
 ## Metadata
 - Author: 
 - Full Title: Rstudio - Use Internal Links in RMarkdown HTML Output - Stack Overflow
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://stackoverflow.com/questions/39281266/use-internal-links-in-rmarkdown-html-output
 
 ## Highlights

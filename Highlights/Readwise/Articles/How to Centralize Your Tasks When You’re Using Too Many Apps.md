@@ -9,7 +9,7 @@ Link: https://doist.com/blog/integrate-todoist-apps/
 ## Metadata
 - Author: [[Denise Rebollido]]
 - Full Title: How to Centralize Your Tasks When You’re Using Too Many Apps
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://doist.com/blog/integrate-todoist-apps/
 
 ## Highlights

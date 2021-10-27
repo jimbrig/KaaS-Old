@@ -9,7 +9,7 @@ Link: https://medium.com/p/d2a51d80a9d9
 ## Metadata
 - Author: [[Jaleel & Nicole]]
 - Full Title: 5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/d2a51d80a9d9
 
 ## Highlights

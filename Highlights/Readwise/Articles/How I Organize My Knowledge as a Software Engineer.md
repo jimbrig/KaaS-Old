@@ -9,7 +9,7 @@ Link: https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer
 ## Metadata
 - Author: [[Bruno Paz]]
 - Full Title: How I Organize My Knowledge as a Software Engineer
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 
 ## Highlights

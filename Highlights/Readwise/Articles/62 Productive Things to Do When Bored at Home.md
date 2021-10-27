@@ -9,7 +9,7 @@ Link: https://quickbooost.com/productive-things-to-do-when-bored/
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: 62 Productive Things to Do When Bored at Home
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://quickbooost.com/productive-things-to-do-when-bored/
 
 ## Highlights

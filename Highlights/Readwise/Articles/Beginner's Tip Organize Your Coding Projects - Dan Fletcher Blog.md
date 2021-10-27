@@ -9,7 +9,7 @@ Link: http://www.danfletcherblog.ca/2017/01/beginners-tip-organize-coding-projec
 ## Metadata
 - Author: [[danfletcherblog.ca]]
 - Full Title: Beginner's Tip: Organize Your Coding Projects - Dan Fletcher Blog
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: http://www.danfletcherblog.ca/2017/01/beginners-tip-organize-coding-projects/
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://medium.com/p/631e1138f6b3
 ## Metadata
 - Author: [[Ron Sielinski]]
 - Full Title: The Role of Data Scientist: A Back-Of-The-Envelope Model
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/631e1138f6b3
 
 ## Highlights

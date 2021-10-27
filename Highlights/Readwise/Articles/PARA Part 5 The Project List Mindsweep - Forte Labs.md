@@ -9,7 +9,7 @@ Link: https://fortelabs.co/blog/p-a-r-a-v-the-project-list-mindsweep/
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: PARA Part 5: The Project List Mindsweep - Forte Labs
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://fortelabs.co/blog/p-a-r-a-v-the-project-list-mindsweep/
 
 ## Highlights

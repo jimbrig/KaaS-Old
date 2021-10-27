@@ -1,6 +1,6 @@
 - **URL:** https://medium.com/p/9d4b176bd5ec
 - **Author:** Kevin Lin
-- **Tags:** #Type/Article
+- **Tags:** #Type/Source/Article
 - **Date:** [2021-05-13](../_daily/2021-05-13.md)
 ---
 

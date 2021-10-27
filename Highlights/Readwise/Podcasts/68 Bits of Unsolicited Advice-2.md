@@ -9,7 +9,7 @@ Link: https://www.airr.io/episode/5ecad6cdbd1f2ba3d8f40197
 ## Metadata
 - Author: [[Not Overthinking]]
 - Full Title: 68 Bits of Unsolicited Advice
-- Category: #podcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5ecad6cdbd1f2ba3d8f40197
 
 ## Highlights

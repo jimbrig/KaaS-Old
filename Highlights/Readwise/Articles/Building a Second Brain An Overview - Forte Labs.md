@@ -9,7 +9,7 @@ Link: https://fortelabs.co/blog/basboverview/
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: Building a Second Brain: An Overview - Forte Labs
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://fortelabs.co/blog/basboverview/
 
 ## Highlights

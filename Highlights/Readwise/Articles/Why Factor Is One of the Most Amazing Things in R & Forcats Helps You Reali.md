@@ -9,7 +9,7 @@ Link: https://blog.exploratory.io/why-factor-is-one-of-the-most-amazing-things-i
 ## Metadata
 - Author: [[Kan Nishida]]
 - Full Title: Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://blog.exploratory.io/why-factor-is-one-of-the-most-amazing-things-in-r-e967fe27d292
 
 ## Highlights

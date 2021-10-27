@@ -9,7 +9,7 @@ Link: http://robertmylesmcdonnell.com
 ## Metadata
 - Author: [[robertmylesmcdonnell.com]]
 - Full Title: Robert Myles McDonnell
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: http://robertmylesmcdonnell.com
 
 ## Highlights

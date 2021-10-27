@@ -9,7 +9,7 @@ Link: https://www.carlpullein.com/blog/why-organising-you-to-dos-by-project-does
 ## Metadata
 - Author: [[Carl Pullein]]
 - Full Title: Why Organising Your To-Dos by Project Does Not Work.
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.carlpullein.com/blog/why-organising-you-to-dos-by-project-does-not-work/19/2/2020
 
 ## Highlights

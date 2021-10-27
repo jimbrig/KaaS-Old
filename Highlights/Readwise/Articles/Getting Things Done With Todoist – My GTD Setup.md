@@ -9,7 +9,7 @@ Link: https://nebulous.wordpress.com/2014/12/11/getting-things-done-with-todoist
 ## Metadata
 - Author: 
 - Full Title: Getting Things Done With Todoist – My GTD Setup
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://nebulous.wordpress.com/2014/12/11/getting-things-done-with-todoist/
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: http://shiporgetoffthepot.com/how-to-make-your-developer-onboarding-proces
 ## Metadata
 - Author: [[Matt]]
 - Full Title: How to Make Your Developer On-Boarding Process Idiot Proof
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: http://shiporgetoffthepot.com/how-to-make-your-developer-onboarding-process-idiot-proofresistant/
 
 ## Highlights

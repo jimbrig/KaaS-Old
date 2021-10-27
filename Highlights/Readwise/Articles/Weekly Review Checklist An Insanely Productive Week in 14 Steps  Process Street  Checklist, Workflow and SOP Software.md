@@ -9,7 +9,7 @@ Link: https://www.process.st/weekly-review/
 ## Metadata
 - Author: 
 - Full Title: Weekly Review Checklist: An Insanely Productive Week in 14 Steps | Process Street | Checklist, Workflow and SOP Software
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.process.st/weekly-review/
 
 ## Highlights

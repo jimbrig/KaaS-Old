@@ -9,7 +9,7 @@ Link: https://medium.com/p/86651962bc99
 ## Metadata
 - Author: [[Mitesh]]
 - Full Title: Architecture for a Startup
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/86651962bc99
 
 ## Highlights

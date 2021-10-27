@@ -9,7 +9,7 @@ Link: https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
 ## Metadata
 - Author: 
 - Full Title: How to Create a GitHub Profile README
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
 
 ## Highlights

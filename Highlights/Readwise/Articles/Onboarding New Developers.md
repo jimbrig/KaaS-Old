@@ -9,7 +9,7 @@ Link: https://dev.to/codemouse92/onboarding-new-developers
 ## Metadata
 - Author: 
 - Full Title: Onboarding New Developers
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://dev.to/codemouse92/onboarding-new-developers
 
 ## Highlights

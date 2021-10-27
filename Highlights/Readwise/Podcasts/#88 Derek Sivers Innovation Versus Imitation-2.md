@@ -9,7 +9,7 @@ Link: https://www.airr.io/episode/5f171edb00ecbc05747284f7
 ## Metadata
 - Author: [[The Knowledge Project with Shane Parrish]]
 - Full Title: #88 Derek Sivers: Innovation Versus Imitation
-- Category: #podcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5f171edb00ecbc05747284f7
 
 ## Highlights

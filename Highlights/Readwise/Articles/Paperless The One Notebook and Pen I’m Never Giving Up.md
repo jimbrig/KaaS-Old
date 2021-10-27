@@ -9,7 +9,7 @@ Link: https://medium.com/p/9537b2a7cd72
 ## Metadata
 - Author: [[Ellane W]]
 - Full Title: Paperless: The One Notebook and Pen I’m Never Giving Up
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/9537b2a7cd72
 
 ## Highlights

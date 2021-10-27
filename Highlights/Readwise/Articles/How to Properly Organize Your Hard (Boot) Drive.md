@@ -9,7 +9,7 @@ Link: https://bestlaptopsworld.com/hdd-organization-101/
 ## Metadata
 - Author: 
 - Full Title: How to Properly Organize Your Hard (Boot) Drive
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://bestlaptopsworld.com/hdd-organization-101/
 
 ## Highlights

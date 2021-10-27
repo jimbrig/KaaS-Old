@@ -9,7 +9,7 @@ Link:
 ## Metadata
 - Author: [[John Scott]]
 - Full Title: Evernote
-- Category: #books
+- Category: #Type/Highlights/Books
 
 ## Highlights
 - You can use your Evernote email address to subscribe to newsletters. ([Location 851](https://readwise.io/to_kindle?action=open&asin=B00URRJNXQ&location=851))

@@ -9,7 +9,7 @@ Link: https://www.airr.io/episode/5f9a8f3f960a543cc5fb5ba6
 ## Metadata
 - Author: [[TRAINED]]
 - Full Title: Laurie Santos, PhD | Simple Ways to Live a Happier Life
-- Category: #podcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5f9a8f3f960a543cc5fb5ba6
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://guides.lib.berkeley.edu/c.php?g=652220&p=4575532
 ## Metadata
 - Author: [[Anna Sackmann]]
 - Full Title: Managing Your Project - How to Make Your Research Reproducible - Library Gu
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://guides.lib.berkeley.edu/c.php?g=652220&p=4575532
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://medium.com/@nikitavoloboev/project-based-learning-e511641869ca
 ## Metadata
 - Author: [[Nikita Voloboev]]
 - Full Title: Project Based Learning
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/@nikitavoloboev/project-based-learning-e511641869ca
 
 ## Highlights

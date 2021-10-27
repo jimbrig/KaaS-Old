@@ -9,7 +9,7 @@ Link: https://www.airr.io/episode/5f3e8320b0b93235d1c8a3d2
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Habit Tune-Up: Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job
-- Category: #podcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5f3e8320b0b93235d1c8a3d2
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://dallisonlee.com/organize-your-digital-life/
 ## Metadata
 - Author: [[Deb Lee]]
 - Full Title: Digital Life in Disarray? Use These 6 Steps to Get Organized.
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://dallisonlee.com/organize-your-digital-life/
 
 ## Highlights

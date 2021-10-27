@@ -9,7 +9,7 @@ Link: https://medium.com/p/dfd2b9351ef4
 ## Metadata
 - Author: [[Mohit Malhotra]]
 - Full Title: Everything About Software Architecture
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/dfd2b9351ef4
 
 ## Highlights

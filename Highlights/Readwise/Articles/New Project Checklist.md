@@ -9,7 +9,7 @@ Link: https://amihaiemil.com/2019/05/12/new-project-checklist.html
 ## Metadata
 - Author: 
 - Full Title: New Project Checklist
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://amihaiemil.com/2019/05/12/new-project-checklist.html
 
 ## Highlights

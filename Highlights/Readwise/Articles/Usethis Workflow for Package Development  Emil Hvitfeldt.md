@@ -9,7 +9,7 @@ Link: https://www.hvitfeldt.me/blog/usethis-workflow-for-package-development/
 ## Metadata
 - Author: 
 - Full Title: Usethis Workflow for Package Development | Emil Hvitfeldt
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.hvitfeldt.me/blog/usethis-workflow-for-package-development/
 
 ## Highlights

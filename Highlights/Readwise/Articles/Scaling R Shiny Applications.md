@@ -9,7 +9,7 @@ Link: https://medium.com/p/b32d56b24f03
 ## Metadata
 - Author: [[Siva Anne]]
 - Full Title: Scaling R Shiny Applications:
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/b32d56b24f03
 
 ## Highlights

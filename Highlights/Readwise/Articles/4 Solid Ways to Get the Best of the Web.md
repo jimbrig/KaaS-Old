@@ -9,7 +9,7 @@ Link: https://www.makeuseof.com/tag/4-solid-ways-get-best-web/
 ## Metadata
 - Author: 
 - Full Title: 4 Solid Ways to Get the Best of the Web
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.makeuseof.com/tag/4-solid-ways-get-best-web/
 
 ## Highlights

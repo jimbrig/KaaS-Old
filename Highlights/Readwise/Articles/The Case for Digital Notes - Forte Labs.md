@@ -9,7 +9,7 @@ Link: https://fortelabs.co/blog/the-case-for-digital-notes/
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: The Case for Digital Notes - Forte Labs
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://fortelabs.co/blog/the-case-for-digital-notes/
 
 ## Highlights

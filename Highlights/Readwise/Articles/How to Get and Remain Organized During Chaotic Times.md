@@ -9,7 +9,7 @@ Link: https://feedly.com/i/entry/UlwJt8pnKTUukHWHOFLyI5WIpgdbpI6aiTOWI99pQ0w=_17
 ## Metadata
 - Author: [[Molly Stovold]]
 - Full Title: How to Get and Remain Organized During Chaotic Times
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://feedly.com/i/entry/UlwJt8pnKTUukHWHOFLyI5WIpgdbpI6aiTOWI99pQ0w=_176656f83b6:7acda:c0c31fea
 
 ## Highlights

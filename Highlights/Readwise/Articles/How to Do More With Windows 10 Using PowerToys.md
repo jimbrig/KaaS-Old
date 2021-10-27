@@ -9,7 +9,7 @@ Link: https://www.makeuseof.com/tag/windows-10-powertoys/
 ## Metadata
 - Author: 
 - Full Title: How to Do More With Windows 10 Using PowerToys
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.makeuseof.com/tag/windows-10-powertoys/
 
 ## Highlights

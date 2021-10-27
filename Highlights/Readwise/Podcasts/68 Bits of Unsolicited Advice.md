@@ -9,7 +9,7 @@ Link: https://chtbl.com/track/99553/media.transistor.fm/cf22f16f.mp3
 ## Metadata
 - Author: [[Not Overthinking]]
 - Full Title: 68 Bits of Unsolicited Advice
-- Category: #podcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://chtbl.com/track/99553/media.transistor.fm/cf22f16f.mp3
 
 ## Highlights

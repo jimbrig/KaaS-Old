@@ -9,7 +9,7 @@ Link: https://quickbooost.com/essential-time-management-strategies/
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: Powerful Time Management Strategies to Do More With Your Day
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://quickbooost.com/essential-time-management-strategies/
 
 ## Highlights

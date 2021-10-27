@@ -6,13 +6,14 @@ Alias: Collectors Do Not Make Progress
 
 Source Type: Varies
 Category: #Category/PKM
+Status: #Status/Permanent
 
 # Collectors Do Not Make Progress
 
 *Sources: 
-	- [The Collector’s Fallacy](https://zettelkasten.de/posts/collectors-fallacy/) #Type/Article 
-	- [Adventures in The Skinner Box (YouTube Video)](https://youtu.be/CtoH5tlr-bI) #Type/Video
-	- [How to Write a Thesis](https://www.amazon.com/How-Write-Thesis-MIT-Press/dp/0262527138/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=ctzettelkasten-20&linkId=74f6517a8c4df9f357cf9781972b7fb1&language=en_US) #Type/Book*
+	- [The Collector’s Fallacy](https://zettelkasten.de/posts/collectors-fallacy/) #Type/Source/Article 
+	- [Adventures in The Skinner Box (YouTube Video)](https://youtu.be/CtoH5tlr-bI) #Type/Source/Video
+	- [How to Write a Thesis](https://www.amazon.com/How-Write-Thesis-MIT-Press/dp/0262527138/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=ctzettelkasten-20&linkId=74f6517a8c4df9f357cf9781972b7fb1&language=en_US) #Type/Source/Book*
 
 ![](https://zettelkasten.de/img/blog/201401202212_messy-desk.jpg)
 

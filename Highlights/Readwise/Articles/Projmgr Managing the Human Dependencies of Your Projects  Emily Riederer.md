@@ -9,7 +9,7 @@ Link: https://emilyriederer.netlify.app/post/projmgr/
 ## Metadata
 - Author: [[Emily Riederer]]
 - Full Title: Projmgr: Managing the Human Dependencies of Your Projects | Emily Riederer
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://emilyriederer.netlify.app/post/projmgr/
 
 ## Highlights

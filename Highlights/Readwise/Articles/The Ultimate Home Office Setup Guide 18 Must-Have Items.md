@@ -9,7 +9,7 @@ Link: https://www.developgoodhabits.com/home-office-setup/
 ## Metadata
 - Author: 
 - Full Title: The Ultimate Home Office Setup Guide: 18 Must-Have Items
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.developgoodhabits.com/home-office-setup/
 
 ## Highlights

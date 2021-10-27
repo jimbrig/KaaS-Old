@@ -9,7 +9,7 @@ Link: https://www.makeuseof.com/tag/clean-windows-ultimate-checklist/
 ## Metadata
 - Author: 
 - Full Title: How to Clean Your Windows Computer: The Ultimate Checklist
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.makeuseof.com/tag/clean-windows-ultimate-checklist/
 
 ## Highlights

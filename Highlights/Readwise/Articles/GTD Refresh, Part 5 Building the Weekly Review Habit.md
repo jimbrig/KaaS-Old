@@ -9,7 +9,7 @@ Link: https://www.lifehack.org/articles/featured/gtd-refresh-part-5-building-the
 ## Metadata
 - Author: [[lifehack.org]]
 - Full Title: GTD Refresh, Part 5: Building the Weekly Review Habit
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.lifehack.org/articles/featured/gtd-refresh-part-5-building-the-weekly-review-habit.html
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://medium.com/p/2f2c9f9fcdbf
 ## Metadata
 - Author: [[Tanmay Deshpande]]
 - Full Title: RESTful API Design — Step by Step Guide
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/2f2c9f9fcdbf
 
 ## Highlights

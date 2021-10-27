@@ -9,7 +9,7 @@ Link: https://medium.com/p/9d4b176bd5ec
 ## Metadata
 - Author: [[Kevin Lin]]
 - Full Title: A Hierarchy First Approach to Note Taking
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/9d4b176bd5ec
 
 ## Highlights

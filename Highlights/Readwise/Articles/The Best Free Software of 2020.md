@@ -9,7 +9,7 @@ Link: https://www.pcmag.com/news/best-free-software
 ## Metadata
 - Author: 
 - Full Title: The Best Free Software of 2020
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.pcmag.com/news/best-free-software
 
 ## Highlights

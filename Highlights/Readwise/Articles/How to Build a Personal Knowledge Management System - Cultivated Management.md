@@ -9,7 +9,7 @@ Link: https://cultivatedmanagement.com/personal-knowledge-management-system/
 ## Metadata
 - Author: [[cultivatedmanagement.com]]
 - Full Title: How to Build a Personal Knowledge Management System - Cultivated Management
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://cultivatedmanagement.com/personal-knowledge-management-system/
 
 ## Highlights

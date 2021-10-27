@@ -9,7 +9,7 @@ Link: https://updater.com/moving-tips/last-minute-moving-tips/
 ## Metadata
 - Author: [[updater.com]]
 - Full Title: Last-Minute Moving Tips: How to Pack in a Pinch - Updater
-- Category: #articles
+- Category: #Type/Highlights/Article
 - Document Tags: [[Liked]] 
 - URL: https://updater.com/moving-tips/last-minute-moving-tips/
 

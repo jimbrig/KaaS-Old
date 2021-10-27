@@ -9,7 +9,7 @@ Link: https://grantammons.me/2017/11/26/efficiently-managing-dotfiles/
 ## Metadata
 - Author: 
 - Full Title: Grant Ammons - How to Efficiently Manage Your Dotfiles
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://grantammons.me/2017/11/26/efficiently-managing-dotfiles/
 
 ## Highlights

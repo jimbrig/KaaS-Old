@@ -9,7 +9,7 @@ Link: http://www.nickmilton.com/2014/07/whats-unique-about-knowledge-management.
 ## Metadata
 - Author: 
 - Full Title: Knoco Stories: What's Unique About Knowledge Management?
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: http://www.nickmilton.com/2014/07/whats-unique-about-knowledge-management.html
 
 ## Highlights

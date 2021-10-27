@@ -9,7 +9,7 @@ Link: https://medium.com/p/d51e2dcdfa57
 ## Metadata
 - Author: [[John Zeratsky]]
 - Full Title: How to Use Your Calendar to Make Every Day Your Ideal Day
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/d51e2dcdfa57
 
 ## Highlights

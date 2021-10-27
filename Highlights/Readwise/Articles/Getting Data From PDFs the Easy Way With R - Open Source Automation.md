@@ -9,7 +9,7 @@ Link: http://theautomatic.net/2018/08/24/getting-data-from-pdfs-the-easy-way-wit
 ## Metadata
 - Author: 
 - Full Title: Getting Data From PDFs the Easy Way With R - Open Source Automation
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: http://theautomatic.net/2018/08/24/getting-data-from-pdfs-the-easy-way-with-r/
 
 ## Highlights

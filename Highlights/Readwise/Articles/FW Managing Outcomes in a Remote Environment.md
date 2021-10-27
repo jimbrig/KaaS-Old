@@ -9,7 +9,7 @@ Link:
 ## Metadata
 - Author: 
 - Full Title: FW: Managing Outcomes in a Remote Environment
-- Category: #articles
+- Category: #Type/Highlights/Article
 
 ## Highlights
 - Manage Outcomes, Not Activities

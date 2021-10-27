@@ -9,7 +9,7 @@ Link: https://www.zettlr.com/post/what-is-a-zettelkasten
 ## Metadata
 - Author: 
 - Full Title: "Wtf Is a Zettelkasten?" | Zettlr
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.zettlr.com/post/what-is-a-zettelkasten
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://learning.linkedin.com/blog/working-together/why--ongoing--is-the-w
 ## Metadata
 - Author: 
 - Full Title: Why "Ongoing" Is the Worst Word in the History of Project Management
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://learning.linkedin.com/blog/working-together/why--ongoing--is-the-worst-word-in-the-history-of-project-manage
 
 ## Highlights

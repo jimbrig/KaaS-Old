@@ -9,7 +9,7 @@ Link: https://robatwilliams.github.io/decent-code/
 ## Metadata
 - Author: 
 - Full Title: Decent-Code
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://robatwilliams.github.io/decent-code/
 
 ## Highlights

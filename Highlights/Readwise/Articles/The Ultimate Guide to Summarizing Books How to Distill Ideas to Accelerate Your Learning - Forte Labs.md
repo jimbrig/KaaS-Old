@@ -9,7 +9,7 @@ Link: https://fortelabs.co/blog/the-ultimate-guide-to-summarizing-books/
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: The Ultimate Guide to Summarizing Books: How to Distill Ideas to Accelerate Your Learning - Forte Labs
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://fortelabs.co/blog/the-ultimate-guide-to-summarizing-books/
 
 ## Highlights

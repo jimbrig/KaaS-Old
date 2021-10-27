@@ -9,7 +9,7 @@ Link: http://gtd-tools.com/
 ## Metadata
 - Author: 
 - Full Title: Best GTD Tools and Productivity Software Tips. Life Improvement With GTD (Getting Things Done).
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: http://gtd-tools.com/
 
 ## Highlights

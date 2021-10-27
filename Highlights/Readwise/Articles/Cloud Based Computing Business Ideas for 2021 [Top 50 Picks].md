@@ -9,7 +9,7 @@ Link: https://www.profitableventure.com/cloud-computing-based-business-ideas/
 ## Metadata
 - Author: [[profitableventure.com]]
 - Full Title: Cloud Based Computing Business Ideas for 2021 [Top 50 Picks]
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.profitableventure.com/cloud-computing-based-business-ideas/
 
 ## Highlights

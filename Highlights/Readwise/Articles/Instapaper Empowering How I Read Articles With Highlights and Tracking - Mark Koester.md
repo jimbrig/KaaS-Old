@@ -9,7 +9,7 @@ Link: http://www.markwk.com/article-tracking-with-instapaper.html
 ## Metadata
 - Author: [[Mark Koester]]
 - Full Title: Instapaper: Empowering How I Read Articles With Highlights and Tracking - Mark Koester
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: http://www.markwk.com/article-tracking-with-instapaper.html
 
 ## Highlights

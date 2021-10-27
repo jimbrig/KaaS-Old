@@ -9,7 +9,7 @@ Link: https://becomeawritertoday.com/weekly-review/
 ## Metadata
 - Author: [[becomeawritertoday.com]]
 - Full Title: How to Do a Weekly Review: Step-By-Step
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://becomeawritertoday.com/weekly-review/
 
 ## Highlights

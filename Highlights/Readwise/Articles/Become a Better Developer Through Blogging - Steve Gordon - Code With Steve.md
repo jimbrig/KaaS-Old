@@ -9,7 +9,7 @@ Link: https://www.stevejgordon.co.uk/become-a-better-developer-through-blogging-
 ## Metadata
 - Author: [[stevejgordon.co.uk]]
 - Full Title: Become a Better Developer Through Blogging - Steve Gordon - Code With Steve
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.stevejgordon.co.uk/become-a-better-developer-through-blogging-part-1
 
 ## Highlights

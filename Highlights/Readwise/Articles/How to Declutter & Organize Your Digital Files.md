@@ -9,7 +9,7 @@ Link: https://theblissfulmind.com/organize-your-digital-files/
 ## Metadata
 - Author: [[theblissfulmind.com]]
 - Full Title: How to Declutter & Organize Your Digital Files
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://theblissfulmind.com/organize-your-digital-files/
 
 ## Highlights

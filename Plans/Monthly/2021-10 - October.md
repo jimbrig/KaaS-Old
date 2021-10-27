@@ -4,7 +4,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Alias: ['2021-10']
 ---
 
-Type: #Type/Monthly
+Type: #Type/Temporal/Monthly
 
 << [[2021-09 - September|September, 2021]] | [[2021-11 - November|November, 2021]] >>
 

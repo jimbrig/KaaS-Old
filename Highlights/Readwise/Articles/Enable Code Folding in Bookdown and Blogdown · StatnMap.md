@@ -9,7 +9,7 @@ Link: https://statnmap.com/2017-11-13-enable-code-folding-in-bookdown-and-blogdo
 ## Metadata
 - Author: [[Sébastien Rochette]]
 - Full Title: Enable Code Folding in Bookdown and Blogdown · StatnMap
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://statnmap.com/2017-11-13-enable-code-folding-in-bookdown-and-blogdown/
 
 ## Highlights

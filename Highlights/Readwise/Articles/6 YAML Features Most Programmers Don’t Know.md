@@ -9,7 +9,7 @@ Link: https://medium.com/p/164762343af3
 ## Metadata
 - Author: [[Martin Thoma]]
 - Full Title: 6 YAML Features Most Programmers Don’t Know
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/164762343af3
 
 ## Highlights

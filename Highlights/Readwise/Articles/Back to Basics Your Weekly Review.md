@@ -9,7 +9,7 @@ Link: https://www.lifehack.org/articles/featured/back-to-basics-your-weekly-revi
 ## Metadata
 - Author: [[lifehack.org]]
 - Full Title: Back to Basics: Your Weekly Review
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.lifehack.org/articles/featured/back-to-basics-your-weekly-review.html
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://www.indiehackers.com/post/building-a-community-digital-garden-7e94
 ## Metadata
 - Author: [[indiehackers.com]]
 - Full Title: The Future of Communities Is Increasingly More About Digital Community Gardening
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.indiehackers.com/post/building-a-community-digital-garden-7e941d107c
 
 ## Highlights

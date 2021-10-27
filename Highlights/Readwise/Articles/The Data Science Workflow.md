@@ -9,7 +9,7 @@ Link: https://towardsdatascience.com/the-data-science-workflow-43859db0415
 ## Metadata
 - Author: 
 - Full Title: The Data Science Workflow
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://towardsdatascience.com/the-data-science-workflow-43859db0415
 
 ## Highlights

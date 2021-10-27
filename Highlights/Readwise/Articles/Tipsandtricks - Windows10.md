@@ -9,7 +9,7 @@ Link: https://www.reddit.com/r/Windows10/wiki/tipsandtricks
 ## Metadata
 - Author: 
 - Full Title: Tipsandtricks - Windows10
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.reddit.com/r/Windows10/wiki/tipsandtricks
 
 ## Highlights

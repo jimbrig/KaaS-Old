@@ -9,7 +9,7 @@ Link: http://r-addict.com/archivist.github/
 ## Metadata
 - Author: [[Marcin Kosiński]]
 - Full Title: Archivist and GitHub Integration: Archivist.github
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: http://r-addict.com/archivist.github/
 
 ## Highlights

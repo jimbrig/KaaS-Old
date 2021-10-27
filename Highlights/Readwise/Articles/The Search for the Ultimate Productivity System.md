@@ -9,7 +9,7 @@ Link: https://medium.com/p/18ff42015e11
 ## Metadata
 - Author: [[Jack Heimbigner]]
 - Full Title: The Search for the Ultimate Productivity System
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/18ff42015e11
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://www.next-action.co.uk/2014/02/18/nitty-gritty-clearing-inbox-2/
 ## Metadata
 - Author: [[Edward Lamont]]
 - Full Title: The Nitty-Gritty – Clearing Out Your Inbox - Next Action Associates
-- Category: #articles
+- Category: #Type/Highlights/Article
 - Document Tags: [[Liked]] 
 - URL: https://www.next-action.co.uk/2014/02/18/nitty-gritty-clearing-inbox-2/
 

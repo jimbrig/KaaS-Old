@@ -9,7 +9,7 @@ Link: https://www.airr.io/episode/5e8265e24cc59f3b892e9c0d
 ## Metadata
 - Author: [[The Building a Second Brain Podcast]]
 - Full Title: Borrowed Creativity
-- Category: #podcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5e8265e24cc59f3b892e9c0d
 
 ## Highlights

@@ -9,7 +9,7 @@ Link: https://medium.com/p/7e47c485edbf
 ## Metadata
 - Author: [[Michael Krasnov]]
 - Full Title: Services in Systemd: In-Depth Tutorial
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/7e47c485edbf
 
 ## Highlights

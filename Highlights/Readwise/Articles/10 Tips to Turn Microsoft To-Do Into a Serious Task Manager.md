@@ -9,7 +9,7 @@ Link: https://www.makeuseof.com/tag/microsoft-todo-task-manager/
 ## Metadata
 - Author: [[Dan Price]]
 - Full Title: 10 Tips to Turn Microsoft To-Do Into a Serious Task Manager
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.makeuseof.com/tag/microsoft-todo-task-manager/
 
 ## Highlights

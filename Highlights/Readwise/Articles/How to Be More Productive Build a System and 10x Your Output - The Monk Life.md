@@ -9,7 +9,7 @@ Link: https://www.themonklife.net/how-to-be-more-productive/
 ## Metadata
 - Author: 
 - Full Title: How to Be More Productive: Build a System and 10x Your Output - The Monk Life
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.themonklife.net/how-to-be-more-productive/
 
 ## Highlights

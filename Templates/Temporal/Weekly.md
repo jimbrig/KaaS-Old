@@ -4,7 +4,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Alias: ['<% tp.date.now("gggg-[W]ww") %>']
 ---
 
-Type: #Type/Weekly
+Type: #Type/Temporal/Weekly
 
 [[<% tp.date.now("gggg-[W]ww", -7) %>]] - [[<% tp.date.now("gggg-[W]ww", 7) %> ]]
 

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Templates",
+  "search": "-path:Templates -path:Highlights -file:Changelog",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -74,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.43175057217983187,
+  "scale": 0.5952436349003913,
   "close": false
 }

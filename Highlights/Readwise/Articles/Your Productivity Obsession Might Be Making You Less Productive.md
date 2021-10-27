@@ -9,7 +9,7 @@ Link: https://www.fastcompany.com/90389932/why-you-should-stop-focusing-on-produ
 ## Metadata
 - Author: 
 - Full Title: Your Productivity Obsession Might Be Making You Less Productive
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.fastcompany.com/90389932/why-you-should-stop-focusing-on-productivity
 
 ## Highlights

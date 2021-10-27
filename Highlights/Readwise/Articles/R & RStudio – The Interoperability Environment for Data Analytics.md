@@ -9,7 +9,7 @@ Link: https://www.r-bloggers.com/r-rstudio-the-interoperability-environment-for-
 ## Metadata
 - Author: 
 - Full Title: R & RStudio – The Interoperability Environment for Data Analytics
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.r-bloggers.com/r-rstudio-the-interoperability-environment-for-data-analytics/
 
 ## Highlights

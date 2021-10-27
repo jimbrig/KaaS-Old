@@ -4,7 +4,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Alias: About
 ---
 
-Type: #Type/Meta
+Type: #Type/Vault/Meta
 
 # About KaaS - Knowledge as a Service
 

@@ -9,7 +9,7 @@ Link: https://nebulous.wordpress.com/2014/12/04/gtd_evernote_todoist/
 ## Metadata
 - Author: 
 - Full Title: Evernote and Todoist: REALLY Getting Things Done
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://nebulous.wordpress.com/2014/12/04/gtd_evernote_todoist/
 
 ## Highlights

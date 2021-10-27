@@ -9,7 +9,7 @@ Link: https://www.makeuseof.com/tag/10-windows-task-manager-tricks-didnt-know/
 ## Metadata
 - Author: 
 - Full Title: 10 Windows Task Manager Tricks You Probably Didn’t Know
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.makeuseof.com/tag/10-windows-task-manager-tricks-didnt-know/
 
 ## Highlights

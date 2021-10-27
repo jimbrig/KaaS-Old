@@ -9,7 +9,7 @@ Link: https://drewdevault.com/make-a-blog
 ## Metadata
 - Author: 
 - Full Title: You Should Make a Blog!
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://drewdevault.com/make-a-blog
 
 ## Highlights

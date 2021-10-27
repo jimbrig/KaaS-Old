@@ -9,7 +9,7 @@ Link: https://www.joshkel.com/2018/01/18/symlinks-in-windows/
 ## Metadata
 - Author: [[joshkel.com]]
 - Full Title: Symlinks in Windows, MinGW, Git, and Cygwin · Josh Kelley
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.joshkel.com/2018/01/18/symlinks-in-windows/
 
 ## Highlights

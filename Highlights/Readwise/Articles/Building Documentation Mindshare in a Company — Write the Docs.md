@@ -9,7 +9,7 @@ Link: https://www.writethedocs.org/guide/writing/mindshare/#build-a-taxonomy
 ## Metadata
 - Author: [[writethedocs.org]]
 - Full Title: Building Documentation Mindshare in a Company — Write the Docs
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.writethedocs.org/guide/writing/mindshare/#build-a-taxonomy
 
 ## Highlights

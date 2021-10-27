@@ -9,7 +9,7 @@ Link: https://www.yujun.org/post/project/
 ## Metadata
 - Author: [[Yujun Zhou]]
 - Full Title: Project Management With RStudio and Github | Yujun Zhou's Website
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.yujun.org/post/project/
 
 ## Highlights

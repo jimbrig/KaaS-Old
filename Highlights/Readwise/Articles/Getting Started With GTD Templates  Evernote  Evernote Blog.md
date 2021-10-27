@@ -9,7 +9,7 @@ Link: https://evernote.com/blog/getting-started-with-gtd-templates/
 ## Metadata
 - Author: 
 - Full Title: Getting Started With GTD Templates | Evernote | Evernote Blog
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://evernote.com/blog/getting-started-with-gtd-templates/
 
 ## Highlights

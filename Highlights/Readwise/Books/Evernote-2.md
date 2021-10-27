@@ -9,7 +9,7 @@ Link:
 ## Metadata
 - Author: [[Kimberly Eddy]]
 - Full Title: Evernote
-- Category: #books
+- Category: #Type/Highlights/Books
 
 ## Highlights
 - The notebooks titled, “Web Site Drafts” and “Web Site Fixes” contain a couple of notes with drafts of blog posts or specific issues I need to fix on my web ([Location 269](https://readwise.io/to_kindle?action=open&asin=B077CK6SKR&location=269))

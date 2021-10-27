@@ -9,7 +9,7 @@ Link: https://medium.com/p/472fc23ed9bc
 ## Metadata
 - Author: [[Amy M Haddad]]
 - Full Title: What’s on Your Programming Reading List?
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/472fc23ed9bc
 
 ## Highlights

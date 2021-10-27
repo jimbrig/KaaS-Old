@@ -9,7 +9,7 @@ Link: https://www.cloudwards.net/how-to-partition-a-hard-drive/
 ## Metadata
 - Author: 
 - Full Title: How to Partition a Hard Drive in 2020
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.cloudwards.net/how-to-partition-a-hard-drive/
 
 ## Highlights

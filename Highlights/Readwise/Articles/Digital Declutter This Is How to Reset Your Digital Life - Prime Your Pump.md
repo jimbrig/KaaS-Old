@@ -9,7 +9,7 @@ Link: https://primeyourpump.com/2019/05/16/digital-declutter/
 ## Metadata
 - Author: [[Rick Melnyck]]
 - Full Title: Digital Declutter: This Is How to Reset Your Digital Life - Prime Your Pump
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://primeyourpump.com/2019/05/16/digital-declutter/
 
 ## Highlights

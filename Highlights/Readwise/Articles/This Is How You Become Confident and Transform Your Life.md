@@ -9,7 +9,7 @@ Link: https://benjaminhardy.com/thisishowyoubecomeconfidentandtransformyourlife/
 ## Metadata
 - Author: [[Ben Hardy]]
 - Full Title: This Is How You Become Confident and Transform Your Life
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://benjaminhardy.com/thisishowyoubecomeconfidentandtransformyourlife/
 
 ## Highlights

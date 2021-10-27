@@ -9,7 +9,7 @@ Link: https://itigic.com/install-or-update-powershell-in-windows-10/
 ## Metadata
 - Author: 
 - Full Title: How to Install or Update PowerShell to the Latest Version in Windows 10 | ITIGIC
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://itigic.com/install-or-update-powershell-in-windows-10/
 
 ## Highlights

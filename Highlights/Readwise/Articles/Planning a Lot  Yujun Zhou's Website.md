@@ -9,7 +9,7 @@ Link: https://www.yujun.org/post/planning-a-lot/
 ## Metadata
 - Author: [[Yujun Zhou]]
 - Full Title: Planning a Lot | Yujun Zhou's Website
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.yujun.org/post/planning-a-lot/
 
 ## Highlights

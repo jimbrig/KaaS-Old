@@ -4,7 +4,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Alias: []
 ---
 
-Type: #Type/Annual
+Type: #Type/Temporal/Annual
 
 << [[Plans/Annual/<% tp.date.now("YYYY", -366) %>|<% tp.date.now("YYYY", -366) %>]] | [[Plans/Annual/<% tp.date.now("YYYY", 366) %>|<% tp.date.now("YYYY", 366) %>]] >>
 

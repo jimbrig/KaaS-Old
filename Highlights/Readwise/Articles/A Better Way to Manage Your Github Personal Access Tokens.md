@@ -9,7 +9,7 @@ Link: https://ropensci.org/technotes/2020/07/07/github-pat/?utm_campaign=Feed%3A
 ## Metadata
 - Author: 
 - Full Title: A Better Way to Manage Your Github Personal Access Tokens
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://ropensci.org/technotes/2020/07/07/github-pat/?utm_campaign=Feed%3A+rweekly-live+%28R+Weekly+Live%29&utm_medium=feed&utm_source=feedburner
 
 ## Highlights

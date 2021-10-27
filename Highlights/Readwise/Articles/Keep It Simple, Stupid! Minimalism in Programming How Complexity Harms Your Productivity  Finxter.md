@@ -9,7 +9,7 @@ Link: https://blog.finxter.com/minimalism-in-programming/
 ## Metadata
 - Author: [[blog.finxter.com]]
 - Full Title: Keep It Simple, Stupid! Minimalism in Programming: How Complexity Harms Your Productivity | Finxter
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://blog.finxter.com/minimalism-in-programming/
 
 ## Highlights

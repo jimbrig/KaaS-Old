@@ -9,7 +9,7 @@ Link: https://www.airr.io/episode/5ef8d7d2c7fd2b6c098b28e4
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work | DEEP QUESTIONS
-- Category: #podcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5ef8d7d2c7fd2b6c098b28e4
 
 ## Highlights

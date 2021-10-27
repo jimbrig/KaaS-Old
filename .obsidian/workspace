@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Temporal/Annual.md",
+            "file": "Plans/Daily/2021-10-27.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Type/Annual",
+                "query": "tag:#Type",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303
+    "width": 790
   },
   "right": {
     "id": "bfbc1479c692d933",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Temporal/Annual.md",
+                "file": "Plans/Daily/2021-10-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Temporal/Annual.md",
+                "file": "Plans/Daily/2021-10-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Temporal/Annual.md"
+                "file": "Plans/Daily/2021-10-27.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Temporal/Annual.md",
+                "file": "Plans/Daily/2021-10-27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,23 +188,24 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 453
+    "width": 453,
+    "collapsed": true
   },
   "active": "b2733fb1cfb50eb9",
   "lastOpenFiles": [
-    "Templates/Temporal/Annual.md",
-    "Plans/Annual/2020.md",
-    "Plans/Daily/README.md",
-    "Plans/Daily/2021-10-26.md",
     "Plans/Daily/2021-10-27.md",
-    "Plans/Daily/2021-10-24.md",
-    "Plans/Day Planners/Day Planner-20211026.md",
-    "'Plans/Annual/2020'.md",
-    "Inbox/Microsoft Developer Docs.md",
-    "Inbox/Developer Operations - DevOps.md"
+    "Day Planners/Day Planner-20211027.md",
+    "Meta/Files-Without-Tags.md",
+    "Meta/Unresolved-Links.md",
+    "Meta/Unlinked-Files.md",
+    "Literary Notes/Zettelkasten.md",
+    "Literary Notes/The Collector's Fallacy.md",
+    "Literary Notes/Rinse and Repeat - Research, Read, Assimilate.md",
+    "Literary Notes/README.md",
+    "Literary Notes/PKM - Trust the Process.md"
   ]
 }

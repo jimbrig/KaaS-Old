@@ -9,7 +9,7 @@ Link: https://www.themuse.com/advice/digital-decluttering-how-to-streamline-your
 ## Metadata
 - Author: [[themuse.com]]
 - Full Title: Digital De-Cluttering: How to Streamline Your Online Life
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://www.themuse.com/advice/digital-decluttering-how-to-streamline-your-online-life
 
 ## Highlights

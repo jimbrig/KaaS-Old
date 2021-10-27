@@ -9,7 +9,7 @@ Link: https://www.airr.io/episode/5f11eac050033468655fd9f2
 ## Metadata
 - Author: [[The Tim Ferriss Show]]
 - Full Title: #447: Books I've Loved — Ann Miura-Ko
-- Category: #podcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5f11eac050033468655fd9f2
 
 ## Highlights

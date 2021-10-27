@@ -1,5 +1,5 @@
-- 2021-10-27 at 15h04 · [[lossdevt R Package and ShinyApp]]
-- 2021-10-27 at 15h01 · [[Projects Kanban]]
+- 2021-10-27 at 15h07 · [[Projects Kanban]]
+- 2021-10-27 at 15h06 · [[Loss Development R Package]]
 - 2021-10-27 at 14h57 · [[Obsidian Vault Consolidation]]
 - 2021-10-27 at 14h56 · [[Azure Machine Learning]]
 - 2021-10-27 at 14h56 · [[Zettelkasten]]

@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] [[lossdevt R Package and ShinyApp]] #Type/Project/Personal #Category/Development/Actuarial <br>#Category/Development/R/Package<br>#Category/Development/R/Shiny<br>#Category/Development/WebDev
+- [ ] [[Loss Development R Package]] #Type/Project/Personal #Category/Development/Actuarial <br>#Category/Development/R/Package<br>#Category/Development/R/Shiny<br>#Category/Development/WebDev
 - [ ] `buildtools` R Package #Type/Project/Personal #Category/Development/R
 
 

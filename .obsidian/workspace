@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/lossdevt R Package and ShinyApp.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "6083f74711bea9ec",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Projects/lossdevt R Package and ShinyApp.md",
+            "file": "Projects/Loss Development R Package.md",
             "mode": "source"
           }
         }
@@ -95,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/lossdevt R Package and ShinyApp.md",
+                "file": "Projects/Loss Development R Package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/lossdevt R Package and ShinyApp.md",
+                "file": "Projects/Loss Development R Package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/lossdevt R Package and ShinyApp.md"
+                "file": "Projects/Loss Development R Package.md"
               }
             }
           },
@@ -161,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/lossdevt R Package and ShinyApp.md",
+                "file": "Projects/Loss Development R Package.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -207,7 +196,7 @@
   },
   "active": "1d3c8e6870d80bf6",
   "lastOpenFiles": [
-    "Projects/lossdevt R Package and ShinyApp.md",
+    "Projects/Loss Development R Package.md",
     "Projects/Projects Kanban.md",
     "Projects/Obsidian Vault Consolidation.md",
     "Projects/Obsidian Vault Consolidation 1.md",

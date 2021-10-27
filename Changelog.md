@@ -1,3 +1,8 @@
+- 2021-10-27 at 13h31 · [[Team Data Science Process]]
+- 2021-10-27 at 13h31 · [[R Package - simulationmachine]]
+- 2021-10-27 at 13h31 · [[R Package - insurancerating]]
+- 2021-10-27 at 13h30 · [[R Package - conjuror]]
+- 2021-10-27 at 13h30 · [[KasaAI GitHub Organization]]
 - 2021-10-27 at 13h30 · [[Casualty Actuarial Society on GitHub]]
 - 2021-10-27 at 13h29 · [[Azure Storage Blobs]]
 - 2021-10-27 at 13h29 · [[Azure SQL Database]]

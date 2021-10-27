@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: medium
+Link: https://medium.com/p/86651962bc99
+---
 # Architecture for a Startup
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[Mitesh]]
 - Full Title: Architecture for a Startup
-- Category: #articles
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/86651962bc99
 
 ## Highlights

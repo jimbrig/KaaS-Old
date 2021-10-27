@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Information Flow",
+      "path": "Literary Notes/Information Flow.md"
+    },
+    {
+      "type": "file",
+      "title": "The Collector's Fallacy",
+      "path": "Literary Notes/The Collector's Fallacy.md"
+    }
+  ]
+}

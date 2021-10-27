@@ -7,9 +7,21 @@
         "id": "1d3c8e6870d80bf6",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Projects/Projects Kanban.md"
+            "file": "Projects/lossdevt R Package and ShinyApp.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6083f74711bea9ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Projects/lossdevt R Package and ShinyApp.md",
+            "mode": "source"
           }
         }
       }
@@ -83,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Projects Kanban.md",
+                "file": "Projects/lossdevt R Package and ShinyApp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Projects Kanban.md",
+                "file": "Projects/lossdevt R Package and ShinyApp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Projects Kanban.md"
+                "file": "Projects/lossdevt R Package and ShinyApp.md"
               }
             }
           },
@@ -149,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Projects Kanban.md",
+                "file": "Projects/lossdevt R Package and ShinyApp.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,6 +207,7 @@
   },
   "active": "1d3c8e6870d80bf6",
   "lastOpenFiles": [
+    "Projects/lossdevt R Package and ShinyApp.md",
     "Projects/Projects Kanban.md",
     "Projects/Obsidian Vault Consolidation.md",
     "Projects/Obsidian Vault Consolidation 1.md",
@@ -203,7 +216,6 @@
     "Literary Notes/Azure DevOps Pipeline Configuration.md",
     "Literary Notes/Information Flow.md",
     "Highlights/Readwise/Articles/How to Save Email Into Evernote.md",
-    "Inbox/Untitled.md",
-    "Highlights/README.md"
+    "Inbox/Untitled.md"
   ]
 }

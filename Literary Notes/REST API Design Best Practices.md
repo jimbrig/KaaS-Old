@@ -16,22 +16,52 @@ Otherwise, we create problems for clients that use our APIs, which isn’t pleas
 
 REST APIs should be easy to understand for anyone consuming them, future-proof, secure, and fast since they serve data to clients that may be confidential and time-sensitive.
 
--   [Accept and respond with JSON](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/#h-accept-and-respond-with-json)
--   [Use nouns instead of verbs in endpoint paths](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/#h-use-nouns-instead-of-verbs-in-endpoint-paths)
--   [Name collections with plural nouns](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/#h-name-collections-with-plural-nouns)
--   [Nesting resources for hierarchical objects](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/#h-nesting-resources-for-hierarchical-objects)
--   [Handle errors gracefully and return standard error codes](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/#h-handle-errors-gracefully-and-return-standard-error-codes)
--   [Allow filtering, sorting, and pagination](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/#h-allow-filtering-sorting-and-pagination)
--   [Maintain Good Security Practices](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/#h-maintain-good-security-practices)
--   [Cache data to improve performance](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/#h-cache-data-to-improve-performance)
--   [Versioning our APIs](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/#h-versioning-our-apis)
+## Contents
 
+[TOC]
 
 ## What is a REST API?
 
 A REST API is an application programming interface that conforms to specific architectural constraints, like stateless communication and cacheable data. It is not a protocol or standard. While REST APIs can be accessed through a number of communication protocols, most commonly, they are called over HTTPS, so the guidelines below apply to REST API endpoints that will be called over the internet.
 
 Note: For REST APIs called over the internet, you’ll like want to follow the [best practices for REST API authentication](https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/).
+
+### Accept and Respond with JSON
+
+REST APIs should accept JSON for request payload and also send responses to JSON. JSON is the standard for transferring data. Almost every networked technology can use it: JavaScript has built-in methods to encode and decode JSON either through the Fetch API or another HTTP client. Server-side technologies have libraries that can decode JSON without doing much work.  
+
+There are other ways to transfer data. XML isn’t widely supported by frameworks without transforming the data ourselves to something that can be used, and that’s usually JSON. We can’t manipulate this data as easily on the client-side, especially in browsers. It ends up being a lot of extra work just to do normal data transfer.  
+
+Form data is good for sending data, especially if we want to send files. But for text and numbers, we don’t need form data to transfer those since—with most frameworks—we can transfer JSON by just getting the data from it directly on the client side. It’s by far the most straightforward to do so.  
+
+To make sure that when our REST API app responds with JSON that clients interpret it as such, we should set `Content-Type` in the response header to `application/json` after the request is made. Many server-side app frameworks set the response header automatically. Some HTTP clients look at the `Content-Type` response header and parse the data according to that format.  
+
+The only exception is if we’re trying to send and receive files between client and server. Then we need to handle file responses and send form data from client to server. But that is a topic for another time.   
+
+We should also make sure that our endpoints return JSON as a response. Many server-side frameworks have this as a built-in feature.  
+
+Let’s take a look at an example API that accepts JSON payloads. This example will use the [Express](https://expressjs.com/) back end framework for Node.js. We can use the [`body-parser` middleware](https://www.npmjs.com/package/body-parser) to parse the JSON request body, and then we can call the `res.json` method with the object that we want to return as the JSON response as follows:  
+
+```javascript
+const express = require('express');
+const bodyParser = require('body-parser');
+
+const app = express();
+
+app.use(bodyParser.json());
+
+app.post('/', (req, res) => {
+  res.json(req.body);
+});
+
+app.listen(3000, () => console.log('server started'));
+```
+
+`bodyParser.json()` parses the JSON request body string into a JavaScript object and then assigns it to the `req.body` object.  
+
+Set the `Content-Type` header in the response to `application/json; charset=utf-8` without any changes. The method above applies to most other back end frameworks.
+
+
 
 ***
 

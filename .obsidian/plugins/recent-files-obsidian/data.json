@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "How to Save Email Into Evernote",
-      "path": "Highlights/Readwise/Articles/How to Save Email Into Evernote.md"
-    },
-    {
       "basename": "Projects Kanban",
       "path": "Projects/Projects Kanban.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Inbox/Untitled.md"
+    },
+    {
+      "basename": "README",
+      "path": "Highlights/README.md"
+    },
+    {
+      "basename": "Master Evernote",
+      "path": "Highlights/Readwise/Books/Master Evernote.md"
+    },
+    {
+      "basename": "How to Save Email Into Evernote",
+      "path": "Highlights/Readwise/Articles/How to Save Email Into Evernote.md"
     },
     {
       "basename": "Obsidian Vault Consolidation",
@@ -149,10 +161,6 @@
       "path": "Inbox/The Knowledge Cycle.md"
     },
     {
-      "basename": "README",
-      "path": "Highlights/README.md"
-    },
-    {
       "basename": "The Official Guide to Using Todoist Build Your Perfect Productivity Workfl",
       "path": "Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Machine Learning Operations - MLOps",
       "path": "Literary Notes/Machine Learning Operations - MLOps.md"
-    },
-    {
-      "basename": "README",
-      "path": "Templates/README.md"
-    },
-    {
-      "basename": "Daily",
-      "path": "Templates/Temporal/Daily.md"
     }
   ],
   "omittedPaths": [],

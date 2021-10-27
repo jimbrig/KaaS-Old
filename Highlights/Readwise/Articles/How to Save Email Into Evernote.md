@@ -9,7 +9,6 @@ Link: http://help.evernote.com/hc/en-us/articles/209005347
 ## Metadata
 - Author: 
 - Full Title: How to Save Email Into Evernote
-- Category: #articles
 - URL: http://help.evernote.com/hc/en-us/articles/209005347
 
 ## Highlights

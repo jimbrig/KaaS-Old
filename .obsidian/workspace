@@ -7,10 +7,9 @@
         "id": "1d3c8e6870d80bf6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Highlights/Readwise/Articles/How to Save Email Into Evernote.md",
-            "mode": "source"
+            "file": "Projects/Projects Kanban.md"
           }
         }
       }
@@ -39,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#articles",
+                "query": "tag:#belmar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Highlights/Readwise/Articles/How to Save Email Into Evernote.md",
+                "file": "Projects/Projects Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Highlights/Readwise/Articles/How to Save Email Into Evernote.md",
+                "file": "Projects/Projects Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Highlights/Readwise/Articles/How to Save Email Into Evernote.md"
+                "file": "Projects/Projects Kanban.md"
               }
             }
           },
@@ -151,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Highlights/Readwise/Articles/How to Save Email Into Evernote.md",
+                "file": "Projects/Projects Kanban.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,15 +195,15 @@
   },
   "active": "1d3c8e6870d80bf6",
   "lastOpenFiles": [
-    "Highlights/Readwise/Articles/How to Save Email Into Evernote.md",
     "Projects/Projects Kanban.md",
+    "Inbox/Untitled.md",
+    "Highlights/README.md",
+    "Highlights/Readwise/Books/Master Evernote.md",
+    "Highlights/Readwise/Articles/How to Save Email Into Evernote.md",
     "Projects/Obsidian Vault Consolidation.md",
     "Templates/Project.md",
     "Templates/Generic.md",
     "Plans/Day Planners/Day Planner-20211026.md",
-    "Plans/Annual/2022.md",
-    "Plans/Annual/2021.md",
-    "Plans/Annual/2020.md",
-    "Plans/Daily/2021-10-27.md"
+    "Plans/Annual/2022.md"
   ]
 }

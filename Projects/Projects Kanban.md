@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Active
 
-- [ ] Obsidian Vault Consolidation
+- [ ] Obsidian Vault Consolidation #Type/Project/Personal
 
 
 ## Want to Work On

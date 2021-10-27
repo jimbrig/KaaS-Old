@@ -1,7 +1,7 @@
+- 2021-10-27 at 17h49 · [[SQLAlchemy]]
 - 2021-10-27 at 16h15 · [[2021-10-27]]
 - 2021-10-27 at 16h09 · [[Database Pooling]]
 - 2021-10-27 at 16h08 · [[SQLAlchemy ORM]]
-- 2021-10-27 at 16h08 · [[SQLAlchemy]]
 - 2021-10-27 at 16h07 · [[Python Flask]]
 - 2021-10-27 at 15h49 · [[REST API Design Best Practices]]
 - 2021-10-27 at 15h10 · [[RStudio Configuration]]

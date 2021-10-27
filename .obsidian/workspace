@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Plans/Daily/2021-10-27.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -75,64 +75,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4597e6a1d630c2f1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6286e0dfec9b2207",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Plans/Daily/2021-10-27.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4399620332244863,
-                  "close": false
-                }
-              }
-            }
-          },
-          {
-            "id": "6df24996cb397457",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b3c8a8fb0f42928e",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "e8d362a19b26e03a",
         "type": "tabs",
         "children": [
@@ -185,9 +127,68 @@
                 "file": "Plans/Daily/2021-10-27.md"
               }
             }
+          },
+          {
+            "id": "6df24996cb397457",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3c8a8fb0f42928e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "6286e0dfec9b2207",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Plans/Daily/2021-10-27.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4399620332244863,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "cfd34afd45bb73e1",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -196,14 +197,14 @@
   "active": "18807075473b28c8",
   "lastOpenFiles": [
     "Plans/Daily/2021-10-27.md",
+    "People/Steve Walsh.md",
+    "People/Peichung Shih.md",
+    "Plans/Daily/2021-10-26.md",
     "Inbox/Tools I Use.md",
     "README.md",
     "Changelog.md",
     "Maps of Content/Development/Development.md",
     "Maps of Content/Development/Web Development.md",
-    "REST APIs.md",
-    "Maps of Content/Development/Microsoft Azure.md",
-    "Maps of Content/Microsoft Windows.md",
-    "Maps of Content/000-HOME.md"
+    "REST APIs.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/RStudio Configuration.md",
+            "file": "Literary Notes/REST API Design Best Practices.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/RStudio Configuration.md",
+                "file": "Literary Notes/REST API Design Best Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/RStudio Configuration.md",
+                "file": "Literary Notes/REST API Design Best Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/RStudio Configuration.md"
+                "file": "Literary Notes/REST API Design Best Practices.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/RStudio Configuration.md",
+                "file": "Literary Notes/REST API Design Best Practices.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,6 +196,7 @@
   },
   "active": "1d3c8e6870d80bf6",
   "lastOpenFiles": [
+    "Literary Notes/REST API Design Best Practices.md",
     "Projects/RStudio Configuration.md",
     "Projects/Projects Kanban.md",
     "README.md",
@@ -204,7 +205,6 @@
     "Projects/Loss Development R Package.md",
     "Projects/Obsidian Vault Consolidation.md",
     "Projects/Obsidian Vault Consolidation 1.md",
-    "Literary Notes/Azure Machine Learning.md",
-    "Literary Notes/Azure DevOps Pipelines.md"
+    "Literary Notes/Azure Machine Learning.md"
   ]
 }

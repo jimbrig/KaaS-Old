@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "REST API Design Best Practices",
+      "path": "Literary Notes/REST API Design Best Practices.md"
+    },
+    {
       "basename": "RStudio Configuration",
       "path": "Projects/RStudio Configuration.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "First Principles of Workflow Design (A 2-Part Episode)  RadReads",
       "path": "Highlights/Readwise/Articles/First Principles of Workflow Design (A 2-Part Episode)  RadReads.md"
-    },
-    {
-      "basename": "A Builder’s Guide to Note-Taking",
-      "path": "Highlights/Readwise/Articles/A Builder’s Guide to Note-Taking.md"
     }
   ],
   "omittedPaths": [],

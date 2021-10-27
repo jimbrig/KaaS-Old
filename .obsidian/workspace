@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Maps of Content/Development/Web Development.md",
-            "mode": "preview"
+            "file": "Maps of Content/Development/Development.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maps of Content/Development/Web Development.md",
+                "file": "Maps of Content/Development/Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maps of Content/Development/Web Development.md",
+                "file": "Maps of Content/Development/Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maps of Content/Development/Web Development.md"
+                "file": "Maps of Content/Development/Development.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Maps of Content/Development/Web Development.md",
+                "file": "Maps of Content/Development/Development.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,15 +188,15 @@
   },
   "active": "4c32c7dd58dac847",
   "lastOpenFiles": [
-    "Maps of Content/Development/Web Development.md",
     "Maps of Content/Development/Development.md",
+    "Maps of Content/Development/Web Development.md",
+    "Maps of Content/Development/Microsoft Azure.md",
+    "Maps of Content/Microsoft Windows.md",
     "Maps of Content/000-HOME.md",
     "Meta/Structure.md",
     "Meta/About.md",
     "Literary Notes/Azure Machine Learning Platform.md",
     "Plans/Daily/2021-10-27.md",
-    "Day Planners/Day Planner-20211027.md",
-    "Meta/Files-Without-Tags.md",
-    "Meta/Unresolved-Links.md"
+    "Day Planners/Day Planner-20211027.md"
   ]
 }

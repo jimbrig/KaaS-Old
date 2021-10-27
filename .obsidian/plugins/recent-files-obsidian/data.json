@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Development",
+      "path": "Maps of Content/Development/Development.md"
+    },
+    {
       "basename": "Web Development",
       "path": "Maps of Content/Development/Web Development.md"
     },
     {
-      "basename": "Development",
-      "path": "Maps of Content/Development/Development.md"
+      "basename": "Microsoft Azure",
+      "path": "Maps of Content/Development/Microsoft Azure.md"
+    },
+    {
+      "basename": "Microsoft Windows",
+      "path": "Maps of Content/Microsoft Windows.md"
     },
     {
       "basename": "Structure",
@@ -191,14 +199,6 @@
     {
       "basename": "2021-10 - October",
       "path": "Plans/Monthly/2021-10 - October.md"
-    },
-    {
-      "basename": "2021-09 - September",
-      "path": "Plans/Monthly/2021-09 - September.md"
-    },
-    {
-      "basename": "Monthly",
-      "path": "Templates/Temporal/Monthly.md"
     }
   ],
   "omittedPaths": [],

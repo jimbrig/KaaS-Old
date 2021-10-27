@@ -1,3 +1,5 @@
+- 2021-10-27 at 16h00 · [[Database Pooling]]
+- 2021-10-27 at 16h00 · [[2021-10-27]]
 - 2021-10-27 at 15h49 · [[REST API Design Best Practices]]
 - 2021-10-27 at 15h10 · [[RStudio Configuration]]
 - 2021-10-27 at 15h09 · [[README]]
@@ -11,7 +13,6 @@
 - 2021-10-27 at 14h56 · [[Information Flow]]
 - 2021-10-27 at 14h54 · [[Untitled]]
 - 2021-10-27 at 14h54 · [[README]]
-- 2021-10-27 at 14h33 · [[2021-10-27]]
 - 2021-10-27 at 13h57 · [[Project]]
 - 2021-10-27 at 13h56 · [[Generic]]
 - 2021-10-27 at 13h55 · [[Steve Walsh]]

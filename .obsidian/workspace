@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQLAlchemy Engines.md",
+            "file": "Literary Notes/System Design.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQLAlchemy Engines.md",
+                "file": "Literary Notes/System Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQLAlchemy Engines.md",
+                "file": "Literary Notes/System Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQLAlchemy Engines.md"
+                "file": "Literary Notes/System Design.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SQLAlchemy Engines.md",
+                "file": "Literary Notes/System Design.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,15 +197,15 @@
   },
   "active": "1d3c8e6870d80bf6",
   "lastOpenFiles": [
-    "SQLAlchemy Engines.md",
+    "Literary Notes/System Design.md",
+    "Literary Notes/Database Pooling.md",
+    "Literary Notes/SQLAlchemy Engines.md",
     "Literary Notes/SQLAlchemy.md",
     "Literary Notes/assets/Pasted image 20211027155839.png",
-    "Literary Notes/Database Pooling.md",
     "Literary Notes/SQLAlchemy ORM.md",
     "Literary Notes/Python Flask.md",
     "Literary Notes/REST API Design Best Practices.md",
     "Projects/RStudio Configuration.md",
-    "Projects/Projects Kanban.md",
-    "README.md"
+    "Projects/Projects Kanban.md"
   ]
 }

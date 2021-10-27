@@ -140,14 +140,17 @@ engine = create_engine('sqlite:///C:\\path\\to\\foo.db')
 
 # Windows alternative using raw string
 engine = create_engine(r'sqlite:///C:\path\to\foo.db')
+```
 
 To use a SQLite `:memory:` database, specify an empty URL:
 
+```python
 engine = create_engine('sqlite://')
+```
 
 More notes on connecting to SQLite at [SQLite](https://docs.sqlalchemy.org/en/13/dialects/sqlite.html).
 
-### Others[](https://docs.sqlalchemy.org/en/13/core/engines.html#others "Permalink to this headline")
+### Others
 
 See [Dialects](https://docs.sqlalchemy.org/en/13/dialects/index.html), the top-level page for all additional dialect documentation.
 

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "System Design",
+      "path": "Literary Notes/System Design.md"
+    },
+    {
+      "basename": "Database Pooling",
+      "path": "Literary Notes/Database Pooling.md"
+    },
+    {
       "basename": "SQLAlchemy Engines",
-      "path": "SQLAlchemy Engines.md"
+      "path": "Literary Notes/SQLAlchemy Engines.md"
     },
     {
       "basename": "SQLAlchemy",
@@ -11,10 +19,6 @@
     {
       "basename": "Pasted image 20211027155839",
       "path": "Literary Notes/assets/Pasted image 20211027155839.png"
-    },
-    {
-      "basename": "Database Pooling",
-      "path": "Literary Notes/Database Pooling.md"
     },
     {
       "basename": "SQLAlchemy ORM",
@@ -195,10 +199,6 @@
     {
       "basename": "Collectors Do Not Make Progress",
       "path": "Literary Notes/Collectors Do Not Make Progress.md"
-    },
-    {
-      "basename": "Microsoft Developer Docs",
-      "path": "Inbox/Microsoft Developer Docs.md"
     }
   ],
   "omittedPaths": [],

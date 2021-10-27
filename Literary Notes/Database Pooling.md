@@ -30,6 +30,8 @@ For production applications with Python you should by using [[SQLAlchemy]] with 
 
 ## Reference
 
+- [Engine Configuration — SQLAlchemy 1.3 Documentation](https://docs.sqlalchemy.org/en/13/core/engines.html)
+	- [Pooling -- SQLAlchemy 1.3 Documentation](https://docs.sqlalchemy.org/en/13/core/engines.html#pooling)
 - [The Flask Mega-Tutorial Part IV Database](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database)
 - [Flask-SQLAlchemy — Flask-SQLAlchemy Documentation (2.x)](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
 - [SQLAlchemy in Flask — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/patterns/sqlalchemy/#sql-abstraction-layer)

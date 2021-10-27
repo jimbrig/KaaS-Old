@@ -6,8 +6,9 @@ copyright: Copyright &copy; 2021 Jimmy Briggs
 repo_url: https://github.com/jimbrig/kaas
 repo_name: jimbrig/KaaS
 remote_branch: gh-pages
-edit_uri: blob/main/docs/
+edit_uri: blob/main/
 use_directory_urls: true
+docs_dir: .docs
 
 theme:
   name: 'material'

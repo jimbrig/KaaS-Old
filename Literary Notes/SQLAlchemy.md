@@ -14,6 +14,8 @@ Other sources used:
 - [SQLAlchemy engine, connection and session difference](https://stackoverflow.com/questions/34322471/sqlalchemy-engine-connection-and-session-difference)
 - [Working with Engines and Connections — SQLAlchemy 1.3 Documentation](https://docs.sqlalchemy.org/en/13/core/connections.html)
 - [Flask and Databases — Python Beginners documentation](https://python-adv-web-apps.readthedocs.io/en/latest/flask_db1.html)
+- [Write to a Database — Python Beginners documentation](https://python-adv-web-apps.readthedocs.io/en/latest/flask_db3.html)
+- [configparser — Python Beginners documentation](https://python-adv-web-apps.readthedocs.io/en/latest/configparser.html)
 
 ## SQLAlchemy Overview
 

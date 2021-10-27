@@ -7,10 +7,9 @@
         "id": "1d3c8e6870d80bf6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Literary Notes/Database Pooling.md",
-            "mode": "preview"
+            "file": "Literary Notes/assets/Pasted image 20211027155839.png"
           }
         }
       }
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literary Notes/Database Pooling.md",
+                "file": "Literary Notes/assets/Pasted image 20211027155839.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literary Notes/Database Pooling.md",
+                "file": "Literary Notes/assets/Pasted image 20211027155839.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literary Notes/Database Pooling.md"
+                "file": "Literary Notes/assets/Pasted image 20211027155839.png"
               }
             }
           },
@@ -150,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Literary Notes/Database Pooling.md",
+                "file": "Literary Notes/assets/Pasted image 20211027155839.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,15 +195,15 @@
   },
   "active": "1d3c8e6870d80bf6",
   "lastOpenFiles": [
+    "Literary Notes/assets/Pasted image 20211027155839.png",
+    "Literary Notes/SQLAlchemy.md",
     "Literary Notes/Database Pooling.md",
-    "SQLAlchemy ORM.md",
-    "SQLAlchemy.md",
-    "Python Flask.md",
+    "Literary Notes/SQLAlchemy ORM.md",
+    "Literary Notes/Python Flask.md",
     "Literary Notes/REST API Design Best Practices.md",
     "Projects/RStudio Configuration.md",
     "Projects/Projects Kanban.md",
     "README.md",
-    "Projects/Build Tools R Package.md",
-    "lossdevt.md"
+    "Projects/Build Tools R Package.md"
   ]
 }

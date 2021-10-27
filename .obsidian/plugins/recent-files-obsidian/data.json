@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20211027155839",
+      "path": "Literary Notes/assets/Pasted image 20211027155839.png"
+    },
+    {
+      "basename": "SQLAlchemy",
+      "path": "Literary Notes/SQLAlchemy.md"
+    },
+    {
       "basename": "Database Pooling",
       "path": "Literary Notes/Database Pooling.md"
     },
     {
       "basename": "SQLAlchemy ORM",
-      "path": "SQLAlchemy ORM.md"
-    },
-    {
-      "basename": "SQLAlchemy",
-      "path": "SQLAlchemy.md"
+      "path": "Literary Notes/SQLAlchemy ORM.md"
     },
     {
       "basename": "Python Flask",
-      "path": "Python Flask.md"
+      "path": "Literary Notes/Python Flask.md"
     },
     {
       "basename": "REST API Design Best Practices",
@@ -195,10 +199,6 @@
     {
       "basename": "The Knowledge Cycle",
       "path": "Inbox/The Knowledge Cycle.md"
-    },
-    {
-      "basename": "The Official Guide to Using Todoist Build Your Perfect Productivity Workfl",
-      "path": "Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md"
     }
   ],
   "omittedPaths": [],

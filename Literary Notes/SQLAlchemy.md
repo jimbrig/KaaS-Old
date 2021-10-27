@@ -113,9 +113,60 @@ if __name__ == '__main__':
 
 Instead of including username, password, and the whole database connection string _within a Python script,_ you can set the complete string as an **environment variable.** Note that the connection string must be complete and correct for your configuration, as discussed in the previous section.
 
+If you set an environment variable for the connection string, then add the following lines near the top of your script:
 
+```python
+import os
+# check for environment variable
+if not os.getenv("DATABASE_URL"):
+    raise RuntimeError("DATABASE_URL is not set")
+```
 
+Eliminate all lines that refer to username, password, server, and database name.
 
+Change the `app.config` statement to this:
+
+```python
+app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv("DATABASE_URL")
+```
+
+## Troubleshooting
+
+If you cannot get your Flask app to connect to your database, check the following:
+
+-   You forgot to install something (Flask-SQLAlchemy, or PyMySQL, etc.) in your Python virtual environment.
+-   Your virtual environment has not been activated.
+-   Your username and/or password for the database are wrong.
+-   Your database name is incorrect.
+-   On a remote server, permissions for the database user are not set correctly.
+-   For a local database, the socket does not match what you need on your computer.
+-   For a local MySQL database, you have not started the MySQL server.
+
+## Reading from Database
+
+```python
+from flask import Flask
+from flask_sqlalchemy import SQLAlchemy
+
+app = Flask(__name__)
+
+# the name of the database; add path if necessary
+db_name = '<dbname>sockmarket.db'
+
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + db_name
+
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
+
+# this variable, db, will be used for all SQLAlchemy commands
+db = SQLAlchemy(app)
+
+# each table in the database needs a class to be created for it
+# db.Model is required - don't change it
+# identify all columns by name and data type
+class Sock(db.Model):
+ __tablename__ = 'socks' id = db.Column(db.Integer, primary_key=True) name = db.Column(db.String) style = db.Column(db.String) color = db.Column(db.String) quantity = db.Column(db.Integer) price = db.Column(db.Float) updated = db.Column(db.String) 
+#routes
+```
 ***
 
 Backlinks:

@@ -4,7 +4,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Alias: Obsidian Vault Consolidation
 ---
 
-Type: #Type/Project
+Type: #Type/Project/Personal 
 
 # Obsidian Vault Consolidation
 

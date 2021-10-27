@@ -8,8 +8,6 @@ Source Type: #Type/Diagram
 Category: #Category/PKM
 Status: #Status/Permanent 
 
-#Favorite
-
 # Information Flow
 
 *Source: [Note-Taking when Reading the Web and RSS](https://zettelkasten.de/posts/reading-web-rss-note-taking/)*

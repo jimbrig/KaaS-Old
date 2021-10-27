@@ -5,24 +5,32 @@
       "path": "Projects/Projects Kanban.md"
     },
     {
+      "basename": "Obsidian Vault Consolidation",
+      "path": "Projects/Obsidian Vault Consolidation.md"
+    },
+    {
+      "basename": "Azure Machine Learning",
+      "path": "Literary Notes/Azure Machine Learning.md"
+    },
+    {
+      "basename": "Azure DevOps Pipelines",
+      "path": "Literary Notes/Azure DevOps Pipelines.md"
+    },
+    {
+      "basename": "Azure DevOps Pipeline Configuration",
+      "path": "Literary Notes/Azure DevOps Pipeline Configuration.md"
+    },
+    {
+      "basename": "Information Flow",
+      "path": "Literary Notes/Information Flow.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Inbox/Untitled.md"
     },
     {
       "basename": "README",
       "path": "Highlights/README.md"
-    },
-    {
-      "basename": "Master Evernote",
-      "path": "Highlights/Readwise/Books/Master Evernote.md"
-    },
-    {
-      "basename": "How to Save Email Into Evernote",
-      "path": "Highlights/Readwise/Articles/How to Save Email Into Evernote.md"
-    },
-    {
-      "basename": "Obsidian Vault Consolidation",
-      "path": "Projects/Obsidian Vault Consolidation.md"
     },
     {
       "basename": "Project",
@@ -133,10 +141,6 @@
       "path": "Literary Notes/PKM - Trust the Process.md"
     },
     {
-      "basename": "Information Flow",
-      "path": "Literary Notes/Information Flow.md"
-    },
-    {
       "basename": "Getting Things Done",
       "path": "Literary Notes/Getting Things Done.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "README",
       "path": "Plans/Daily/README.md"
-    },
-    {
-      "basename": "2021-10-24",
-      "path": "Plans/Daily/2021-10-24.md"
-    },
-    {
-      "basename": "Machine Learning Operations - MLOps",
-      "path": "Literary Notes/Machine Learning Operations - MLOps.md"
     }
   ],
   "omittedPaths": [],

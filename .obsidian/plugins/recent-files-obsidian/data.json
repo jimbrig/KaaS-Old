@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Projects Kanban",
+      "path": "Projects/Projects Kanban.md"
+    },
+    {
       "basename": "Obsidian Vault Consolidation",
       "path": "Projects/Obsidian Vault Consolidation.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "Placeholders/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "People/README.md"
     }
   ],
   "omittedPaths": [],

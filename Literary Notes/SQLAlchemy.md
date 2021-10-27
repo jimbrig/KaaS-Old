@@ -148,25 +148,19 @@ If you cannot get your Flask app to connect to your database, check the followin
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 
-app = Flask(__name__)
-
-# the name of the database; add path if necessary
-db_name = '<dbname>sockmarket.db'
-
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + db_name
-
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
-
-# this variable, db, will be used for all SQLAlchemy commands
-db = SQLAlchemy(app)
-
 # each table in the database needs a class to be created for it
 # db.Model is required - don't change it
 # identify all columns by name and data type
 class Sock(db.Model):
  __tablename__ = 'socks' id = db.Column(db.Integer, primary_key=True) name = db.Column(db.String) style = db.Column(db.String) color = db.Column(db.String) quantity = db.Column(db.Integer) price = db.Column(db.Float) updated = db.Column(db.String) 
-#routes
 ```
+
+[See all possible data types here.](https://flask-sqlalchemy.palletsprojects.com/en/2.x/models/#simple-example)
+[The entire app, including its templates and the database file, is here.](https://github.com/macloo/python-adv-web-apps/tree/master/python_code_examples/flask/databases/flask_db_read)
+Search on the [Query API page](https://docs.sqlalchemy.org/en/13/orm/query.html) in the SQLAlchemy documentation when you need to work out the syntax for an unusual query.
+
+Flask forms using **Flask-WTF** and **Flask-Bootstrap4** were introduced in the chapter [Flask: Web Forms](https://python-adv-web-apps.readthedocs.io/en/latest/flask_forms.html). See [the code for this form](https://python-adv-web-apps.readthedocs.io/en/latest/flask_db3.html#the-form-without-validators) below.
+
 ***
 
 Backlinks:

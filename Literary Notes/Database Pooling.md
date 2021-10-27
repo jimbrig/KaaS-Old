@@ -28,9 +28,17 @@ In Python you can utilize [PySQLPool](http://packages.python.org/PySQLPool/) for
 
 For production applications with Python you should by using [[SQLAlchemy]] with a connection pool configured, even if you are not interested in coding using the native [[SQLAlchemy ORM]]. See [SQLAlchemy in Flask — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/patterns/sqlalchemy/#sql-abstraction-layer) for details on setting up a **SQL Abstraction Layer** with [[SQLAlchemy]] and [[Python Flask]].
 
+## Reference
+
+- [The Flask Mega-Tutorial Part IV Database](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database)
+- [Flask-SQLAlchemy — Flask-SQLAlchemy Documentation (2.x)](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
+- [SQLAlchemy in Flask — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/patterns/sqlalchemy/#sql-abstraction-layer)
+- https://en.wikipedia.org/wiki/Singleton_pattern
 
 
 ***
 
 Backlinks:
--	
+-	[[Python Flask]]
+-	[[System Design]]
+-	[[Web Development]]

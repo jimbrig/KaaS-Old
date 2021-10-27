@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Python Flask",
-      "path": "Python Flask.md"
-    },
-    {
       "basename": "Database Pooling",
       "path": "Literary Notes/Database Pooling.md"
+    },
+    {
+      "basename": "SQLAlchemy ORM",
+      "path": "SQLAlchemy ORM.md"
+    },
+    {
+      "basename": "SQLAlchemy",
+      "path": "SQLAlchemy.md"
+    },
+    {
+      "basename": "Python Flask",
+      "path": "Python Flask.md"
     },
     {
       "basename": "REST API Design Best Practices",
@@ -191,14 +199,6 @@
     {
       "basename": "The Official Guide to Using Todoist Build Your Perfect Productivity Workfl",
       "path": "Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md"
-    },
-    {
-      "basename": "Persistent Config and Data for R Packages - R-Hub Blog",
-      "path": "Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md"
-    },
-    {
-      "basename": "Reproducible Research With R and RStudio",
-      "path": "Highlights/Readwise/Books/Reproducible Research With R and RStudio.md"
     }
   ],
   "omittedPaths": [],

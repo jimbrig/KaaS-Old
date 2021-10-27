@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python Flask.md",
-            "mode": "source"
+            "file": "Literary Notes/Database Pooling.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Flask.md",
+                "file": "Literary Notes/Database Pooling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Flask.md",
+                "file": "Literary Notes/Database Pooling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Flask.md"
+                "file": "Literary Notes/Database Pooling.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Python Flask.md",
+                "file": "Literary Notes/Database Pooling.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,15 +196,15 @@
   },
   "active": "1d3c8e6870d80bf6",
   "lastOpenFiles": [
-    "Python Flask.md",
     "Literary Notes/Database Pooling.md",
+    "SQLAlchemy ORM.md",
+    "SQLAlchemy.md",
+    "Python Flask.md",
     "Literary Notes/REST API Design Best Practices.md",
     "Projects/RStudio Configuration.md",
     "Projects/Projects Kanban.md",
     "README.md",
     "Projects/Build Tools R Package.md",
-    "lossdevt.md",
-    "Projects/Loss Development R Package.md",
-    "Projects/Obsidian Vault Consolidation.md"
+    "lossdevt.md"
   ]
 }

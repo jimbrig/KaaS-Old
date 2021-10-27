@@ -22,11 +22,15 @@ Avoid the naive approach of creating and closing out a new database connection f
 
 Database pooling is a nice middle ground between the two methods mentioned above on how to preserve a database connection properly. 
 
-Instead of opening and closing a connection per request/endpoint, you now acquire and release a
+Instead of opening and closing a connection per request/endpoint, you now acquire and release a connection from the database connection pool. 
+
+In Python you can utilize [PySQLPool](http://packages.python.org/PySQLPool/) for `mysql` for example.
+
+For production applications with Python you should by using [[SQLAlchemy]] with a connection pool configured, even if you are not interested in coding using the native [[SQLAlchemy ORM]]. See [SQLAlchemy in Flask — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/patterns/sqlalchemy/#sql-abstraction-layer) for details on setting o
 
 
 
 ***
 
 Backlinks:
--
+-	

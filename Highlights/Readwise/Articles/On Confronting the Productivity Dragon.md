@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.calnewport.com/blog/2020/07/23/on-confronting-the-productivity-dragon-take-2/
+---
 # On Confronting the Productivity Dragon
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[calnewport.com]]

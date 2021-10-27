@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: feedly
+Link: https://feedly.com/i/entry/o+Hb/2SWhsHwOl228ffK1QcYzBlMK3lVyz/Zz4ArACM=_17695237c7c:35e4f3:1e82ad8f
+---
 # Guest Post: Using Todoist With MYN and 1MTD by Charles Olsen
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[Michael Linenberger]]

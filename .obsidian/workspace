@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "Templates/Temporal/Annual.md",
+            "mode": "preview"
           }
         }
       }
@@ -22,7 +22,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9b20ef6c6f0d76b8",
+        "id": "e788a3d2141670ba",
         "type": "tabs",
         "children": [
           {
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#article",
+                "query": "tag:#Type/Annual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,12 +55,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "2d9a9cc6e70b637c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303
   },
   "right": {
     "id": "bfbc1479c692d933",
@@ -76,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Temporal/Annual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Temporal/Annual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Templates/Temporal/Annual.md"
               }
             }
           },
@@ -127,21 +135,30 @@
               "type": "calendar",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "c2c7cbd5e353e710",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "a11b28a8575e125b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b78828de20a56e8",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
           {
             "id": "6286e0dfec9b2207",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Temporal/Annual.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,28 +182,29 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.4399620332244863,
-                  "close": true
+                  "close": false
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 411
+    "width": 453
   },
   "active": "b2733fb1cfb50eb9",
   "lastOpenFiles": [
-    "README.md",
-    "Inbox/About this Vault.md",
-    "Placeholders/Medium.md",
-    "Highlights/README.md",
-    "Highlights/Readwise/Articles/'Mustashe' Explained  Joshua Cook.md",
-    "Highlights/Medium/RESTful API Design — Step by Step Guide.md",
-    "Highlights/Medium/9 Tricks for Boosting SQL Query Performance.md",
-    "Highlights/Medium/Writing Well- A Must-Have Skill That No One Teaches Data Scientists.md",
-    "Highlights/Medium/Completing Tasks — 10 Steps to Finishing What You Start.md",
-    "Highlights/Medium/CloudRun With Serverless VPC Access + CloudSQL With Private Service Connect_.md"
+    "Templates/Temporal/Annual.md",
+    "Plans/Annual/2020.md",
+    "Plans/Daily/README.md",
+    "Plans/Daily/2021-10-26.md",
+    "Plans/Daily/2021-10-27.md",
+    "Plans/Daily/2021-10-24.md",
+    "Plans/Day Planners/Day Planner-20211026.md",
+    "'Plans/Annual/2020'.md",
+    "Inbox/Microsoft Developer Docs.md",
+    "Inbox/Developer Operations - DevOps.md"
   ]
 }

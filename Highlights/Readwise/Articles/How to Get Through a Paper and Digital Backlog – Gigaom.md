@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://gigaom.com/2007/10/04/how-to-get-through-a-paper-and-digital-backlog/
+---
 # How to Get Through a Paper and Digital Backlog – Gigaom
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[gigaom.com]]

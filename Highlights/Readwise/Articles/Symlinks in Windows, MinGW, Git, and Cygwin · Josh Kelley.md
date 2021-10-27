@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.joshkel.com/2018/01/18/symlinks-in-windows/
+---
 # Symlinks in Windows, MinGW, Git, and Cygwin · Josh Kelley
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[joshkel.com]]

@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://fortelabs.co/blog/one-touch-to-inbox-zero/
+---
 # One-Touch to Inbox Zero: How I Spend 17 Minutes Per Day on Email - Forte Labs
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[fortelabs.co]]

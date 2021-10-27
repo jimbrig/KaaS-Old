@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.fastcompany.com/40557798/27-incredibly-useful-things-you-didnt-know-chrome-could-do
+---
 # 27 Incredibly Useful Things You Didn’t Know Chrome Could Do
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[JR Raphael]]

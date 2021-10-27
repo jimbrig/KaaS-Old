@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: kindle
+Link:
+---
 # Reproducible Research With R and RStudio
-
-![rw-book-cover](https://m.media-amazon.com/images/I/71AVbBLqg9L._SY160.jpg)
 
 ## Metadata
 - Author: [[Christopher Gandrud]]

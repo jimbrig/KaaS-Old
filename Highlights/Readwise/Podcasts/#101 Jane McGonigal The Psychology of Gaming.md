@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/6006b12697881f08a112da92
+---
 # #101 Jane McGonigal: The Psychology of Gaming
-
-![rw-book-cover](https://ssl-static.libsyn.com/p/assets/9/5/b/b/95bb34540c153a79/KP-logo-red-1400px.png)
 
 ## Metadata
 - Author: [[The Knowledge Project with Shane Parrish]]

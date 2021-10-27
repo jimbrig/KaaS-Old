@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/5dd2651612887dcb57a86ef4
+---
 # He Ran Across America — On Plants
-
-![rw-book-cover](https://assets.pippa.io/shows/5de6c1c9bd860fd53f965e25/show-cover.jpg)
 
 ## Metadata
 - Author: [[The Rich Roll Podcast]]

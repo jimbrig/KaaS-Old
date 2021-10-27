@@ -14300,7 +14300,7 @@ var buildMathML_makeRow = function makeRow(body) {
 var buildMathML_getVariant = function getVariant(group, options) {
   // Handle \text... font specifiers as best we can.
   // MathML has a limited list of allowable mathvariant specifiers; see
-  // https://www.w3.org/TR/MathML3/chapter3.html#presm.commatt
+  // https://www.w3.org/TR/MathML3/chapter3.htmlresm.commatt
   if (options.fontFamily === "texttt") {
     return "monospace";
   } else if (options.fontFamily === "textsf") {

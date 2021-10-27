@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.personalbrandingblog.com/seth-godins-7-point-guide-to-bootstrap-your-personal-brand/
+---
 # Seth Godin's 7-Point Guide to Bootstrap Your Personal Brand - Personal Bran
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: 

@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/5e8265e24cc59f3b892e9c0d
+---
 # Borrowed Creativity
-
-![rw-book-cover](https://ssl-static.libsyn.com/p/assets/0/8/8/e/088e8f2ed927f575/second_brain_podcast_300dpi.png)
 
 ## Metadata
 - Author: [[The Building a Second Brain Podcast]]

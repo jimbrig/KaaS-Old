@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://blog.exploratory.io/why-factor-is-one-of-the-most-amazing-things-in-r-e967fe27d292
+---
 # Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[Kan Nishida]]

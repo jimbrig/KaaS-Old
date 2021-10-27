@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: http://www.win-vector.com/blog/2020/03/re-share-vtreat-data-preparation-documentation-and-video/
+---
 # Re-Share: Vtreat Data Preparation Documentation and Video – Win-Vector Blog
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: 

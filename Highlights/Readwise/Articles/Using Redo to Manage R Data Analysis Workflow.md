@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: http://karolis.koncevicius.lt/posts/using_redo_to_manage_r_data_analysis_workflow/
+---
 # Using Redo to Manage R Data Analysis Workflow
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[karolis.koncevicius.lt]]

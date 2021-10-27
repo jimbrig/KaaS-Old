@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: http://theautomatic.net/2018/08/24/getting-data-from-pdfs-the-easy-way-with-r/
+---
 # Getting Data From PDFs the Easy Way With R - Open Source Automation
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: 

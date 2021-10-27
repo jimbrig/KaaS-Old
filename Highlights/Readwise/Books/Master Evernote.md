@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: kindle
+Link:
+---
 # Master Evernote
-
-![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51dOQ2ytN-L._SL200_.jpg)
 
 ## Metadata
 - Author: [[S.J. Scott]]

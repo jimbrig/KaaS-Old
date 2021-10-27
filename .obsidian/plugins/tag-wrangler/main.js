@@ -2992,7 +2992,7 @@ class ParseContext {
       if (offset <= start) {
         // This should never happen, but if it does, let's make sure to at least
         // step one character forward to avoid a busy loop.
-        node.error = new Error("Node#parse consumed no characters");
+        node.error = new Error("Nodearse consumed no characters");
         node.error.parseEnd = offset;
         node.error.source = node;
         node.range.end = start + 1;
@@ -5024,7 +5024,7 @@ const binary = {
    * To use the resulting buffer as an image, you'll want to do something like:
    *
    *   const blob = new Blob([buffer], { type: 'image/jpeg' })
-   *   document.querySelector('#photo').src = URL.createObjectURL(blob)
+   *   document.querySelector('hoto').src = URL.createObjectURL(blob)
    */
   resolve(src, onError) {
     if (typeof Buffer === 'function') {

@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: kindle
+Link:
+---
 # Evernote Guide - Master Evernote Essentials
-
-![rw-book-cover](https://m.media-amazon.com/images/I/61hFuzBQudL._SY160.jpg)
 
 ## Metadata
 - Author: [[Lisa Gosling]]

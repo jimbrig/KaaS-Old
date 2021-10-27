@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.themuse.com/advice/digital-decluttering-how-to-streamline-your-online-life
+---
 # Digital De-Cluttering: How to Streamline Your Online Life
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[themuse.com]]

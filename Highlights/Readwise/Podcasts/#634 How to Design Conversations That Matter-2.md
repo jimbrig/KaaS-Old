@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/5f319072f3a8e12e79e0f4e8
+---
 # #634: How to Design Conversations That Matter
-
-![rw-book-cover](https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/6081eee7-c459-4e12-a1ab-aadc000fc4a7/413a6904-4d72-4be8-9421-aadc000fc4ba/image.jpg?t=1570150646&size=Large)
 
 ## Metadata
 - Author: [[The Art of Manliness]]

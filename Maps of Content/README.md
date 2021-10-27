@@ -3,13 +3,9 @@ Date: 2021-10-26
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 ---
 
-#Type/MOC
+#Type/Readme #Type/MOC
 
-# Maps of Content
-
-- [[Personal Knowledge Management]]
-- [[Productivity]]
-- [[Development]]
+# Maps of Cont[[Maps of Content/Personal Knowledge Management]]age[[Maps of Content/Productivity]]uct[[Maps of Content/Development]]velopment]]
 	- [[Developer Tools]]
 	- [[Development - Web]]
 	- [[Development - Cloud]]

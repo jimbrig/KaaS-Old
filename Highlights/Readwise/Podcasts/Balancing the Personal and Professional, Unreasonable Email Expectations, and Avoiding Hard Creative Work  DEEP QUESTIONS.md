@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.buzzsprout.com/1121972/4342781-balancing-the-personal-and-professional-unreasonable-email-expectations-and-avoiding-hard-creative-work-deep-questions.mp3?blob_id=18580067
+---
 # Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work | DEEP QUESTIONS
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]

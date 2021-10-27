@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/5f9a8f3f960a543cc5fb5ba6
+---
 # Laurie Santos, PhD | Simple Ways to Live a Happier Life
-
-![rw-book-cover](https://image.simplecastcdn.com/images/686e9f56-c788-4cc2-a3e7-2811bebe5198/fc2f8097-29f6-446d-9a6c-42e45a360d46/3000x3000/trained-cover-ryan.jpg?aid=rss_feed)
 
 ## Metadata
 - Author: [[TRAINED]]

@@ -11,9 +11,7 @@ Source Type: #Type/Article
 *Source: [The Collector’s Fallacy](https://zettelkasten.de/posts/collectors-fallacy/)*
 
 > I rarely consult secondary sources again. If I have to do so, it means that I did not do the job right the first time.  
-–[MK, of “Taking Note Now”](http://takingnotenow.blogspot.com/2013/11/devonthink-reconsidered.html)
-
-[[The Collector's Fallacy]] tells us that collecting does not magically increase knowledge. We have to consume and interpret text effectively to assimilate its ideas and learn from it. Reading effectively means the text changes our knowledge permanently. Only when we learn from the text and begin to work with the ideas it presents are we gaining from its knowledge. The key is to extract what's inside and *write things down in our own words*.
+–[MK, of “Taking Note Now”](http://takingnotenow.blogspot.com/2013/11/devonthink-reconsi[[Literary Notes/The Collector's Fallacy]]tor's Fallacy]] tells us that collecting does not magically increase knowledge. We have to consume and interpret text effectively to assimilate its ideas and learn from it. Reading effectively means the text changes our knowledge permanently. Only when we learn from the text and begin to work with the ideas it presents are we gaining from its knowledge. The key is to extract what's inside and *write things down in our own words*.
 
 If we read without taking notes, our knowledge increases for a short time only. Once we forget what we knew, having read the text becomes worthless. You can bet that you’ll forget about the text’s information one day. It’s guaranteed. Thus, reading without taking notes is just a waste of time in the long run. It’s as if reading never happened.
 
@@ -27,7 +25,7 @@ This is a first step to conquer [[The Collector’s Fallacy]]: to realize that h
 
 Shorter cycles of research, reading, and knowledge assimilation are better than long ones. With every full cycle from research to knowledge assimilation, we learn more about the topic. When we know more, our decisions are more informed, thus our research gets more efficient. If, on the other hand, we take home a big pile of material to read and process, some of it will turn out be useless once we finished parts of the pile. To minimize waste, both of time and of paper, it’s beneficial to immerse oneself step by step and learn on the way instead of making big up-front decisions based on guesswork.
 
-The habit of keeping the cycle of research, reading, and knowledge assimilation short is a powerful way to circumvent our innate addiction to gather piles of stuff.
+The habit of keeping the cycle of research, reading, and knowledge assimilation short is a powerful way to circumvent our innate addictio[[Inbox/The Knowledge Cycle]]uff.
 
 [[The Knowledge Cycle]]
 
@@ -37,14 +35,8 @@ To form a habit, you have to set yourself actionable limits and keep score.
 -   Then do a quick review of the cycle: how well did it go? Did you learn something new? Was it too much or too little you found in the amount of time?
 -   Afterwards, change the time limit a bit if you think it wasn’t appropriate.
 
-Repeat the cycle and keep track of your perceived productivity until you establish a feedback-supported routine which suits your needs.
-
-***
-
-Related:
-- [[The Knowledge Cycle]]
-- [[The Collector's Fallacy]]
-- [[Note Taking and The Internet Best Practices]]
+Repeat the cycle and keep track of your perceived productivity until you establish a feedback-supported routine wh[[Inbox/The Knowledge Cycle]]
+*[[Literary Notes/The Collector's Fallacy]]wle[[Literary Notes/Note Taking and The Internet Best Practices]][No[[Literary Notes/Information Flow]]ternet Best Practices]]
 - [[Information Flow]]
 
 ***

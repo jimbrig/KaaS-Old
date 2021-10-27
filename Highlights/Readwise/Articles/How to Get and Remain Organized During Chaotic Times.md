@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: feedly
+Link: https://feedly.com/i/entry/UlwJt8pnKTUukHWHOFLyI5WIpgdbpI6aiTOWI99pQ0w=_176656f83b6:7acda:c0c31fea
+---
 # How to Get and Remain Organized During Chaotic Times
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: [[Molly Stovold]]

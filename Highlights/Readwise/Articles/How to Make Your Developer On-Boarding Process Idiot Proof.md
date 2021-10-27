@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: http://shiporgetoffthepot.com/how-to-make-your-developer-onboarding-process-idiot-proofresistant/
+---
 # How to Make Your Developer On-Boarding Process Idiot Proof
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[Matt]]

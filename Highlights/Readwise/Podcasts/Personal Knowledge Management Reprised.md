@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/5fd21fa7c5e8436a9eda66d3
+---
 # Personal Knowledge Management Reprised
-
-![rw-book-cover](https://feeds.podcastmirror.com/~images/1124841582728068.jpeg)
 
 ## Metadata
 - Author: [[Teaching in Higher Ed]]

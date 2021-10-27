@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.next-action.co.uk/2014/02/18/nitty-gritty-clearing-inbox-2/
+---
 # The Nitty-Gritty – Clearing Out Your Inbox - Next Action Associates
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: [[Edward Lamont]]

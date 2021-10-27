@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.lesswrong.com/posts/BHp82PvqCDayFpefg/implementing-an-idea-management-system
+---
 # Implementing an Idea-Management System - LessWrong 2.0
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[lesswrong.com]]

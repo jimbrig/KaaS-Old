@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://radreads.co/productivity-workflow-and-pkm-design-with-tiago-forte-and-khe-hy-325783bb3ea2/
+---
 # First Principles of Workflow Design (A 2-Part Episode) | RadReads
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[Khe Hy]]

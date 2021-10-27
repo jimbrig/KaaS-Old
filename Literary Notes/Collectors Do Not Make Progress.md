@@ -26,12 +26,12 @@ Quote from [How to Write a Thesis](https://www.amazon.com/How-Write-Thesis-MIT-P
 - Similarly, when it comes to managing bookmarks. We stumble upon an interesting web page and don’t want to lose the information, thus we keep it as a bookmark. The digital pile of bookmarks isn’t any different from a tangible pile of papers we consider worth knowing. **Kept isn’t Read**.
 - Just like photocopying is self-rewarding and addictive, I argue that we fall into the same trap of false comfort when we bookmark web pages and sort the bookmarks into folders or tagged categories. Bookmarking a web page is satisfying because we get rid of the fear of losing access to the information.
 
-To counter this resulting outcome derived from the [[The Collector's Fallacy]], see [[Rinse and Repeat - Research, Read, Assimilate]].
+To counter this resulting outcome derived from the [[Literary Notes/The Collector's Fallacy]], see [[Literary Notes/Rinse and Repeat - Research, Read, Assimilate]].
 
 ***
 
 Backlinks:
-- [[The Collector's Fallacy]]
-- [[Zettelkasten]]
-- [[Rinse and Repeat - Research, Read, Assimilate]]
+- [[Literary Notes/The Collector's Fallacy]]
+- [[Literary Notes/Zettelkasten]]
+- [[Literary Notes/Rinse and Repeat - Research, Read, Assimilate]]
 -	

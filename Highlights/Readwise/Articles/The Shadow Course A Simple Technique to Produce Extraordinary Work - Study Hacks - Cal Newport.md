@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.calnewport.com/blog/2009/05/04/the-shadow-course-a-simple-technique-to-produce-extraordinary-work/
+---
 # The Shadow Course: A Simple Technique to Produce Extraordinary Work - Study Hacks - Cal Newport
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: 

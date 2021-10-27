@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.carlpullein.com/blog/collecting-and-organising-data-for-maximum-productivity/8/7/2020
+---
 # Collecting and Organising Data for Maximum Productivity. — Carl Pullein
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[Carl Pullein]]

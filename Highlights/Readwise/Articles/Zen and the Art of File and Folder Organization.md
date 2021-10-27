@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.howtogeek.com/howto/15677/zen-and-the-art-of-file-and-folder-organization/
+---
 # Zen and the Art of File and Folder Organization
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[Mark Virtue]]

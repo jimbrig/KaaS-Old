@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: manual
+Link:
+---
 # Tribe of Mentors
-
-![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51jkW-GzFiL._SL200_.jpg)
 
 ## Metadata
 - Author: [[Timothy Ferriss]]

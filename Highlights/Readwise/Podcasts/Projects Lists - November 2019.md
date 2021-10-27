@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/60177110dd6600f5640c1865
+---
 # Projects Lists - November 2019
-
-![rw-book-cover](https://gtdconnect.com/images/audio-banner.jpg)
 
 ## Metadata
 - Author: [[GTD|Connect Members-Only Podcasts]]

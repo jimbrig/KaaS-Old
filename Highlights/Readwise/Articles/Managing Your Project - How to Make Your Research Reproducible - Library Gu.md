@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://guides.lib.berkeley.edu/c.php?g=652220&p=4575532
+---
 # Managing Your Project - How to Make Your Research Reproducible - Library Gu
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: [[Anna Sackmann]]

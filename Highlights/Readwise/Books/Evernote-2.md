@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: kindle
+Link:
+---
 # Evernote
-
-![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51UV76-2QSL._SL200_.jpg)
 
 ## Metadata
 - Author: [[Kimberly Eddy]]

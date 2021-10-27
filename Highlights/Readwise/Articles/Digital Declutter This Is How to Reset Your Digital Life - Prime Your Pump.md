@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://primeyourpump.com/2019/05/16/digital-declutter/
+---
 # Digital Declutter: This Is How to Reset Your Digital Life - Prime Your Pump
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: [[Rick Melnyck]]

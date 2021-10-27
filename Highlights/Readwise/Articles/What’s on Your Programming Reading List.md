@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://levelup.gitconnected.com/whats-on-your-programming-reading-list-472fc23ed9bc
+---
 # What’s on Your Programming Reading List?
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: [[levelup.gitconnected.com]]

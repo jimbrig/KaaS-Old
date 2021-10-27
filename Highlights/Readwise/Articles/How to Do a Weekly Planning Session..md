@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: feedly
+Link: https://www.carlpullein.com/blog/how-to-do-a-weekly-planning-session/18/11/2020-1
+---
 # How to Do a Weekly Planning Session.
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[Carl Pullein]]

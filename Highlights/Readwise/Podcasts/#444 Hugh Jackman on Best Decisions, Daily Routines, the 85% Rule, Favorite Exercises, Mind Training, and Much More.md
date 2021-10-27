@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://rss.art19.com/episodes/ec2a4e45-73c9-4c90-b537-45b4433a0687.mp3
+---
 # #444: Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: [[The Tim Ferriss Show]]

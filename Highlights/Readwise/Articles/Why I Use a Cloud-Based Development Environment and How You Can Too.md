@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.mikenikles.com/blog/why-i-use-a-cloud-based-development-environment-and-how-you-can-too
+---
 # Why I Use a Cloud-Based Development Environment and How You Can Too
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[mikenikles.com]]

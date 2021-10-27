@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: feedly
+Link: https://www.mindtools.com/blog/reflect-recover-reset-life-plan-2021/
+---
 # Reflect, Recover, Reset – Your Life Plan 2021
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[Claire Minnis]]

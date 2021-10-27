@@ -1,6 +1,10 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: kindle
+Link:
+---
 # Design Your Work
-
-![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41-jKdYmJGL._SL200_.jpg)
 
 ## Metadata
 - Author: [[Tiago Forte]]

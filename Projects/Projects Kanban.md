@@ -6,13 +6,13 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] [[Loss Development R Package]] #Type/Project/Personal #Category/Development/Actuarial <br>#Category/Development/R/Package<br>#Category/Development/R/Shiny<br>#Category/Development/WebDev
-- [ ] `buildtools` R Package #Type/Project/Personal #Category/Development/R
+- [ ] [[Loss Development R Package|lossdevt]]
+- [ ] [[Build Tools R Package|buildtools]]
 
 
 ## Active
 
-- [ ] [[Obsidian Vault Consolidation]] #Type/Project/Personal @{2021-10-28} #Category/PKM
+- [ ] [[README|KaaS]]
 
 
 ## Complete
@@ -20,7 +20,11 @@ kanban-plugin: basic
 **Complete**
 
 
+***
 
+## Archive
+
+- [ ] `buildtools` R Package #Type/Project/Personal #Category/Development/R
 
 %% kanban:settings
 ```

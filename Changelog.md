@@ -1,4 +1,5 @@
-- 2021-10-27 at 15h07 · [[Projects Kanban]]
+- 2021-10-27 at 15h09 · [[Projects Kanban]]
+- 2021-10-27 at 15h07 · [[Build Tools R Package]]
 - 2021-10-27 at 15h06 · [[Loss Development R Package]]
 - 2021-10-27 at 14h57 · [[Obsidian Vault Consolidation]]
 - 2021-10-27 at 14h56 · [[Azure Machine Learning]]

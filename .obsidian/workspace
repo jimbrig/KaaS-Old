@@ -7,10 +7,9 @@
         "id": "1d3c8e6870d80bf6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Projects/Loss Development R Package.md",
-            "mode": "source"
+            "file": "Projects/Projects Kanban.md"
           }
         }
       }
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Loss Development R Package.md",
+                "file": "Projects/Projects Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Loss Development R Package.md",
+                "file": "Projects/Projects Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Loss Development R Package.md"
+                "file": "Projects/Projects Kanban.md"
               }
             }
           },
@@ -150,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Loss Development R Package.md",
+                "file": "Projects/Projects Kanban.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,15 +195,15 @@
   },
   "active": "1d3c8e6870d80bf6",
   "lastOpenFiles": [
-    "Projects/Loss Development R Package.md",
     "Projects/Projects Kanban.md",
+    "Projects/Build Tools R Package.md",
+    "lossdevt.md",
+    "Projects/Loss Development R Package.md",
     "Projects/Obsidian Vault Consolidation.md",
     "Projects/Obsidian Vault Consolidation 1.md",
     "Literary Notes/Azure Machine Learning.md",
     "Literary Notes/Azure DevOps Pipelines.md",
     "Literary Notes/Azure DevOps Pipeline Configuration.md",
-    "Literary Notes/Information Flow.md",
-    "Highlights/Readwise/Articles/How to Save Email Into Evernote.md",
-    "Inbox/Untitled.md"
+    "Literary Notes/Information Flow.md"
   ]
 }

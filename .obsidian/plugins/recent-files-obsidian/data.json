@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Loss Development R Package",
-      "path": "Projects/Loss Development R Package.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Projects Kanban",
       "path": "Projects/Projects Kanban.md"
+    },
+    {
+      "basename": "Build Tools R Package",
+      "path": "Projects/Build Tools R Package.md"
+    },
+    {
+      "basename": "Loss Development R Package",
+      "path": "Projects/Loss Development R Package.md"
     },
     {
       "basename": "Obsidian Vault Consolidation",
@@ -75,10 +83,6 @@
     {
       "basename": "Tools I Use",
       "path": "Inbox/Tools I Use.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Changelog",
@@ -191,14 +195,6 @@
     {
       "basename": "A Builder’s Guide to Note-Taking",
       "path": "Highlights/Readwise/Articles/A Builder’s Guide to Note-Taking.md"
-    },
-    {
-      "basename": "Annual",
-      "path": "Templates/Temporal/Annual.md"
-    },
-    {
-      "basename": "README",
-      "path": "Plans/Daily/README.md"
     }
   ],
   "omittedPaths": [],

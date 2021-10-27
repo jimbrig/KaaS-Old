@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://rsangole.netlify.app/post/2020/10/10/reproducible-work-in-r/
+---
 # {yHat} - Reproducible Work in R
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[rsangole.netlify.app]]
 - Full Title: {yHat} - Reproducible Work in R
-- 
+- Category: #Type/Highlights/Article
 - URL: https://rsangole.netlify.app/post/2020/10/10/reproducible-work-in-r/
 
 ## Highlights

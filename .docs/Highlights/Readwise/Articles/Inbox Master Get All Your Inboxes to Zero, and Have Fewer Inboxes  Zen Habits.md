@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://zenhabits.net/inbox-master-get-all-your-inboxes-to-zero-and-have-fewer-inboxes/
+---
 # Inbox Master: Get All Your Inboxes to Zero, and Have Fewer Inboxes : Zen Habits
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: 
 - Full Title: Inbox Master: Get All Your Inboxes to Zero, and Have Fewer Inboxes : Zen Habits
-- 
+- Category: #Type/Highlights/Article
 - URL: https://zenhabits.net/inbox-master-get-all-your-inboxes-to-zero-and-have-fewer-inboxes/
 
 ## Highlights

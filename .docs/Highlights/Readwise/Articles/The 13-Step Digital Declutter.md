@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: http://www.theguardian.com/technology/2017/jul/30/13-step-digital-declutter-clean-up-online
+---
 # The 13-Step Digital Declutter
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: [[Darien Graham-Smith]]
 - Full Title: The 13-Step Digital Declutter
-- 
+- Category: #Type/Highlights/Article
 - URL: http://www.theguardian.com/technology/2017/jul/30/13-step-digital-declutter-clean-up-online
 
 ## Highlights

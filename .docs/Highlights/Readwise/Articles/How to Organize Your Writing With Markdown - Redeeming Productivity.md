@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.redeemingproductivity.com/markdown/
+---
 # How to Organize Your Writing With Markdown - Redeeming Productivity
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[redeemingproductivity.com]]
 - Full Title: How to Organize Your Writing With Markdown - Redeeming Productivity
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.redeemingproductivity.com/markdown/
 
 ## Highlights

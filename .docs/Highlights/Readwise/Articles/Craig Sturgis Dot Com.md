@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://craigsturgis.com/
+---
 # Craig Sturgis Dot Com
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[craigsturgis.com]]
 - Full Title: Craig Sturgis Dot Com
-- 
+- Category: #Type/Highlights/Article
 - URL: https://craigsturgis.com/
 
 ## Highlights

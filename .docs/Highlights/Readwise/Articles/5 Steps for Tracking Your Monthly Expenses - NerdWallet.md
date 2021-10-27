@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.nerdwallet.com/article/finance/tracking-monthly-expenses
+---
 # 5 Steps for Tracking Your Monthly Expenses - NerdWallet
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[nerdwallet.com]]
 - Full Title: 5 Steps for Tracking Your Monthly Expenses - NerdWallet
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.nerdwallet.com/article/finance/tracking-monthly-expenses
 
 ## Highlights

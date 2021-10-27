@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://quickbooost.com/essential-time-management-strategies/
+---
 # Powerful Time Management Strategies to Do More With Your Day
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: Powerful Time Management Strategies to Do More With Your Day
-- 
+- Category: #Type/Highlights/Article
 - URL: https://quickbooost.com/essential-time-management-strategies/
 
 ## Highlights

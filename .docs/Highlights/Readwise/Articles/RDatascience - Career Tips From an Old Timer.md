@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.reddit.com/r/datascience/comments/howrzj/career_tips_from_an_old_timer/?utm_content=body&utm_medium=post_embed&utm_name=aa1cc514de924595ae1b3b72e5a846f8&utm_source=embedly&utm_term=howrzj
+---
 # R/Datascience - Career Tips From an Old Timer
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: 
 - Full Title: R/Datascience - Career Tips From an Old Timer
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.reddit.com/r/datascience/comments/howrzj/career_tips_from_an_old_timer/?utm_content=body&utm_medium=post_embed&utm_name=aa1cc514de924595ae1b3b72e5a846f8&utm_source=embedly&utm_term=howrzj
 
 ## Highlights

@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.cmcrossroads.com/article/top-10-best-practices-configuration-management
+---
 # Top 10 Best Practices in Configuration Management
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[cmcrossroads.com]]
 - Full Title: Top 10 Best Practices in Configuration Management
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.cmcrossroads.com/article/top-10-best-practices-configuration-management
 
 ## Highlights

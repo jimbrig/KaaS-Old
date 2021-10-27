@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://fortelabs.co/blog/supersizing-the-mind-the-science-of-cognitive-extension/
+---
 # Supersizing the Mind: The Science of Cognitive Extension - Forte Labs
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: 
 - Full Title: Supersizing the Mind: The Science of Cognitive Extension - Forte Labs
-- 
+- Category: #Type/Highlights/Article
 - URL: https://fortelabs.co/blog/supersizing-the-mind-the-science-of-cognitive-extension/
 
 ## Highlights

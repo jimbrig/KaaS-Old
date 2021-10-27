@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: feedly
+Link: https://www.techrepublic.com/article/how-to-use-the-windows-media-creation-tool-to-create-a-windows-10-iso-file/
+---
 # How to Use the Windows Media Creation Tool to Create a Windows 10 ISO File
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: [[techrepublic.com]]
 - Full Title: How to Use the Windows Media Creation Tool to Create a Windows 10 ISO File
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.techrepublic.com/article/how-to-use-the-windows-media-creation-tool-to-create-a-windows-10-iso-file/
 
 ## Highlights

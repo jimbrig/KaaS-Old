@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://veronikach.com/habits-productivity/how-im-implementing-gtd-with-todoist-evernote-and-google-calendar-part-1/
+---
 # GTD With Todoist, Evernote and Google Calendar | Dr Veronika CH
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: 
 - Full Title: GTD With Todoist, Evernote and Google Calendar | Dr Veronika CH
-- 
+- Category: #Type/Highlights/Article
 - URL: https://veronikach.com/habits-productivity/how-im-implementing-gtd-with-todoist-evernote-and-google-calendar-part-1/
 
 ## Highlights

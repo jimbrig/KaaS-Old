@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://theblissfulmind.com/organize-your-digital-files/
+---
 # How to Declutter & Organize Your Digital Files
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[theblissfulmind.com]]
 - Full Title: How to Declutter & Organize Your Digital Files
-- 
+- Category: #Type/Highlights/Article
 - URL: https://theblissfulmind.com/organize-your-digital-files/
 
 ## Highlights

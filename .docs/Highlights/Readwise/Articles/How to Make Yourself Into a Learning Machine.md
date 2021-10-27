@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://superorganizers.substack.com/p/how-to-build-a-learning-machine
+---
 # How to Make Yourself Into a Learning Machine
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[Dan Shipper]]
 - Full Title: How to Make Yourself Into a Learning Machine
-- 
+- Category: #Type/Highlights/Article
 - URL: https://superorganizers.substack.com/p/how-to-build-a-learning-machine
 
 ## Highlights
@@ -23,7 +27,7 @@
 - Notes get into my Zettelkasten from the highlights in my Readwise. Readwise has a feature called Daily Review which shows me about 15 of my book highlights every day.
   If I think a highlight is important, I’ll create a new note in my Zettelkasten and start connecting it with others. For example this is a note about the controversy zippers created when they first came into use:
 - You’ll see in my Zettelkasten I put in the original quote, then the source, and then write a small commentary on it.
-  Then I’ll start connecting this to other notes. One way to do that is with tags, and you’ll see that I added a  tag to the note.
+  Then I’ll start connecting this to other notes. One way to do that is with tags, and you’ll see that I added a `#pessimism` tag to the note.
   But my system also lets me create links directly to other notes as well.
   You’ll see on the right-hand side I have a full-text search prompt. To find other notes to connect it to, I might start by searching “pessimism”:
 - I have three main areas I throw tasks into:

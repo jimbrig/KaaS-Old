@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: medium
+Link: https://medium.com/p/55b7d687498b
+---
 # 4 Great Habits to Increase Productivity, Focus, Concentration, and Determination
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[Michał Stawicki]]
 - Full Title: 4 Great Habits to Increase Productivity, Focus, Concentration, and Determination
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/55b7d687498b
 
 ## Highlights

@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/5eef9121c7fd2b01c986b079
+---
 # Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media | DEEP QUESTIONS
-
-![rw-book-cover](https://storage.buzzsprout.com/variants/gs786v9wsn99x7epkmj25wtfs4bg/f81607a3cd537406cf0cf506c726bfe2824c5e584c9e9dc5e04e42436c820a79.jpg)
 
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media | DEEP QUESTIONS
-- Category: odcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5eef9121c7fd2b01c986b079
 
 ## Highlights

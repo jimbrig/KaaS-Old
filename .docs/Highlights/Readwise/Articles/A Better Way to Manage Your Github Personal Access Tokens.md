@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://ropensci.org/technotes/2020/07/07/github-pat/?utm_campaign=Feed%3A+rweekly-live+%28R+Weekly+Live%29&utm_medium=feed&utm_source=feedburner
+---
 # A Better Way to Manage Your Github Personal Access Tokens
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: 
 - Full Title: A Better Way to Manage Your Github Personal Access Tokens
-- 
+- Category: #Type/Highlights/Article
 - URL: https://ropensci.org/technotes/2020/07/07/github-pat/?utm_campaign=Feed%3A+rweekly-live+%28R+Weekly+Live%29&utm_medium=feed&utm_source=feedburner
 
 ## Highlights

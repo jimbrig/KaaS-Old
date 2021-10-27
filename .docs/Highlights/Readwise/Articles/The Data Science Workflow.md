@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://towardsdatascience.com/the-data-science-workflow-43859db0415
+---
 # The Data Science Workflow
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: 
 - Full Title: The Data Science Workflow
-- 
+- Category: #Type/Highlights/Article
 - URL: https://towardsdatascience.com/the-data-science-workflow-43859db0415
 
 ## Highlights

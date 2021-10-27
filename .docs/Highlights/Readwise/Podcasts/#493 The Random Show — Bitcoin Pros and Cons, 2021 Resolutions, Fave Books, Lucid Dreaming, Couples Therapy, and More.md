@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/60073ba1b457c0267dbe6846
+---
 # #493: The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More
-
-![rw-book-cover](https://content.production.cdn.art19.com/images/69/10/10/fb/691010fb-625e-4abe-993c-a57228b28dbe/91cb53ae0d5dbb379b9dffecf0a772593891d0d09bbe6d90ee746edbdb79e3ec75584f2ceb8260e9f675a90c05419b9b99842a76905b686f0f51c1a9d3e227ab.jpeg)
 
 ## Metadata
 - Author: [[The Tim Ferriss Show]]
 - Full Title: #493: The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More
-- Category: odcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/60073ba1b457c0267dbe6846
 
 ## Highlights

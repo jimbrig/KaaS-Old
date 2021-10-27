@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/60016bcbb457c03c15be5323
+---
 # This Is How We Change the World
-
-![rw-book-cover](https://content.production.cdn.art19.com/images/b7/f9/76/23/b7f97623-a2aa-44a9-bfa1-40341bd18c94/379a3d047e8e566c32fc717c077395fcba3de55ed55733190e50236abb42bc34485954c4f5752d9a13179967bcc292e9d027ef0bfa3becc4dae6088fb1d6f203.jpeg)
 
 ## Metadata
 - Author: [[The Mindset Mentor]]
 - Full Title: This Is How We Change the World
-- Category: odcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/60016bcbb457c03c15be5323
 
 ## Highlights

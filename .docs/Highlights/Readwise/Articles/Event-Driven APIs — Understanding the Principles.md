@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: medium
+Link: https://medium.com/p/c3208308d4b2
+---
 # Event-Driven APIs — Understanding the Principles
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[Dunith Dhanushka]]
 - Full Title: Event-Driven APIs — Understanding the Principles
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/c3208308d4b2
 
 ## Highlights

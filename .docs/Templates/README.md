@@ -3,10 +3,10 @@ Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 ---
 
-#Type/MOC
+#Type/Vault/Readme
 
 # <% tp.file.folder() %>
 
-```query
-path:"<% tp.file.folder() %>" -path:"<% tp.file.folder() %>/README"
+```dataview
+list from "<% tp.file.folder(true) %>" AND -#Type/Readme
 ```

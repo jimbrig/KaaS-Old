@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://blog.r-hub.io/2020/05/29/distribute-data/
+---
 # How to Distribute Data With Your R Package - R-Hub Blog
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: 
 - Full Title: How to Distribute Data With Your R Package - R-Hub Blog
-- 
+- Category: #Type/Highlights/Article
 - URL: https://blog.r-hub.io/2020/05/29/distribute-data/
 
 ## Highlights

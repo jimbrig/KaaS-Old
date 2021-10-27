@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: medium
+Link: https://medium.com/p/393ccba958b9
+---
 # Completing Tasks — 10 Steps to Finishing What You Start
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: [[Eleanor McKenna]]
 - Full Title: Completing Tasks — 10 Steps to Finishing What You Start
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/393ccba958b9
 
 ## Highlights

@@ -4,7 +4,7 @@
 
 Welcome to my personal knowledge base - **KaaS** or Knowledge as a Service.
 
-Inside is my personal, customized, digital knowledge notebase structured loosely as a [[Literary Notes/Zettelkasten]], a collection of interlinked [[Placeholders/Atomic Notes]] about anything that interests me.
+Inside is my personal, customized, digital knowledge notebase structured loosely as a [Zettelkasten](Literary Notes/Zettelkasten), a collection of interlinked [Atomic Notes](Placeholders/Atomic Notes) about anything that interests me.
 
 Consider this my *Digital Garden*. It is a garden that needs to be maintained and cared for overtime to produce fruitful outcomes.
 

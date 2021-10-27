@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://joebuhlig.com/getting-things-done-organize/
+---
 # Getting Things Done: Organize
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: 
 - Full Title: Getting Things Done: Organize
-- 
+- Category: #Type/Highlights/Article
 - URL: https://joebuhlig.com/getting-things-done-organize/
 
 ## Highlights

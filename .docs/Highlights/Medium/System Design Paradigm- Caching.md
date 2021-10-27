@@ -1,6 +1,6 @@
 - **URL:** https://medium.com/p/e57a25ab2f0a
 - **Author:** Abracadabra
-- **Tags:** #Type/Article
+- **Tags:** #Type/Source/Article
 - **Date:** [2021-05-28](../_daily/2021-05-28.md)
 ---
 

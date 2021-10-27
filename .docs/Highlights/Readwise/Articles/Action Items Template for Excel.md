@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.techno-pm.com/2017/06/action-item-tracker-excel-template.html
+---
 # Action Items Template for Excel
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[techno-pm.com]]
 - Full Title: Action Items Template for Excel
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.techno-pm.com/2017/06/action-item-tracker-excel-template.html
 
 ## Highlights

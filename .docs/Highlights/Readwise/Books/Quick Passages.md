@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: manual
+Link:
+---
 # Quick Passages
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/quick-passages-book-icon.2489c00a3133.png)
 
 ## Metadata
 - Author: 
 - Full Title: Quick Passages
-- Category: 
+- Category: #Type/Highlights/Books
 
 ## Highlights
 - If you could have a gigantic billboard anywhere with anything on it, what would it say and why?

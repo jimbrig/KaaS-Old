@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://baucemag.com/get-more-things-done-with-the-weekly-review-dan-allen/
+---
 # The 'Weekly Review' Method Will Help You Get Things Done
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[Bauce Media Partner]]
 - Full Title: The 'Weekly Review' Method Will Help You Get Things Done
-- 
+- Category: #Type/Highlights/Article
 - URL: https://baucemag.com/get-more-things-done-with-the-weekly-review-dan-allen/
 
 ## Highlights

@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: http://forum.wisecleaner.com/index.php?/topic/3084-how-to-improve-the-performance-of-your-windows-computer-fundamentally-part-one/
+---
 # How to Improve the Performance of Your Windows Computer Fundamentally?
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: 
 - Full Title: How to Improve the Performance of Your Windows Computer Fundamentally?
-- 
+- Category: #Type/Highlights/Article
 - URL: http://forum.wisecleaner.com/index.php?/topic/3084-how-to-improve-the-performance-of-your-windows-computer-fundamentally-part-one/
 
 ## Highlights

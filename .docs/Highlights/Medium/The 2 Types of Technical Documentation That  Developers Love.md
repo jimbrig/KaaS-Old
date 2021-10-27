@@ -1,6 +1,6 @@
 - **URL:** https://medium.com/p/c07db236b367
 - **Author:** Dmytro Khmelenko
-- **Tags:** #Type/Article
+- **Tags:** #Type/Source/Article
 - **Date:** [2021-05-13](../_daily/2021-05-13.md)
 ---
 

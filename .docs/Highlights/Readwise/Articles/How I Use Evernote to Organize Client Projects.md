@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://medium.com/@melissajclark_/how-i-use-evernote-to-organize-client-projects-1ee99c4cb46b
+---
 # How I Use Evernote to Organize Client Projects
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[Melissa Jean Clark]]
 - Full Title: How I Use Evernote to Organize Client Projects
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/@melissajclark_/how-i-use-evernote-to-organize-client-projects-1ee99c4cb46b
 
 ## Highlights

@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://support.microsoft.com/en-us/office/best-practices-for-outlook-f90e5f69-8832-4d89-95b3-bfdf76c82ef8
+---
 # Best Practices for Outlook
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: 
 - Full Title: Best Practices for Outlook
-- 
+- Category: #Type/Highlights/Article
 - URL: https://support.microsoft.com/en-us/office/best-practices-for-outlook-f90e5f69-8832-4d89-95b3-bfdf76c82ef8
 
 ## Highlights

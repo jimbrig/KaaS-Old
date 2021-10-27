@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: kindle
+Link:
+---
 # Evernote Guide - Master Evernote Essentials
-
-![rw-book-cover](https://m.media-amazon.com/images/I/61hFuzBQudL._SY160.jpg)
 
 ## Metadata
 - Author: [[Lisa Gosling]]
 - Full Title: Evernote Guide - Master Evernote Essentials
-- Category: 
+- Category: #Type/Highlights/Books
 
 ## Highlights
 - .enex files are not just for backups. You can also use it to create templates for notes. If you find yourself having to create a specific note format over and over, then the easier option would be to save it as a template. When you have created your note, right-click and export the note - preferably to a template folder. ([Location 165](https://readwise.io/to_kindle?action=open&asin=B07XHFMLJ6&location=165))

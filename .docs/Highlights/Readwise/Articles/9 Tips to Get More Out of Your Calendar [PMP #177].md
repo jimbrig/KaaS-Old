@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://paulminors.com/blog/9-tips-to-get-more-out-of-your-calendar/
+---
 # 9 Tips to Get More Out of Your Calendar [PMP #177]
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[Paul Minors]]
 - Full Title: 9 Tips to Get More Out of Your Calendar [PMP #177]
-- 
+- Category: #Type/Highlights/Article
 - URL: https://paulminors.com/blog/9-tips-to-get-more-out-of-your-calendar/
 
 ## Highlights

@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.makeuseof.com/tag/clean-windows-ultimate-checklist/
+---
 # How to Clean Your Windows Computer: The Ultimate Checklist
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: 
 - Full Title: How to Clean Your Windows Computer: The Ultimate Checklist
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.makeuseof.com/tag/clean-windows-ultimate-checklist/
 
 ## Highlights

@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.yujun.org/post/planning-a-lot/
+---
 # Planning a Lot | Yujun Zhou's Website
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[Yujun Zhou]]
 - Full Title: Planning a Lot | Yujun Zhou's Website
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.yujun.org/post/planning-a-lot/
 
 ## Highlights

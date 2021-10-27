@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/5fa968fde59866046ac2782c
+---
 # Austin Kleon on Writing, Creativity and the Importance of Idleness
-
-![rw-book-cover](https://content.production.cdn.art19.com/images/ff/36/83/fb/ff3683fb-8756-416b-b11b-f09b603d1f6a/e5a13e82ecd7f7ef1b2429c2896d5f788c8137d565ff2fec35300e7de1d123aac74005d5980c4c74c0d1cf5710fd2a7b0a9f0ff23895051e0d5d16415dac4be9.jpeg)
 
 ## Metadata
 - Author: [[Not Overthinking]]
 - Full Title: Austin Kleon on Writing, Creativity and the Importance of Idleness
-- Category: odcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5fa968fde59866046ac2782c
 
 ## Highlights

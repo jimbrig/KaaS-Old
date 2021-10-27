@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: medium
+Link: https://medium.com/p/9d4b176bd5ec
+---
 # A Hierarchy First Approach to Note Taking
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: [[Kevin Lin]]
 - Full Title: A Hierarchy First Approach to Note Taking
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/9d4b176bd5ec
 
 ## Highlights

@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.makeuseof.com/tag/check-windows-experience-score-windows-10/
+---
 # How to Check Your Windows Experience Score on Windows 10
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: 
 - Full Title: How to Check Your Windows Experience Score on Windows 10
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.makeuseof.com/tag/check-windows-experience-score-windows-10/
 
 ## Highlights

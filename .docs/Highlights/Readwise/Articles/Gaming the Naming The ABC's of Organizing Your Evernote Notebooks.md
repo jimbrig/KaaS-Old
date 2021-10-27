@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.harmonenterprises.com/blog/naming-conventions-order-evernote-notebooks
+---
 # Gaming the Naming: The ABC's of Organizing Your Evernote Notebooks
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: [[Stacey Harmon]]
 - Full Title: Gaming the Naming: The ABC's of Organizing Your Evernote Notebooks
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.harmonenterprises.com/blog/naming-conventions-order-evernote-notebooks
 
 ## Highlights

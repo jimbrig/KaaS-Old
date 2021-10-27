@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://drewdevault.com/make-a-blog
+---
 # You Should Make a Blog!
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: 
 - Full Title: You Should Make a Blog!
-- 
+- Category: #Type/Highlights/Article
 - URL: https://drewdevault.com/make-a-blog
 
 ## Highlights

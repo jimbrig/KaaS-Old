@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: feedly
+Link: http://rtalbert.org/how-to-handle-inbox-infinity/
+---
 # How to Handle Inbox Infinity
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[Robert Talbert]]
 - Full Title: How to Handle Inbox Infinity
-- 
+- Category: #Type/Highlights/Article
 - URL: http://rtalbert.org/how-to-handle-inbox-infinity/
 
 ## Highlights

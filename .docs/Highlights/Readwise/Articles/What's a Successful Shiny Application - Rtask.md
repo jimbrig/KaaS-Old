@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://rtask.thinkr.fr/whats-a-successful-shiny-application/
+---
 # What's a "Successful" Shiny Application? - Rtask
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[Agence Breizhtorm - Www.Breizhtorm.Fr]]
 - Full Title: What's a "Successful" Shiny Application? - Rtask
-- 
+- Category: #Type/Highlights/Article
 - URL: https://rtask.thinkr.fr/whats-a-successful-shiny-application/
 
 ## Highlights

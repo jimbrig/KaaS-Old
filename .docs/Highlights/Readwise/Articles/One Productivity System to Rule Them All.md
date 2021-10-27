@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: medium
+Link: https://medium.com/p/4405154f0ae7
+---
 # One Productivity System to Rule Them All
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[Arturo Ríos]]
 - Full Title: One Productivity System to Rule Them All
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/4405154f0ae7
 
 ## Highlights

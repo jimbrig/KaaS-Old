@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: feedly
+Link: https://feedly.com/i/entry/Pq1LDl1Q3tHLZj4pI82LXJGUjVgyJM5zGdiCuhkc4Ac=_174a4820748:1d56:a9069290
+---
 # Initial Thoughts on Notion and Getting Started Building a New Productivity Workflow
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[Bob Stanke]]
 - Full Title: Initial Thoughts on Notion and Getting Started Building a New Productivity Workflow
-- 
+- Category: #Type/Highlights/Article
 - URL: https://feedly.com/i/entry/Pq1LDl1Q3tHLZj4pI82LXJGUjVgyJM5zGdiCuhkc4Ac=_174a4820748:1d56:a9069290
 
 ## Highlights

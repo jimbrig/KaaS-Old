@@ -1,6 +1,6 @@
 - **URL:** https://medium.com/p/5974fe5db597
 - **Author:** Jovan Cicmil
-- **Tags:** #Type/Article
+- **Tags:** #Type/Source/Article
 - **Date:** [2021-05-13](../_daily/2021-05-13.md)
 ---
 

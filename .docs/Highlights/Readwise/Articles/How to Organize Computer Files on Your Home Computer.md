@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.home-storage-solutions-101.com/organize-computer-files.html
+---
 # How to Organize Computer Files on Your Home Computer
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[home-storage-solutions-101.com]]
 - Full Title: How to Organize Computer Files on Your Home Computer
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.home-storage-solutions-101.com/organize-computer-files.html
 
 ## Highlights

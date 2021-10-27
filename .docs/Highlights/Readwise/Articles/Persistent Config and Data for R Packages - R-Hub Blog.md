@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://blog.r-hub.io/2020/03/12/user-preferences/
+---
 # Persistent Config and Data for R Packages - R-Hub Blog
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: 
 - Full Title: Persistent Config and Data for R Packages - R-Hub Blog
-- 
+- Category: #Type/Highlights/Article
 - URL: https://blog.r-hub.io/2020/03/12/user-preferences/
 
 ## Highlights
@@ -32,7 +36,7 @@
 - If you hesitate to use e.g. rappdirs::user_cache_dir() vs rappdirs::user_data_dir(), use a GitHub code search.
 - Package developers might also like the hoardr package that basically creates an R6 object building on rappdirs with a few more methods (directory creation, deletion).
     - Tags: [[favorite]] 
-- R-devel “just gained support for OS-agile user-specific  cache/config/data folders” which is big (but if you use the base R implementation available after R 4.x.y, unless your package depends on R above that version you’ll need to backport the functionality ).
+- R-devel “just gained support for OS-agile user-specific `#rstats` cache/config/data folders” which is big (but if you use the base R implementation available after R 4.x.y, unless your package depends on R above that version you’ll need to backport the functionality ).
 - Caching results within an R session
   To cache results within an R session, you could use a temporary directory for data. For any function call you could use memoise that supports, well memoization which is best explained with an example.
 - Only the first call to time() actually calls Sys.time(), after that the results is saved for the entire session unless memoise::forget() is called. It is great for speeding up code, and for not abusing internet resources which is why the polite package wraps memoise.

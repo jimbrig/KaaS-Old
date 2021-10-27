@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://lifehacker.com/how-to-keep-windows-10-organized-pretty-and-productiv-1825213309
+---
 # How to Keep Windows 10 Organized, Pretty, and Productive
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: 
 - Full Title: How to Keep Windows 10 Organized, Pretty, and Productive
-- 
+- Category: #Type/Highlights/Article
 - URL: https://lifehacker.com/how-to-keep-windows-10-organized-pretty-and-productiv-1825213309
 
 ## Highlights

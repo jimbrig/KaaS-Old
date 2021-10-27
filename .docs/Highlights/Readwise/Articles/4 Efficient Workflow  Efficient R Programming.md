@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://csgillespie.github.io/efficientR/
+---
 # 4 Efficient Workflow | Efficient R Programming
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: 
 - Full Title: 4 Efficient Workflow | Efficient R Programming
-- 
+- Category: #Type/Highlights/Article
 - URL: https://csgillespie.github.io/efficientR/
 
 ## Highlights

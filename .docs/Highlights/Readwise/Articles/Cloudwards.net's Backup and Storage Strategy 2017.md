@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.cloudwards.net/backup-storage-strategy-2017/
+---
 # Cloudwards.net's Backup and Storage Strategy 2017
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[Mauricio Prinzlau]]
 - Full Title: Cloudwards.net's Backup and Storage Strategy 2017
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.cloudwards.net/backup-storage-strategy-2017/
 
 ## Highlights

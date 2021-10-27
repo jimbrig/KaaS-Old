@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://updater.com/moving-tips/last-minute-moving-tips/
+---
 # Last-Minute Moving Tips: How to Pack in a Pinch - Updater
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[updater.com]]
 - Full Title: Last-Minute Moving Tips: How to Pack in a Pinch - Updater
-- 
+- Category: #Type/Highlights/Article
 - Document Tags: [[Liked]] 
 - URL: https://updater.com/moving-tips/last-minute-moving-tips/
 

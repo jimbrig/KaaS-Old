@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://ferd.ca/complexity-has-to-live-somewhere.html
+---
 # Complexity Has to Live Somewhere
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[ferd.ca]]
 - Full Title: Complexity Has to Live Somewhere
-- 
+- Category: #Type/Highlights/Article
 - URL: https://ferd.ca/complexity-has-to-live-somewhere.html
 
 ## Highlights

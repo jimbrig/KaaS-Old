@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://petermeissner.de/blog/2020/09/03/utils-treasures-moifyList/
+---
 # R Treasures: modifyList() › Petermeissner
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[Peter Meissner]]
 - Full Title: R Treasures: modifyList() › Petermeissner
-- 
+- Category: #Type/Highlights/Article
 - URL: https://petermeissner.de/blog/2020/09/03/utils-treasures-moifyList/
 
 ## Highlights

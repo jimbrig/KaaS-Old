@@ -1,0 +1,22 @@
+{
+  "promptDelete": false,
+  "spellcheck": true,
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "isn",
+    "Backlinks",
+    "Zettelkasten",
+    "Ido",
+    "Slipbox",
+    "io",
+    "Instapaper",
+    "RadReads",
+    "Tiago",
+    "Mindsweeps",
+    "MLOps"
+  ]
+}

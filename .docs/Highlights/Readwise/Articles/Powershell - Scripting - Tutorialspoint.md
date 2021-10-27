@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.tutorialspoint.com/powershell/powershell_scripting.htm
+---
 # Powershell - Scripting - Tutorialspoint
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: [[tutorialspoint.com]]
 - Full Title: Powershell - Scripting - Tutorialspoint
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.tutorialspoint.com/powershell/powershell_scripting.htm
 
 ## Highlights

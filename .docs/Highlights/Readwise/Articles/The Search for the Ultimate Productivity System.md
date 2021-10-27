@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: medium
+Link: https://medium.com/p/18ff42015e11
+---
 # The Search for the Ultimate Productivity System
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: [[Jack Heimbigner]]
 - Full Title: The Search for the Ultimate Productivity System
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/18ff42015e11
 
 ## Highlights

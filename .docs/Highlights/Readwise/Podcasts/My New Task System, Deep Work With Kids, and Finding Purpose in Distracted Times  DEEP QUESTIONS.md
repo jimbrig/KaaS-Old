@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/5ee6d7109070069bd377b8f4
+---
 # My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times | DEEP QUESTIONS
-
-![rw-book-cover](https://storage.buzzsprout.com/variants/gs786v9wsn99x7epkmj25wtfs4bg/f81607a3cd537406cf0cf506c726bfe2824c5e584c9e9dc5e04e42436c820a79.jpg)
 
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times | DEEP QUESTIONS
-- Category: odcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5ee6d7109070069bd377b8f4
 
 ## Highlights

@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: feedly
+Link: https://feedly.com/i/entry//XL293970xQc4/LKdILhU11EYv7L/n1qAwSKIkwfhDI=_176e2659ec3:2cefb3:c3a04210
+---
 # A New Year Is a Beautiful Fresh Start
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: [[zenhabits]]
 - Full Title: A New Year Is a Beautiful Fresh Start
-- 
+- Category: #Type/Highlights/Article
 - URL: https://feedly.com/i/entry//XL293970xQc4/LKdILhU11EYv7L/n1qAwSKIkwfhDI=_176e2659ec3:2cefb3:c3a04210
 
 ## Highlights

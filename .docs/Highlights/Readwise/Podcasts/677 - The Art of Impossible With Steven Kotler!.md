@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/5ffd7dd09c64866ef3055b71
+---
 # 677 - The Art of Impossible With Steven Kotler!
-
-![rw-book-cover](https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/8bc5d35b-fe4f-468c-961a-ab19017a1c5c/d0abe506-286b-4232-b867-ab19017a1c6b/image.jpg?t=1575500202&size=Large)
 
 ## Metadata
 - Author: [[The James Altucher Show]]
 - Full Title: 677 - The Art of Impossible With Steven Kotler!
-- Category: odcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5ffd7dd09c64866ef3055b71
 
 ## Highlights

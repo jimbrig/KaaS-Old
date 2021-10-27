@@ -1,6 +1,6 @@
 - **URL:** https://medium.com/p/3f1421d75d09
 - **Author:** Pulkit Saraf
-- **Tags:** #Type/Article
+- **Tags:** #Type/Source/Article
 - **Date:** [2021-05-13](../_daily/2021-05-13.md)
 ---
 

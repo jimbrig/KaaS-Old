@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: feedly
+Link: https://benjaminhardy.com/thisishowyoubecomeconfidentandtransformyourlife/
+---
 # This Is How You Become Confident and Transform Your Life
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: [[Ben Hardy]]
 - Full Title: This Is How You Become Confident and Transform Your Life
-- 
+- Category: #Type/Highlights/Article
 - URL: https://benjaminhardy.com/thisishowyoubecomeconfidentandtransformyourlife/
 
 ## Highlights

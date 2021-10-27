@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: medium
+Link: https://medium.com/p/f6f7842c9865
+---
 # The Data Science Landscape
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[Dr. Stefan Karenfort]]
 - Full Title: The Data Science Landscape
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/f6f7842c9865
 
 ## Highlights

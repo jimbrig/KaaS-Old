@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29
+---
 # An Iterative Approach to Notes
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: 
 - Full Title: An Iterative Approach to Notes
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29
 
 ## Highlights

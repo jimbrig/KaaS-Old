@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: http://gtd-tools.com/
+---
 # Best GTD Tools and Productivity Software Tips. Life Improvement With GTD (Getting Things Done).
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: 
 - Full Title: Best GTD Tools and Productivity Software Tips. Life Improvement With GTD (Getting Things Done).
-- 
+- Category: #Type/Highlights/Article
 - URL: http://gtd-tools.com/
 
 ## Highlights

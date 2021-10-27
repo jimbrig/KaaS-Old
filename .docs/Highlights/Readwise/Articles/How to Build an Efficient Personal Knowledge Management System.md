@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://medium.com/@axtonliu/how-to-build-an-efficient-personal-knowledge-management-system-355332ae5991
+---
 # How to Build an Efficient Personal Knowledge Management System
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[medium.com]]
 - Full Title: How to Build an Efficient Personal Knowledge Management System
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/@axtonliu/how-to-build-an-efficient-personal-knowledge-management-system-355332ae5991
 
 ## Highlights

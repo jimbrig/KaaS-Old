@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://quickbooost.com/daily-goals/
+---
 # How to Achieve Your Daily Goals
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: How to Achieve Your Daily Goals
-- 
+- Category: #Type/Highlights/Article
 - URL: https://quickbooost.com/daily-goals/
 
 ## Highlights

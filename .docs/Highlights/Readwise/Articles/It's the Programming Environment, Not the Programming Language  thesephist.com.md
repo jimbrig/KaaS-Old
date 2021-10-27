@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://thesephist.com/posts/programming-environment/
+---
 # It's the Programming Environment, Not the Programming Language | thesephist.com
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: 
 - Full Title: It's the Programming Environment, Not the Programming Language | thesephist.com
-- 
+- Category: #Type/Highlights/Article
 - URL: https://thesephist.com/posts/programming-environment/
 
 ## Highlights

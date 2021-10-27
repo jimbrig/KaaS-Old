@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://hbr.org/2011/05/managing-yourself-extreme-productivity
+---
 # Managing Yourself: Extreme Productivity
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: [[hbr.org]]
 - Full Title: Managing Yourself: Extreme Productivity
-- 
+- Category: #Type/Highlights/Article
 - URL: https://hbr.org/2011/05/managing-yourself-extreme-productivity
 
 ## Highlights

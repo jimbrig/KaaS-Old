@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: kindle
+Link:
+---
 # Evernote
-
-![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51UV76-2QSL._SL200_.jpg)
 
 ## Metadata
 - Author: [[Kimberly Eddy]]
 - Full Title: Evernote
-- Category: 
+- Category: #Type/Highlights/Books
 
 ## Highlights
 - The notebooks titled, “Web Site Drafts” and “Web Site Fixes” contain a couple of notes with drafts of blog posts or specific issues I need to fix on my web ([Location 269](https://readwise.io/to_kindle?action=open&asin=B077CK6SKR&location=269))

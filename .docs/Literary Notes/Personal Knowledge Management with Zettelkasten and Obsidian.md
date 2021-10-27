@@ -4,21 +4,12 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Alias: Personal Knowledge Management with Zettelkasten and Obsidian
 ---
 
-Source Type: #Type/Article
+Source Type: #Type/Source/Article
 Category: #Category/PKM	
 
 # Personal Knowledge Management with Zettelkasten and Obsidian
 
-Concepts:
-- [[Personal Knowledge Management]] (PKM)
-- [[Building a Second Brain]] (BASB)
-- [[PARA]]
-- [[Zettelkasten]]
-	- [[Evergreen Notes]]
-- [[Linking Your Thinking - LYT]]
-- [[Markdown]]
-- [[Obsidian]]
-- [[Version Control]]
+C[[Maps of Content/Personal Knowledge Management]]Managemen[[Placeholders/Building a Second Brain]]econd Brai[[Placeholders/PARA]]B)[[Literary Notes/Zettelkasten]][Zet[[Placeholders/Evergreen Notes]]ver[[Placeholders/Linking Your Thinking - LYT]] Th[[Placeholders/Markdown]]]][[Placeholders/Obsidian]]n]][[Placeholders/Version Control]] [[Version Control]]
 
 ## Inputs
 
@@ -29,14 +20,7 @@ Variety of inputs that feed my knowledge:
 - Podcasts
 - Books
 - Personal Notes
-- etc.
-
-Tools to manage inputs:
-- [[Raindrop.io]]
-- [[Instapaper]]
-- [[Feedly]]
-- [[Readwise]]
-- [[Zotero]]
+- e[[Placeholders/Raindrop.io]] ma[[Placeholders/Instapaper]]- [[[Placeholders/Feedly]]io][[Placeholders/Readwise]]pap[[Placeholders/Zotero]]Fee[[Placeholders/GitHub]][Read[[Placeholders/GitHub Gists]]ro]]
 - [[GitHub]] and [[GitHub Gists]]
 
 ## PKM Domains
@@ -54,16 +38,15 @@ Tools to manage inputs:
 
 ## My System
 
-- My Goals
-- My Workflows
+- M[[Placeholders/Git]]
+- M[[Placeholders/GitHub]]s
 - My Toolbelt:
 	- [[Todoist]]
 	- [[Git]] and [[GitHub]]
 	- Readwise
 	- Raindrop.io
 	- PocketCasts
-	- YouTube
-	- Zotero
+[[Placeholders/Obsidian]]	- Zotero
 	- [[Visual Studio Code]]
 	- [[Typora]]
 	- [[Obsidian]]
@@ -81,8 +64,7 @@ Tools to manage inputs:
 
 - Evergreen Notes
 - [[Maps of Content/README|Maps of Content]]
-- API Note Titles
-- Zettelkasten
+- API N[[Literary Notes/Information Flow]]kasten
 - Atomic Notes
 - Digital Garden
 - Knowledge Curation and [[Information Flow]]

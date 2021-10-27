@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.techradar.com/news/best-dns-server
+---
 # Best Free, Public DNS Servers in 2021: Boost Your Internet Speed With These Services
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[Mike Williams]]
 - Full Title: Best Free, Public DNS Servers in 2021: Boost Your Internet Speed With These Services
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.techradar.com/news/best-dns-server
 
 ## Highlights

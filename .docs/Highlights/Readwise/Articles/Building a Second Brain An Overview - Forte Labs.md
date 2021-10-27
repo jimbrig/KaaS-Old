@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://fortelabs.co/blog/basboverview/
+---
 # Building a Second Brain: An Overview - Forte Labs
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: Building a Second Brain: An Overview - Forte Labs
-- 
+- Category: #Type/Highlights/Article
 - URL: https://fortelabs.co/blog/basboverview/
 
 ## Highlights

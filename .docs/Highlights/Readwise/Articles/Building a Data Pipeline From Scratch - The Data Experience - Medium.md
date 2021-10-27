@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://medium.com/the-data-experience/building-a-data-pipeline-from-scratch-32b712cfb1db
+---
 # Building a Data Pipeline From Scratch - The Data Experience - Medium
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[Alan Marazzi]]
 - Full Title: Building a Data Pipeline From Scratch - The Data Experience - Medium
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/the-data-experience/building-a-data-pipeline-from-scratch-32b712cfb1db
 
 ## Highlights

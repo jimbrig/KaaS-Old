@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://joebuhlig.com/getting-things-done-clarify/
+---
 # Getting Things Done: Clarify
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[joebuhlig.com]]
 - Full Title: Getting Things Done: Clarify
-- 
+- Category: #Type/Highlights/Article
 - URL: https://joebuhlig.com/getting-things-done-clarify/
 
 ## Highlights

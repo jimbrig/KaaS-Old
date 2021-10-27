@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/5fa92a255a451217781934c8
+---
 # #23: Nat Eliason on Starting a Life-Changing Blog
-
-![rw-book-cover](https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/485002/485002-1597085039604-2ab1bf6f79592.jpg)
 
 ## Metadata
 - Author: [[Mind Meld With Josh Gonsalves]]
 - Full Title: #23: Nat Eliason on Starting a Life-Changing Blog
-- Category: odcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5fa92a255a451217781934c8
 
 ## Highlights

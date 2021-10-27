@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/
+---
 # Managing Your Dotfiles
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: [[anishathalye.com]]
 - Full Title: Managing Your Dotfiles
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/
 
 ## Highlights

@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://robatwilliams.github.io/decent-code/
+---
 # Decent-Code
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: 
 - Full Title: Decent-Code
-- 
+- Category: #Type/Highlights/Article
 - URL: https://robatwilliams.github.io/decent-code/
 
 ## Highlights

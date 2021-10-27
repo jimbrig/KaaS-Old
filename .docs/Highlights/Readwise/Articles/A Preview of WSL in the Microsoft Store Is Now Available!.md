@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://devblogs.microsoft.com/commandline/a-preview-of-wsl-in-the-microsoft-store-is-now-available/
+---
 # A Preview of WSL in the Microsoft Store Is Now Available!
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[devblogs.microsoft.com]]
 - Full Title: A Preview of WSL in the Microsoft Store Is Now Available!
-- 
+- Category: #Type/Highlights/Article
 - URL: https://devblogs.microsoft.com/commandline/a-preview-of-wsl-in-the-microsoft-store-is-now-available/
 
 ## Highlights

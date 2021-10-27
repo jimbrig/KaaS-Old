@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: medium
+Link: https://medium.com/p/d51e2dcdfa57
+---
 # How to Use Your Calendar to Make Every Day Your Ideal Day
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: [[John Zeratsky]]
 - Full Title: How to Use Your Calendar to Make Every Day Your Ideal Day
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/d51e2dcdfa57
 
 ## Highlights

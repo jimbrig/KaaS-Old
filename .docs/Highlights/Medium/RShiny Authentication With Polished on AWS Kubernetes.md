@@ -1,6 +1,6 @@
 - **URL:** https://medium.com/p/358baff9a61c
 - **Author:** Jillian Rowe
-- **Tags:** #Type/Article
+- **Tags:** #Type/Source/Article
 - **Date:** [2021-05-13](../_daily/2021-05-13.md)
 ---
 

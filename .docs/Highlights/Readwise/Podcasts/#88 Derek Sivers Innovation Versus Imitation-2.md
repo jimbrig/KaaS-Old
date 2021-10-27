@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/5f171edb00ecbc05747284f7
+---
 # #88 Derek Sivers: Innovation Versus Imitation
-
-![rw-book-cover](https://ssl-static.libsyn.com/p/assets/9/5/b/b/95bb34540c153a79/KP-logo-red-1400px.png)
 
 ## Metadata
 - Author: [[The Knowledge Project with Shane Parrish]]
 - Full Title: #88 Derek Sivers: Innovation Versus Imitation
-- Category: odcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5f171edb00ecbc05747284f7
 
 ## Highlights

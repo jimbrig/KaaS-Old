@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: manual
+Link:
+---
 # Tribe of Mentors
-
-![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51jkW-GzFiL._SL200_.jpg)
 
 ## Metadata
 - Author: [[Timothy Ferriss]]
 - Full Title: Tribe of Mentors
-- Category: 
+- Category: #Type/Highlights/Books
 
 ## Highlights
 - When you feel overwhelmed or unfocused, what do you do?

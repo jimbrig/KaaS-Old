@@ -1,6 +1,6 @@
 - **URL:** https://medium.com/p/111b818c3d1b
 - **Author:** Gerrishon Sirere
-- **Tags:** #Type/Article
+- **Tags:** #Type/Source/Article
 - **Date:** [2021-05-13](../_daily/2021-05-13.md)
 ---
 

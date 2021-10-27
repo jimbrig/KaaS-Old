@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/5d1d03cb5cae25de51e2096c
+---
 # SYSTEMS THINKING: What Is a System?
-
-![rw-book-cover](https://storage.pinecast.net/podcasts/covers/7fc4bbf7-b7a9-41ca-a10a-11c7455afe47/katieacc.jpg)
 
 ## Metadata
 - Author: [[Systems Thinking]]
 - Full Title: SYSTEMS THINKING: What Is a System?
-- Category: odcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5d1d03cb5cae25de51e2096c
 
 ## Highlights

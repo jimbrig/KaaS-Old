@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: kindle
+Link:
+---
 # Design Your Work
-
-![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41-jKdYmJGL._SL200_.jpg)
 
 ## Metadata
 - Author: [[Tiago Forte]]
 - Full Title: Design Your Work
-- Category: 
+- Category: #Type/Highlights/Books
 
 ## Highlights
 - My blog became my R&D lab: a place to ramble, rant, play, test, dissect, entertain, summarize, explain, argue, advocate, theorize, and generally way overthink all the ideas I was encountering in my work and my life. ([Location 50](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=50))

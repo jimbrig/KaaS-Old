@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.makeuseof.com/tag/automatically-organize-files-windows/
+---
 # 6 Windows Apps That Automatically Organize Files for You
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: 
 - Full Title: 6 Windows Apps That Automatically Organize Files for You
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.makeuseof.com/tag/automatically-organize-files-windows/
 
 ## Highlights

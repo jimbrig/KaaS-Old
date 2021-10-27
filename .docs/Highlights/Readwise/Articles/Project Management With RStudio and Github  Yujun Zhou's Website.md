@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.yujun.org/post/project/
+---
 # Project Management With RStudio and Github | Yujun Zhou's Website
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: [[Yujun Zhou]]
 - Full Title: Project Management With RStudio and Github | Yujun Zhou's Website
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.yujun.org/post/project/
 
 ## Highlights

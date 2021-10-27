@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://longleafsys.com/rebooting-your-productivity-system/
+---
 # Rebooting Your Productivity System
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: 
 - Full Title: Rebooting Your Productivity System
-- 
+- Category: #Type/Highlights/Article
 - URL: https://longleafsys.com/rebooting-your-productivity-system/
 
 ## Highlights

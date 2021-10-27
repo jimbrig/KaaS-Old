@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://personaldevelopmentideas.com/tag/get-organized-2/
+---
 # Get Organized – Personal Development Ideas
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[personaldevelopmentideas.com]]
 - Full Title: Get Organized – Personal Development Ideas
-- 
+- Category: #Type/Highlights/Article
 - URL: https://personaldevelopmentideas.com/tag/get-organized-2/
 
 ## Highlights

@@ -4,13 +4,13 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Alias: About
 ---
 
-Type: #Type/Meta
+Type: #Type/Vault/Meta
 
 # About KaaS - Knowledge as a Service
 
-`KaaS` (Knowledge as a Service) is an [[Obsidian]] Vault composed of a multitude of notes, written in [[Markdown]], tracked in [[Version Control]] with [[Git]] and [[GitHub]], published online using [[GitHub Actions]] and [[MkDocs]], and hosted on my personal domain *jimbrig.com*.
+`KaaS` (Knowledge as a Servi[[Placeholders/Obsidian]]Obsidian]] Vault composed of a multitude of notes, w[[Placeholders/Markdown]]Markdown]], t[[Placeholders/Version Control]] Contr[[Placeholders/Git]]th [[[[Placeholders/GitHub]][[GitHub]], published onl[[Placeholders/GitHub Actions]] Acti[[Placeholders/MkDocs]][[MkDocs]], and hosted on my personal domain *jimbrig.com*.
 
-Inside is my personal, customized, digital knowledge notebase structured loosely as a [[Zettelkasten]], a collection of interlinked [[Atomic Notes]] about anything that interests me.
+Inside is my personal, customized, digital knowledge notebase structured l[[Literary Notes/Zettelkasten]]ttelkasten]], a collection of [[Placeholders/Atomic Notes]]omic Notes]] about anything that interests me.
 
 Consider this my *Digital Garden*. It is a garden that needs to be maintained and cared for overtime to produce fruitful outcomes.
 
@@ -18,7 +18,7 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 
 ### Note Types
 
-- [[Daily/README]]: Daily notes for journaling and reflection
+- [[Plans/Daily/README]]: Daily notes for journaling and reflection
 - [[Literary Notes/README]]: Notes representing external ideas and knowledge that I have captured.
 - [[Permanent Notes/README]]: Notes that are considered *Evergreen*, i.e., notes that I have curated and formulated.
 - [[Concept Notes]]: Notes that are just describing or defining a concept or idea.

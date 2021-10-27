@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html
+---
 # It’s Not You - It’s Your Knowledge Base
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[kevinslin.com]]
 - Full Title: It’s Not You - It’s Your Knowledge Base
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html
 
 ## Highlights

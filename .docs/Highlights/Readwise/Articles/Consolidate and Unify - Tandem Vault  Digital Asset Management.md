@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://tandemvault.com/consolidate-and-unify/
+---
 # Consolidate and Unify - Tandem Vault | Digital Asset Management
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: 
 - Full Title: Consolidate and Unify - Tandem Vault | Digital Asset Management
-- 
+- Category: #Type/Highlights/Article
 - URL: https://tandemvault.com/consolidate-and-unify/
 
 ## Highlights

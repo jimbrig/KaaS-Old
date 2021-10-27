@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://doist.com/blog/add-tasks-todoist/
+---
 # 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: 
 - Full Title: 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist
-- 
+- Category: #Type/Highlights/Article
 - URL: https://doist.com/blog/add-tasks-todoist/
 
 ## Highlights

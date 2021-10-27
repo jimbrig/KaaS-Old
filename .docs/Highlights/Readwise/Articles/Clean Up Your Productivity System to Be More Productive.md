@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: medium
+Link: https://medium.com/p/fdae68e0dbc
+---
 # Clean Up Your Productivity System to Be More Productive
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: [[Darryl Brooks]]
 - Full Title: Clean Up Your Productivity System to Be More Productive
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/fdae68e0dbc
 
 ## Highlights

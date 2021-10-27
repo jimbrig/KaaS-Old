@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://guides.lib.berkeley.edu/c.php?g=652311&p=4575543
+---
 # Home - How to Write a Good Documentation - Library Guides at UC Berkeley
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[Research Data Management]]
 - Full Title: Home - How to Write a Good Documentation - Library Guides at UC Berkeley
-- 
+- Category: #Type/Highlights/Article
 - URL: https://guides.lib.berkeley.edu/c.php?g=652311&p=4575543
 
 ## Highlights

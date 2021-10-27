@@ -4,14 +4,12 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Alias: Note Taking and The Internet Best Practices
 ---
 
-Source Type: #Type/Article
+Source Type: #Type/Source/Article
 Category: #Category/PKM #Category/Productivity
 
 # Note Taking and The Internet Best Practices
 
-*Source: [Note-Taking when Reading the Web and RSS](https://zettelkasten.de/posts/reading-web-rss-note-taking/)*
-
-See also: [[Information Flow]]
+*Source: [Note-Taking when Reading the Web and RSS](https://zettelkasten.de/posts/reading-web-rss-note-taking/)*[[Literary Notes/Information Flow]]mation Flow]]
 
 Remember: The key question is: **How do you deal with various input streams of information efficiently so you don’t waste time juggling them?**
 
@@ -108,15 +106,7 @@ A smartphone, I argue, is a suitable filter from “stuff” to “inbox.” The
 To answer the questions from the beginning of this post:
 
 -   **How am I supposed to deal with these streams when only a fraction of the links are of real value to me?** I deal with the inflow of information by forcing myself to select quickly which items deserve my attention and which don’t. I can’t pay attention to everything, and I can’t read every article from start to finish. I need to decide: do I browse the web for fun or to expand my knowledge? This determines my mode of reading.
--   **How do I take lasting notes?** I read web pages or RSS feed subscriptions on my mobile device. I take lasting notes on my Mac only. Mobile devices can be useful to filter the load of unread feed items because services like Instapaper exist.
-
-Soon, I’ll explore how to get stuff from the reading list into the note-taking system.
-
-***
-
-Backlinks:
--	[[Zettelkasten]]
--	[[The Collector's Fallacy]]
+-   **How do I take lasting notes?** I read web pages or RSS feed subscriptions on my mobile device. I take lasting notes on my Mac only. Mobile devices can be useful to filter the load of unread feed items because services like Instapaper exis[[Literary Notes/Zettelkasten]] ex[[Literary Notes/The Collector's Fallacy]] th[[Literary Notes/Information Flow]]the[[Maps of Content/Personal Knowledge Management]]ckl[[Literary Notes/Rinse and Repeat - Research, Read, Assimilate]]llacy]]
 -	[[Information Flow]]
 -	[[Personal Knowledge Management]]
 -	[[Rinse and Repeat - Research, Read, Assimilate]]

@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://medium.com/swlh/how-to-organize-your-files-for-maximum-productivity-afdc6430126a
+---
 # How to Organize Your Files for Maximum Productivity
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[Giorgos Petkakis]]
 - Full Title: How to Organize Your Files for Maximum Productivity
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/swlh/how-to-organize-your-files-for-maximum-productivity-afdc6430126a
 
 ## Highlights

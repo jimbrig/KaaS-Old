@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: medium
+Link: https://medium.com/p/b32d56b24f03
+---
 # Scaling R Shiny Applications:
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[Siva Anne]]
 - Full Title: Scaling R Shiny Applications:
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/b32d56b24f03
 
 ## Highlights

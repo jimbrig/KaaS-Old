@@ -1,6 +1,6 @@
 - **URL:** https://medium.com/p/2f2c9f9fcdbf
 - **Author:** Tanmay Deshpande
-- **Tags:** #Type/Article
+- **Tags:** #Type/Source/Article
 - **Date:** [2021-05-13](../_daily/2021-05-13.md)
 ---
 

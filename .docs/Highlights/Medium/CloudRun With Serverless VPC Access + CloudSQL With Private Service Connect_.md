@@ -1,6 +1,6 @@
 - **URL:** https://medium.com/p/9432a749ff7b
 - **Author:** Johanes Glenn
-- **Tags:** #Type/Article
+- **Tags:** #Type/Source/Article
 - **Date:** [2021-05-13](../_daily/2021-05-13.md)
 ---
 

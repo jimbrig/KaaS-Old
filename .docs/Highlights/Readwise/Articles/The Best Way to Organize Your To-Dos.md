@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://tamarakerr.com/blogs/post/the-best-way-to-organize-your-to-dos
+---
 # The Best Way to Organize Your To-Dos
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[Tamara Kerr]]
 - Full Title: The Best Way to Organize Your To-Dos
-- 
+- Category: #Type/Highlights/Article
 - URL: https://tamarakerr.com/blogs/post/the-best-way-to-organize-your-to-dos
 
 ## Highlights

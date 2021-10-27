@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: feedly
+Link: https://www.rinproduction.com/en/posts/005-8-tips-for-a-production-ready-shiny-application/
+---
 # #5: 8 Tips for a Production-Ready Shiny Application
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[rinproduction.com]]
 - Full Title: #5: 8 Tips for a Production-Ready Shiny Application
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.rinproduction.com/en/posts/005-8-tips-for-a-production-ready-shiny-application/
 
 ## Highlights

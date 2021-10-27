@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/5f55660fd5c7dd4ffa2bd6d7
+---
 # Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question | DEEP QUESTIONS
-
-![rw-book-cover](https://storage.buzzsprout.com/variants/gs786v9wsn99x7epkmj25wtfs4bg/f81607a3cd537406cf0cf506c726bfe2824c5e584c9e9dc5e04e42436c820a79.jpg)
 
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question | DEEP QUESTIONS
-- Category: odcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/5f55660fd5c7dd4ffa2bd6d7
 
 ## Highlights

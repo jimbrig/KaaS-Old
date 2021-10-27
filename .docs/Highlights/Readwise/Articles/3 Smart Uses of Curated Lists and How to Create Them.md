@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.cminds.com/3-uses-curated-lists-manager/
+---
 # 3 Smart Uses of Curated Lists and How to Create Them
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[Courtney Jones]]
 - Full Title: 3 Smart Uses of Curated Lists and How to Create Them
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.cminds.com/3-uses-curated-lists-manager/
 
 ## Highlights

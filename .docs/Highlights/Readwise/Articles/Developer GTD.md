@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://helpercode.com/2009/06/21/developer-gtd/
+---
 # Developer GTD
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[Dror Helper]]
 - Full Title: Developer GTD
-- 
+- Category: #Type/Highlights/Article
 - URL: https://helpercode.com/2009/06/21/developer-gtd/
 
 ## Highlights

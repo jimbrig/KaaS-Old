@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.developgoodhabits.com/todoist-tutorial/
+---
 # How to Use Todoist Tutorial
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: [[developgoodhabits.com]]
 - Full Title: How to Use Todoist Tutorial
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.developgoodhabits.com/todoist-tutorial/
 
 ## Highlights

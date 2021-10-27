@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://fortelabs.co/blog/the-digital-productivity-pyramid/
+---
 # The Digital Productivity Pyramid - Forte Labs
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: The Digital Productivity Pyramid - Forte Labs
-- 
+- Category: #Type/Highlights/Article
 - URL: https://fortelabs.co/blog/the-digital-productivity-pyramid/
 
 ## Highlights

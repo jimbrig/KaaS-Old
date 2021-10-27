@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.zettlr.com/post/what-is-a-zettelkasten
+---
 # "Wtf Is a Zettelkasten?" | Zettlr
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: 
 - Full Title: "Wtf Is a Zettelkasten?" | Zettlr
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.zettlr.com/post/what-is-a-zettelkasten
 
 ## Highlights

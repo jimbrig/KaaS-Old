@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://www.freecodecamp.org/news/automate-project-github-setup-mac/
+---
 # How to Automate Your Project and Github Repo Setup From the Command Line
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: 
 - Full Title: How to Automate Your Project and Github Repo Setup From the Command Line
-- 
+- Category: #Type/Highlights/Article
 - URL: https://www.freecodecamp.org/news/automate-project-github-setup-mac/
 
 ## Highlights

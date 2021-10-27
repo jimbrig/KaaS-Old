@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://www.airr.io/episode/6009d89897881f87db12e838
+---
 # #494: Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More
-
-![rw-book-cover](https://content.production.cdn.art19.com/images/69/10/10/fb/691010fb-625e-4abe-993c-a57228b28dbe/91cb53ae0d5dbb379b9dffecf0a772593891d0d09bbe6d90ee746edbdb79e3ec75584f2ceb8260e9f675a90c05419b9b99842a76905b686f0f51c1a9d3e227ab.jpeg)
 
 ## Metadata
 - Author: [[The Tim Ferriss Show]]
 - Full Title: #494: Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More
-- Category: odcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://www.airr.io/episode/6009d89897881f87db12e838
 
 ## Highlights

@@ -1,6 +1,6 @@
 - **URL:** https://medium.com/p/472fc23ed9bc
 - **Author:** Amy M Haddad
-- **Tags:** #Type/Article
+- **Tags:** #Type/Source/Article
 - **Date:** [2021-05-13](../_daily/2021-05-13.md)
 ---
 

@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://greatist.com/happiness/make-a-to-do-list-get-shit-done
+---
 # How to Make a To-Do List and Get Sh!t Done
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[Shana Lebowitz]]
 - Full Title: How to Make a To-Do List and Get Sh!t Done
-- 
+- Category: #Type/Highlights/Article
 - URL: https://greatist.com/happiness/make-a-to-do-list-get-shit-done
 
 ## Highlights

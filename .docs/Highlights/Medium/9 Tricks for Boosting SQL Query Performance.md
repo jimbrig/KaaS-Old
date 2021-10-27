@@ -1,10 +1,10 @@
 - **URL:** https://medium.com/p/2c03ea4873b2
 - **Author:** Anisuzzaman Babla
-- **Tags:** #Type/Article
+- **Tags:** #Type/Source/Article
 - **Date:** [2021-05-11](../_daily/2021-05-11.md)
 ---
 
-The best approach here is to define the fields in the SELECT statement to instruct the database to query only the required data to meet the end goals. %% highlight_id: 177976250 %%
+The best approach here is to define the fields in the `SELECT` statement to instruct the database to query only the required data to meet the end goals. %% highlight_id: 177976250 %%
 
 
 Performance tuning in SQL can be done by indexing properly, which translates to quicker access to the database during critical times. This %% highlight_id: 177976251 %%

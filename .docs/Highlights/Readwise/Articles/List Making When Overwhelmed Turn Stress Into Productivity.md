@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://quickbooost.com/list-making/
+---
 # List Making When Overwhelmed: Turn Stress Into Productivity
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: List Making When Overwhelmed: Turn Stress Into Productivity
-- 
+- Category: #Type/Highlights/Article
 - URL: https://quickbooost.com/list-making/
 
 ## Highlights

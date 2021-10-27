@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://doubleyourfreelancing.com/guide-to-writing-client-emails/
+---
 # The Guide to Writing Great Emails That Win You Clients - Double Your Freelancing
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[doubleyourfreelancing.com]]
 - Full Title: The Guide to Writing Great Emails That Win You Clients - Double Your Freelancing
-- 
+- Category: #Type/Highlights/Article
 - URL: https://doubleyourfreelancing.com/guide-to-writing-client-emails/
 
 ## Highlights

@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: medium
+Link: https://medium.com/p/c5026d5a19da
+---
 # Five Tidyverse Tricks You May Not Know About
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[Keith McNulty]]
 - Full Title: Five Tidyverse Tricks You May Not Know About
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/c5026d5a19da
 
 ## Highlights

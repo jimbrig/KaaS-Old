@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link:
+---
 # FW: Managing Outcomes in a Remote Environment
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: 
 - Full Title: FW: Managing Outcomes in a Remote Environment
-- 
+- Category: #Type/Highlights/Article
 
 ## Highlights
 - Manage Outcomes, Not Activities

@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://hodgkins.io/best-practices-with-packer-and-windows
+---
 # Best Practices With Packer and Windows
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[Matthew Hodgkins]]
 - Full Title: Best Practices With Packer and Windows
-- 
+- Category: #Type/Highlights/Article
 - URL: https://hodgkins.io/best-practices-with-packer-and-windows
 
 ## Highlights

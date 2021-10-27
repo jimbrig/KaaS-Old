@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://chtbl.com/track/99553/media.transistor.fm/cf22f16f.mp3
+---
 # 68 Bits of Unsolicited Advice
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[Not Overthinking]]
 - Full Title: 68 Bits of Unsolicited Advice
-- Category: odcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://chtbl.com/track/99553/media.transistor.fm/cf22f16f.mp3
 
 ## Highlights

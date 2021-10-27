@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: podcast
+Link: https://rss.art19.com/episodes/9dfc22de-1799-4987-8523-d288e0603378.mp3
+---
 # #447: Books I've Loved — Ann Miura-Ko
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: [[The Tim Ferriss Show]]
 - Full Title: #447: Books I've Loved — Ann Miura-Ko
-- Category: odcasts
+- Category: #Type/Highlights/Podcast
 - URL: https://rss.art19.com/episodes/9dfc22de-1799-4987-8523-d288e0603378.mp3
 
 ## Highlights

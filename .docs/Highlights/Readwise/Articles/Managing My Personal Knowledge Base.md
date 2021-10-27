@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://tkainrad.dev/posts/managing-my-personal-knowledge-base/
+---
 # Managing My Personal Knowledge Base
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: [[Thomas Kainrad]]
 - Full Title: Managing My Personal Knowledge Base
-- 
+- Category: #Type/Highlights/Article
 - URL: https://tkainrad.dev/posts/managing-my-personal-knowledge-base/
 
 ## Highlights

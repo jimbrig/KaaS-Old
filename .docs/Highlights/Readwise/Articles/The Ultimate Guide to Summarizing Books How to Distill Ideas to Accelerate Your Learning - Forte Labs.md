@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://fortelabs.co/blog/the-ultimate-guide-to-summarizing-books/
+---
 # The Ultimate Guide to Summarizing Books: How to Distill Ideas to Accelerate Your Learning - Forte Labs
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: The Ultimate Guide to Summarizing Books: How to Distill Ideas to Accelerate Your Learning - Forte Labs
-- 
+- Category: #Type/Highlights/Article
 - URL: https://fortelabs.co/blog/the-ultimate-guide-to-summarizing-books/
 
 ## Highlights

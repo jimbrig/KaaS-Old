@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: medium
+Link: https://medium.com/p/25b18a815778
+---
 # How to Learn Linux and Git
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: [[Syed Mujtaba Jafri]]
 - Full Title: How to Learn Linux and Git
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/p/25b18a815778
 
 ## Highlights

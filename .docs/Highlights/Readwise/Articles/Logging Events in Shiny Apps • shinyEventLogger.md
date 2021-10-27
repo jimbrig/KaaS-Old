@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://kalimu.github.io/shinyEventLogger/index.html
+---
 # Logging Events in Shiny Apps • shinyEventLogger
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
 - Author: 
 - Full Title: Logging Events in Shiny Apps • shinyEventLogger
-- 
+- Category: #Type/Highlights/Article
 - URL: https://kalimu.github.io/shinyEventLogger/index.html
 
 ## Highlights

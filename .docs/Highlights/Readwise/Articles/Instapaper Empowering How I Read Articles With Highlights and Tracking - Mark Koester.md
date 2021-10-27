@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: http://www.markwk.com/article-tracking-with-instapaper.html
+---
 # Instapaper: Empowering How I Read Articles With Highlights and Tracking - Mark Koester
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
 ## Metadata
 - Author: [[Mark Koester]]
 - Full Title: Instapaper: Empowering How I Read Articles With Highlights and Tracking - Mark Koester
-- 
+- Category: #Type/Highlights/Article
 - URL: http://www.markwk.com/article-tracking-with-instapaper.html
 
 ## Highlights

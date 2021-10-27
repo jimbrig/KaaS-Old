@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://doist.com/blog/best-productivity-apps/
+---
 # The 35 Best Productivity Apps for 2020
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
 - Author: 
 - Full Title: The 35 Best Productivity Apps for 2020
-- 
+- Category: #Type/Highlights/Article
 - URL: https://doist.com/blog/best-productivity-apps/
 
 ## Highlights

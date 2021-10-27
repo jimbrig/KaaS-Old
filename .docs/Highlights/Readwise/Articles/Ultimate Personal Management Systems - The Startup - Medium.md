@@ -1,11 +1,15 @@
+---
+Date: 2021-10-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: instapaper
+Link: https://medium.com/swlh/ultimate-personal-management-systems-41f376f4ec2c
+---
 # Ultimate Personal Management Systems - The Startup - Medium
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
 - Author: [[Dan Silvestre]]
 - Full Title: Ultimate Personal Management Systems - The Startup - Medium
-- 
+- Category: #Type/Highlights/Article
 - URL: https://medium.com/swlh/ultimate-personal-management-systems-41f376f4ec2c
 
 ## Highlights

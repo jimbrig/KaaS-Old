@@ -16,9 +16,17 @@ A database connection pool maintains open a number of connections. The applicati
 
 ## Anti-Patterns
 
-Avoid the naive approach of creating and closing out a new database connection for each and every web request your client application/API sends to the server. Also, avoid the other side where a global session-wide connect
+Avoid the naive approach of creating and closing out a new database connection for each and every web request your client application/API sends to the server. Also, avoid the other side where a global session-wide, persistent connection is used across all endpoints as this approach can lead to issues with performance and scalability as well as the common pitfall of not closing out the connection when a user leaves then app or it times out. 
+
+## Pooling
+
+Database pooling is a nice middle ground between the two methods mentioned above on how to preserve a database connection properly. 
+
+Instead of opening and closing a connection per request/endpoint, you now acquire and release a
+
+
 
 ***
 
 Backlinks:
--	
+-

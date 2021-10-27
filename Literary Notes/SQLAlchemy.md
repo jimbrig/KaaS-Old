@@ -86,7 +86,7 @@ app = Flask(__name__)
 # name of database
 db_name = '<dbname>'
 
-app.config['SQLALCHEMY_DATABASE_URI'] = '' + db_name 
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pyodbc://' + username + ':' + password + '@' + server + db_name 
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
 
 # this variable, db, will be used for all SQLAlchemy commands
@@ -108,6 +108,13 @@ def testdb():
 if __name__ == '__main__':
     app.run(debug=True)
 ```
+
+## Setting Environment Variables
+
+Instead of including username, password, and the whole database connection string _within a Python script,_ you can set the complete string as an **environment variable.** Note that the connection string must be complete and correct for your configuration, as discussed in the previous section.
+
+
+
 
 ***
 

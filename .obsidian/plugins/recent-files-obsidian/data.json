@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "How to Save Email Into Evernote",
+      "path": "Highlights/Readwise/Articles/How to Save Email Into Evernote.md"
+    },
+    {
       "basename": "Projects Kanban",
       "path": "Projects/Projects Kanban.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Daily",
       "path": "Templates/Temporal/Daily.md"
-    },
-    {
-      "basename": "README",
-      "path": "Placeholders/README.md"
     }
   ],
   "omittedPaths": [],

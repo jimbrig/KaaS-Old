@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "18807075473b28c8",
+        "id": "1d3c8e6870d80bf6",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Projects/Projects Kanban.md"
+            "file": "Highlights/Readwise/Articles/How to Save Email Into Evernote.md",
+            "mode": "source"
           }
         }
       }
@@ -38,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Type",
+                "query": "tag:#articles",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Projects Kanban.md",
+                "file": "Highlights/Readwise/Articles/How to Save Email Into Evernote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Projects Kanban.md",
+                "file": "Highlights/Readwise/Articles/How to Save Email Into Evernote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Projects Kanban.md"
+                "file": "Highlights/Readwise/Articles/How to Save Email Into Evernote.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Projects Kanban.md",
+                "file": "Highlights/Readwise/Articles/How to Save Email Into Evernote.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,14 +189,15 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 453
   },
-  "active": "18807075473b28c8",
+  "active": "1d3c8e6870d80bf6",
   "lastOpenFiles": [
+    "Highlights/Readwise/Articles/How to Save Email Into Evernote.md",
     "Projects/Projects Kanban.md",
     "Projects/Obsidian Vault Consolidation.md",
     "Templates/Project.md",
@@ -203,7 +206,6 @@
     "Plans/Annual/2022.md",
     "Plans/Annual/2021.md",
     "Plans/Annual/2020.md",
-    "Plans/Daily/2021-10-27.md",
-    "People/Steve Walsh.md"
+    "Plans/Daily/2021-10-27.md"
   ]
 }

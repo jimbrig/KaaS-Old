@@ -4,30 +4,20 @@ kanban-plugin: basic
 
 ---
 
+## Backlog
+
+- [ ] `lossdevt` R Package and ShinyApp #Type/Project/Personal #Category/Development/Actuarial
+- [ ] `buildtools` R Package #Type/Project/Personal #Category/Development/R
+
+
 ## Active
 
-- [ ] [[Obsidian Vault Consolidation]] #Type/Project/Personal
-
-
-## Want to Work On
-
-
-
-## Should Work On
-
+- [ ] [[Obsidian Vault Consolidation]] #Type/Project/Personal @{2021-10-28} #Category/PKM
 
 
 ## Complete
 
 **Complete**
-
-
-## Archived
-
-
-
-## Backlog
-
 
 
 

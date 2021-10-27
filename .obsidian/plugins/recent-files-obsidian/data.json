@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "System Design",
-      "path": "Literary Notes/System Design.md"
-    },
-    {
       "basename": "Database Pooling",
       "path": "Literary Notes/Database Pooling.md"
+    },
+    {
+      "basename": "System Design",
+      "path": "Literary Notes/System Design.md"
     },
     {
       "basename": "SQLAlchemy Engines",

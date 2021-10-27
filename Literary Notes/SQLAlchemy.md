@@ -17,7 +17,28 @@ Other sources used:
 
 ## SQLAlchemy Overview
 
+*SQLAlchemy* can be used to add database functionality to a [[Python Flask]] Application.
 
+**SQLAlchemy** is a Python SQL toolkit and object relational mapper (ORM) that enables Python to communicate with the SQL database system you prefer: MySQL, PostgreSQL, SQLite, and others. An ORM converts data between incompatible systems (object structure in Python, table structure in SQL database). SQLAlchemy is basically a **bridge** between Python and a SQL database.
+
+**Flask-SQLAlchemy** is an _extension_ for Flask that adds SQLAlchemy to your Flask app.
+-   [SQLAlchemy documentation](https://www.sqlalchemy.org/)
+-   [Flask-SQLAlchemy documentation](https://flask-sqlalchemy.palletsprojects.com/)
+-   [Code on GitHub](https://github.com/macloo/python-adv-web-apps/tree/master/python_code_examples/flask/databases)
+
+## Setup Flask-SQLAlchemy
+
+We will install the **Flask-SQLAlchemy** extension to enable us to work with a SQL database in Flask. There are many extensions for Flask; each one adds a different set of functions and capabilities. See the [list of Flask extensions](https://flask.palletsprojects.com/en/1.1.x/extensions/) for more.
+
+In Terminal, change into your Flask projects folder and **activate your virtual environment** there:
+
+```powershell
+python -m venv ./venv
+./venv/Scripts/activate
+pip install -r requirements.txt
+pip install flask-sqlalchemy
+pip freeze 
+```
 
 ***
 

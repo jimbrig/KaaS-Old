@@ -45,20 +45,23 @@ The drivername is the name of the DBAPI to be used to connect to the database us
 
 As the URL is like any other URL, **special characters such as those that may be used in the password need to be URL encoded to be parsed correctly.**. Below is an example of a URL that includes the password `"kx%jj5/g"`, where the percent sign and slash characters are represented as `%25` and `%2F`, respectively:
 
-postgresql+pg8000://dbuser:kx%25jj5%2Fg@pghost10/appdb
+`postgresql+pg8000://dbuser:kx%25jj5%2Fg@pghost10/appdb`
 
 The encoding for the above password can be generated using [urllib.parse](https://docs.python.org/3/library/urllib.parse.html):
 
+```python
 >>> import urllib.parse
 >>> urllib.parse.quote_plus("kx%jj5/g")
 'kx%25jj5%2Fg'
+```
 
-Examples for common connection styles follow below. For a full index of detailed information on all included dialects as well as links to third-party dialects, see [Dialects](https://docs.sqlalchemy.org/en/13/dialects/index.html).
+For a full index of detailed information on all included dialects as well as links to third-party dialects, see [Dialects](https://docs.sqlalchemy.org/en/13/dialects/index.html).
 
-### PostgreSQL[](https://docs.sqlalchemy.org/en/13/core/engines.html#postgresql "Permalink to this headline")
+### PostgreSQL
 
-The PostgreSQL dialect uses psycopg2 as the default DBAPI. pg8000 is also available as a pure-Python substitute:
+The PostgreSQL dialect uses `psycopg2` as the default DBAPI. `pg8000` is also available as a pure-Python substitute:
 
+```python
 # default
 engine = create_engine('postgresql://scott:tiger@localhost/mydatabase')
 
@@ -67,13 +70,15 @@ engine = create_engine('postgresql+psycopg2://scott:tiger@localhost/mydatabase')
 
 # pg8000
 engine = create_engine('postgresql+pg8000://scott:tiger@localhost/mydatabase')
+```
 
 More notes on connecting to PostgreSQL at [PostgreSQL](https://docs.sqlalchemy.org/en/13/dialects/postgresql.html).
 
-### MySQL[](https://docs.sqlalchemy.org/en/13/core/engines.html#mysql "Permalink to this headline")
+### MySQL
 
-The MySQL dialect uses mysql-python as the default DBAPI. There are many MySQL DBAPIs available, including MySQL-connector-python and OurSQL:
+The MySQL dialect uses `mysql-python` as the default DBAPI. There are many MySQL DBAPIs available, including `MySQL-connector-python` and `OurSQL`:
 
+```python
 # default
 engine = create_engine('mysql://scott:tiger@localhost/foo')
 
@@ -82,43 +87,51 @@ engine = create_engine('mysql+mysqldb://scott:tiger@localhost/foo')
 
 # PyMySQL
 engine = create_engine('mysql+pymysql://scott:tiger@localhost/foo')
+```
 
 More notes on connecting to MySQL at [MySQL](https://docs.sqlalchemy.org/en/13/dialects/mysql.html).
 
-### Oracle[](https://docs.sqlalchemy.org/en/13/core/engines.html#oracle "Permalink to this headline")
+### Oracle
 
-The Oracle dialect uses cx_oracle as the default DBAPI:
+The Oracle dialect uses `cx_oracle` as the default DBAPI:
 
+```python
 engine = create_engine('oracle://scott:tiger@127.0.0.1:1521/sidname')
 
 engine = create_engine('oracle+cx_oracle://scott:tiger@tnsname')
+```
 
 More notes on connecting to Oracle at [Oracle](https://docs.sqlalchemy.org/en/13/dialects/oracle.html).
 
-### Microsoft SQL Server[](https://docs.sqlalchemy.org/en/13/core/engines.html#microsoft-sql-server "Permalink to this headline")
+### Microsoft SQL Server
 
-The SQL Server dialect uses pyodbc as the default DBAPI. pymssql is also available:
+The SQL Server dialect uses `pyodbc` as the default DBAPI. `pymssql` is also available:
 
+```python
 # pyodbc
 engine = create_engine('mssql+pyodbc://scott:tiger@mydsn')
 
 # pymssql
 engine = create_engine('mssql+pymssql://scott:tiger@hostname:port/dbname')
+```
 
 More notes on connecting to SQL Server at [Microsoft SQL Server](https://docs.sqlalchemy.org/en/13/dialects/mssql.html).
 
-### SQLite[](https://docs.sqlalchemy.org/en/13/core/engines.html#sqlite "Permalink to this headline")
+### SQLite
 
 SQLite connects to file-based databases, using the Python built-in module `sqlite3` by default.
 
 As SQLite connects to local files, the URL format is slightly different. The “file” portion of the URL is the filename of the database. For a relative file path, this requires three slashes:
 
+```python
 # sqlite://<nohostname>/<path>
 # where <path> is relative:
 engine = create_engine('sqlite:///foo.db')
+```
 
 And for an absolute file path, the three slashes are followed by the absolute path:
 
+```python
 # Unix/Mac - 4 initial slashes in total
 engine = create_engine('sqlite:////absolute/path/to/foo.db')
 

@@ -35,10 +35,35 @@ In Terminal, change into your Flask projects folder and **activate your virtual 
 ```powershell
 python -m venv ./venv
 ./venv/Scripts/activate
-pip install -r requirements.txt
 pip install flask-sqlalchemy
-pip freeze 
 ```
+
+Then you can update your `requirements.txt` via:
+
+```powershell
+pip freeze -r -l > requirements.txt
+```
+
+and next time just run:
+
+```powershell
+python -m venv ./venv
+./venv/Scripts/activate
+pip install -r requirements.txt
+```
+
+before initiating the application:
+
+```powershell
+python main.py
+```
+
+### Databases and Flask Basics
+
+You’ll _connect_ your Flask app to an existing SQL database. Connecting will require your own database username and database password, _unless_ using SQLite.
+
+
+
 
 ***
 

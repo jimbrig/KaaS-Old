@@ -62,8 +62,52 @@ python main.py
 
 You’ll _connect_ your Flask app to an existing SQL database. Connecting will require your own database username and database password, _unless_ using SQLite.
 
+*Note: You _can_ create the SQL database using Python, but _that is not required._ If you already have a database, all you need to worry about is how to connect it. If you _do_ use Python to create a SQL database (and that’s an “if,” not a necessity), you will only do it once. You don’t create the same database again and again. Yes, this seems like a no-brainer — but you need to think about what your code is _doing._*
 
+[Details about writing queries with Flask-SQLAlchemy.](https://flask-sqlalchemy.palletsprojects.com/en/2.x/queries/#querying-records)
 
+See [Flask: Web Forms](https://python-adv-web-apps.readthedocs.io/en/latest/flask_forms.html) if you need to create a web form in your Flask app.
+
+For all Python and SQL commands, refer to the links listed under “User’s Guide” in the [Flask-SQLAlchemy documentation](https://flask-sqlalchemy.palletsprojects.com/).
+
+## Connection
+
+The first step, assuming you have a database, is getting your app (or a starter script for your app) to **connect** to the database. **Do this first.**
+
+Here’s a starter script for testing whether you can connect:
+
+```python
+from flask import Flask
+from flask_sqlalchemy import SQLAlchemy
+from sqlalchemy.sql import text
+
+app = Flask(__name__)
+
+# name of database
+db_name = '<dbname>'
+
+app.config['SQLALCHEMY_DATABASE_URI'] = '' + db_name 
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
+
+# this variable, db, will be used for all SQLAlchemy commands
+db = SQLAlchemy(app)
+
+# NOTHING BELOW THIS LINE NEEDS TO CHANGE
+# this route will test the database connection and nothing more
+@app.route('/')
+def testdb():
+    try:
+        db.session.query(text('1')).from_statement(text('SELECT 1')).all()
+        return '<h1>It works.</h1>'
+    except Exception as e:
+        # e holds description of the error
+        error_text = "<p>The error:<br>" + str(e) + "</p>"
+        hed = '<h1>Something is broken.</h1>'
+        return hed + error_text
+
+if __name__ == '__main__':
+    app.run(debug=True)
+```
 
 ***
 

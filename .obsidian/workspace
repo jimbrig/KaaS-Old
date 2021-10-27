@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "d9dc9603c467e7e7",
+    "id": "19a28f4380dc6c9d",
     "type": "split",
     "children": [
       {
-        "id": "4c32c7dd58dac847",
+        "id": "18807075473b28c8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Maps of Content/Development/Development.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -186,17 +186,17 @@
     "direction": "horizontal",
     "width": 453
   },
-  "active": "4c32c7dd58dac847",
+  "active": "18807075473b28c8",
   "lastOpenFiles": [
     "Maps of Content/Development/Development.md",
     "Maps of Content/Development/Web Development.md",
+    "REST APIs.md",
     "Maps of Content/Development/Microsoft Azure.md",
     "Maps of Content/Microsoft Windows.md",
     "Maps of Content/000-HOME.md",
     "Meta/Structure.md",
     "Meta/About.md",
     "Literary Notes/Azure Machine Learning Platform.md",
-    "Plans/Daily/2021-10-27.md",
-    "Day Planners/Day Planner-20211027.md"
+    "Plans/Daily/2021-10-27.md"
   ]
 }

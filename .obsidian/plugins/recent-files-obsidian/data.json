@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Python Flask",
+      "path": "Python Flask.md"
+    },
+    {
       "basename": "Database Pooling",
       "path": "Literary Notes/Database Pooling.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Reproducible Research With R and RStudio",
       "path": "Highlights/Readwise/Books/Reproducible Research With R and RStudio.md"
-    },
-    {
-      "basename": "How to Make Yourself Into a Learning Machine",
-      "path": "Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md"
     }
   ],
   "omittedPaths": [],

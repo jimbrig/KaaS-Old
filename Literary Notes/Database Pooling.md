@@ -26,7 +26,7 @@ Instead of opening and closing a connection per request/endpoint, you now acquir
 
 In Python you can utilize [PySQLPool](http://packages.python.org/PySQLPool/) for `mysql` for example.
 
-For production applications with Python you should by using [[SQLAlchemy]] with a connection pool configured, even if you are not interested in coding using the native [[SQLAlchemy ORM]]. See [SQLAlchemy in Flask — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/patterns/sqlalchemy/#sql-abstraction-layer) for details on setting o
+For production applications with Python you should by using [[SQLAlchemy]] with a connection pool configured, even if you are not interested in coding using the native [[SQLAlchemy ORM]]. See [SQLAlchemy in Flask — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/patterns/sqlalchemy/#sql-abstraction-layer) for details on setting up a **SQL Abstraction Layer** with [[SQLAlchemy]] and [[Python Flask]].
 
 
 

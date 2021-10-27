@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literary Notes/Azure Machine Learning Platform.md",
-            "mode": "source"
+            "file": "Maps of Content/Development/Web Development.md",
+            "mode": "preview"
           }
         }
       }
@@ -57,7 +57,7 @@
             }
           },
           {
-            "id": "2d9a9cc6e70b637c",
+            "id": "b74aecc3fa298bf7",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literary Notes/Azure Machine Learning Platform.md",
+                "file": "Maps of Content/Development/Web Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literary Notes/Azure Machine Learning Platform.md",
+                "file": "Maps of Content/Development/Web Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,32 +124,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literary Notes/Azure Machine Learning Platform.md"
+                "file": "Maps of Content/Development/Web Development.md"
               }
-            }
-          },
-          {
-            "id": "56e70467f70fcc84",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "a11b28a8575e125b",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "4b78828de20a56e8",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
             }
           },
           {
@@ -158,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Literary Notes/Azure Machine Learning Platform.md",
+                "file": "Maps of Content/Development/Web Development.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,9 +162,25 @@
                 }
               }
             }
+          },
+          {
+            "id": "6df24996cb397457",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3c8a8fb0f42928e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -196,15 +188,15 @@
   },
   "active": "4c32c7dd58dac847",
   "lastOpenFiles": [
+    "Maps of Content/Development/Web Development.md",
+    "Maps of Content/Development/Development.md",
+    "Maps of Content/000-HOME.md",
+    "Meta/Structure.md",
+    "Meta/About.md",
     "Literary Notes/Azure Machine Learning Platform.md",
     "Plans/Daily/2021-10-27.md",
     "Day Planners/Day Planner-20211027.md",
     "Meta/Files-Without-Tags.md",
-    "Meta/Unresolved-Links.md",
-    "Meta/Unlinked-Files.md",
-    "Literary Notes/Zettelkasten.md",
-    "Literary Notes/The Collector's Fallacy.md",
-    "Literary Notes/Rinse and Repeat - Research, Read, Assimilate.md",
-    "Literary Notes/README.md"
+    "Meta/Unresolved-Links.md"
   ]
 }

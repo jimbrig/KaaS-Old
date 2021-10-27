@@ -5,7 +5,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 
 #Type/Vault/Readme #Type/Vault/MOC
 
-# Maps of Cont[[Maps of Content/Personal Knowledge Management]]age[[Maps of Content/Productivity]]uct[[Maps of Content/Development]]velopment]]
+# Maps of Cont[[Maps of Content/Personal Knowledge Management]]age[[Maps of Content/Productivity]]uct[[Development]]velopment]]
 	- [[Developer Tools]]
 	- [[Development - Web]]
 	- [[Development - Cloud]]

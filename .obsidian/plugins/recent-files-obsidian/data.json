@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Web Development",
+      "path": "Maps of Content/Development/Web Development.md"
+    },
+    {
+      "basename": "Development",
+      "path": "Maps of Content/Development/Development.md"
+    },
+    {
+      "basename": "Structure",
+      "path": "Meta/Structure.md"
+    },
+    {
+      "basename": "About",
+      "path": "Meta/About.md"
+    },
+    {
       "basename": "Azure Machine Learning Platform",
       "path": "Literary Notes/Azure Machine Learning Platform.md"
     },
@@ -71,10 +87,6 @@
     {
       "basename": "The Knowledge Cycle",
       "path": "Inbox/The Knowledge Cycle.md"
-    },
-    {
-      "basename": "About this Vault",
-      "path": "Meta/About this Vault.md"
     },
     {
       "basename": "README",
@@ -187,14 +199,6 @@
     {
       "basename": "Monthly",
       "path": "Templates/Temporal/Monthly.md"
-    },
-    {
-      "basename": "2021-Q4",
-      "path": "Plans/Quarterly/2021-Q4.md"
-    },
-    {
-      "basename": "2021-W44",
-      "path": "Plans/Weekly/2021-W44.md"
     }
   ],
   "omittedPaths": [],

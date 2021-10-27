@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plans/Daily/2021-10-27.md",
-            "mode": "preview"
+            "file": "Projects/Obsidian Vault Consolidation.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plans/Daily/2021-10-27.md",
+                "file": "Projects/Obsidian Vault Consolidation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans/Daily/2021-10-27.md",
+                "file": "Projects/Obsidian Vault Consolidation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plans/Daily/2021-10-27.md"
+                "file": "Projects/Obsidian Vault Consolidation.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Plans/Daily/2021-10-27.md",
+                "file": "Projects/Obsidian Vault Consolidation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,15 +196,15 @@
   },
   "active": "18807075473b28c8",
   "lastOpenFiles": [
+    "Projects/Obsidian Vault Consolidation.md",
+    "Templates/Project.md",
+    "Templates/Generic.md",
+    "Plans/Day Planners/Day Planner-20211026.md",
+    "Plans/Annual/2022.md",
+    "Plans/Annual/2021.md",
+    "Plans/Annual/2020.md",
     "Plans/Daily/2021-10-27.md",
     "People/Steve Walsh.md",
-    "People/Peichung Shih.md",
-    "Plans/Daily/2021-10-26.md",
-    "Inbox/Tools I Use.md",
-    "README.md",
-    "Changelog.md",
-    "Maps of Content/Development/Development.md",
-    "Maps of Content/Development/Web Development.md",
-    "REST APIs.md"
+    "People/Peichung Shih.md"
   ]
 }

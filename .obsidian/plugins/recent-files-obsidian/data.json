@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian Vault Consolidation",
+      "path": "Projects/Obsidian Vault Consolidation.md"
+    },
+    {
+      "basename": "Project",
+      "path": "Templates/Project.md"
+    },
+    {
+      "basename": "Generic",
+      "path": "Templates/Generic.md"
+    },
+    {
+      "basename": "2022",
+      "path": "Plans/Annual/2022.md"
+    },
+    {
+      "basename": "2021",
+      "path": "Plans/Annual/2021.md"
+    },
+    {
+      "basename": "2020",
+      "path": "Plans/Annual/2020.md"
+    },
+    {
       "basename": "2021-10-27",
       "path": "Plans/Daily/2021-10-27.md"
     },
@@ -149,20 +173,12 @@
       "path": "Templates/Temporal/Annual.md"
     },
     {
-      "basename": "2020",
-      "path": "Plans/Annual/2020.md"
-    },
-    {
       "basename": "README",
       "path": "Plans/Daily/README.md"
     },
     {
       "basename": "2021-10-24",
       "path": "Plans/Daily/2021-10-24.md"
-    },
-    {
-      "basename": "Day Planner-20211026",
-      "path": "Plans/Day Planners/Day Planner-20211026.md"
     },
     {
       "basename": "Machine Learning Operations - MLOps",
@@ -183,22 +199,6 @@
     {
       "basename": "README",
       "path": "People/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Meta/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Maps of Content/README.md"
-    },
-    {
-      "basename": "2021-10-25",
-      "path": "Plans/Daily/2021-10-25.md"
-    },
-    {
-      "basename": "2022",
-      "path": "Plans/Annual/2022.md"
     }
   ],
   "omittedPaths": [],

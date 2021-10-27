@@ -10,13 +10,11 @@ Type: #Type/Project
 
 ## Desired Outcome
 
-Desired Outcome is a unified central knowledge store that merges and assimilates the various markdown notes scattered across all of my current and previous [[Obsidian]]   
+Desired Outcome is a unified central knowledge store that merges and assimilates the various markdown notes scattered across all of my current and previous [[Obsidian]] Vaults. Additionally, I want to be able to a) display the vault on GitHub using GitHub Flavored Markdown and b) publish certain aspects of the vault to be available to the public as a website.
 
+## Next Actions
 
-### Deadline
-
-## Team
-
+- [ ] List all currently available Obsidian Vaults
 
 
 ***

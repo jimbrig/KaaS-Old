@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "RStudio Configuration",
+      "path": "Projects/RStudio Configuration.md"
     },
     {
       "basename": "Projects Kanban",
       "path": "Projects/Projects Kanban.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Build Tools R Package",

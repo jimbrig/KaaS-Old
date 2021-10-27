@@ -1,3 +1,5 @@
+- 2021-10-27 at 15h10 · [[RStudio Configuration]]
+- 2021-10-27 at 15h09 · [[README]]
 - 2021-10-27 at 15h09 · [[Projects Kanban]]
 - 2021-10-27 at 15h07 · [[Build Tools R Package]]
 - 2021-10-27 at 15h06 · [[Loss Development R Package]]
@@ -52,7 +54,6 @@
 - 2021-10-27 at 13h20 · [[Monthly]]
 - 2021-10-27 at 13h20 · [[Daily]]
 - 2021-10-27 at 13h20 · [[Annual]]
-- 2021-10-27 at 13h20 · [[README]]
 - 2021-10-27 at 13h20 · [[README]]
 - 2021-10-27 at 13h20 · [[README]]
 - 2021-10-27 at 13h20 · [[2021-W44]]

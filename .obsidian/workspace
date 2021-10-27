@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Maps of Content/Development/Development.md",
-            "mode": "preview"
+            "file": "Plans/Daily/2021-10-27.md",
+            "mode": "source"
           }
         }
       }
@@ -68,73 +68,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 790
+    "width": 344
   },
   "right": {
     "id": "bfbc1479c692d933",
     "type": "split",
     "children": [
       {
-        "id": "e8d362a19b26e03a",
+        "id": "4597e6a1d630c2f1",
         "type": "tabs",
         "children": [
-          {
-            "id": "a680cf414457f065",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Maps of Content/Development/Development.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f9878c8a473a2a77",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Maps of Content/Development/Development.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a0d63e6199433b15",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "64093bf9f3ef30bd",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Maps of Content/Development/Development.md"
-              }
-            }
-          },
           {
             "id": "6286e0dfec9b2207",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Maps of Content/Development/Development.md",
+                "file": "Plans/Daily/2021-10-27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +130,64 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
+      },
+      {
+        "id": "e8d362a19b26e03a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a680cf414457f065",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plans/Daily/2021-10-27.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9878c8a473a2a77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plans/Daily/2021-10-27.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0d63e6199433b15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "64093bf9f3ef30bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Plans/Daily/2021-10-27.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,15 +195,15 @@
   },
   "active": "18807075473b28c8",
   "lastOpenFiles": [
+    "Plans/Daily/2021-10-27.md",
+    "Inbox/Tools I Use.md",
+    "README.md",
+    "Changelog.md",
     "Maps of Content/Development/Development.md",
     "Maps of Content/Development/Web Development.md",
     "REST APIs.md",
     "Maps of Content/Development/Microsoft Azure.md",
     "Maps of Content/Microsoft Windows.md",
-    "Maps of Content/000-HOME.md",
-    "Meta/Structure.md",
-    "Meta/About.md",
-    "Literary Notes/Azure Machine Learning Platform.md",
-    "Plans/Daily/2021-10-27.md"
+    "Maps of Content/000-HOME.md"
   ]
 }

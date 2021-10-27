@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-10-27",
+      "path": "Plans/Daily/2021-10-27.md"
+    },
+    {
+      "basename": "Tools I Use",
+      "path": "Inbox/Tools I Use.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Changelog",
+      "path": "Changelog.md"
+    },
+    {
       "basename": "Development",
       "path": "Maps of Content/Development/Development.md"
     },
@@ -27,10 +43,6 @@
     {
       "basename": "Azure Machine Learning Platform",
       "path": "Literary Notes/Azure Machine Learning Platform.md"
-    },
-    {
-      "basename": "2021-10-27",
-      "path": "Plans/Daily/2021-10-27.md"
     },
     {
       "basename": "Files-Without-Tags",
@@ -89,10 +101,6 @@
       "path": "Inbox/Microsoft Developer Docs.md"
     },
     {
-      "basename": "Tools I Use",
-      "path": "Inbox/Tools I Use.md"
-    },
-    {
       "basename": "The Knowledge Cycle",
       "path": "Inbox/The Knowledge Cycle.md"
     },
@@ -147,10 +155,6 @@
     {
       "basename": "Day Planner-20211026",
       "path": "Plans/Day Planners/Day Planner-20211026.md"
-    },
-    {
-      "basename": "Changelog",
-      "path": "Changelog.md"
     },
     {
       "basename": "Machine Learning Operations - MLOps",

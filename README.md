@@ -8,3 +8,7 @@ Inside is my personal, customized, digital knowledge notebase structured loosely
 
 Consider this my *Digital Garden*. It is a garden that needs to be maintained and cared for overtime to produce fruitful outcomes.
 
+## Roadmap
+
+Currently I am persistenly perusing and curating my 10,000+ various notes houses across various platforms and locations: I would say I am about **18%** complete in this endeavor.
+

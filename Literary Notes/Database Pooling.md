@@ -4,7 +4,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Alias: Database Pooling
 ---
 
-Source Type: #Type/StackOverflow
+Source Type: #Type/Note
 
 # Database Pooling
 

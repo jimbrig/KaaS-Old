@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literary Notes/_README.md",
+            "file": "Inbox/_README.md",
             "mode": "preview"
           }
         }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495,
-    "collapsed": true
+    "width": 495
   },
   "right": {
     "id": "bfbc1479c692d933",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literary Notes/_README.md"
+                "file": "Inbox/_README.md"
               }
             }
           },
@@ -120,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Literary Notes/_README.md",
+                "file": "Inbox/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,8 +166,8 @@
   },
   "active": "1d3c8e6870d80bf6",
   "lastOpenFiles": [
-    "Literary Notes/_README.md",
     "Inbox/_README.md",
+    "Literary Notes/_README.md",
     "Maps of Content/_README.md",
     "Maps of Content/Development/Development.md",
     "Maps of Content/Development/Microsoft Azure.md",

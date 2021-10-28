@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "d9dc9603c467e7e7",
+    "id": "19a28f4380dc6c9d",
     "type": "split",
     "children": [
       {
-        "id": "860dec0f84cfaf4c",
+        "id": "1d3c8e6870d80bf6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Literary Notes/Database Pooling.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Type",
+                "query": "tag:#Review",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,18 +57,19 @@
             }
           },
           {
-            "id": "2d9a9cc6e70b637c",
+            "id": "b74aecc3fa298bf7",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 790
+    "width": 344
   },
   "right": {
     "id": "bfbc1479c692d933",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literary Notes/Database Pooling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Literary Notes/Database Pooling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Literary Notes/Database Pooling.md"
+              }
             }
           },
           {
-            "id": "56e70467f70fcc84",
+            "id": "6df24996cb397457",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -130,18 +138,10 @@
             }
           },
           {
-            "id": "a11b28a8575e125b",
+            "id": "b3c8a8fb0f42928e",
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "4b78828de20a56e8",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
               "state": {}
             }
           },
@@ -151,6 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Literary Notes/Database Pooling.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,25 +179,34 @@
                 }
               }
             }
+          },
+          {
+            "id": "cfd34afd45bb73e1",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 453
+    "width": 453,
+    "collapsed": true
   },
-  "active": "860dec0f84cfaf4c",
+  "active": "1d3c8e6870d80bf6",
   "lastOpenFiles": [
-    "Literary Notes/Azure Machine Learning Platform.md",
-    "Plans/Daily/2021-10-27.md",
-    "Day Planners/Day Planner-20211027.md",
-    "Meta/Files-Without-Tags.md",
-    "Meta/Unresolved-Links.md",
-    "Meta/Unlinked-Files.md",
-    "Literary Notes/Zettelkasten.md",
-    "Literary Notes/The Collector's Fallacy.md",
-    "Literary Notes/Rinse and Repeat - Research, Read, Assimilate.md",
-    "Literary Notes/README.md"
+    "Literary Notes/Database Pooling.md",
+    "Literary Notes/System Design.md",
+    "Literary Notes/SQLAlchemy Engines.md",
+    "Literary Notes/SQLAlchemy.md",
+    "Literary Notes/assets/Pasted image 20211027155839.png",
+    "Literary Notes/SQLAlchemy ORM.md",
+    "Literary Notes/Python Flask.md",
+    "Literary Notes/REST API Design Best Practices.md",
+    "Projects/RStudio Configuration.md",
+    "Projects/Projects Kanban.md"
   ]
 }

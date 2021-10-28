@@ -2,7 +2,7 @@
 
 Status: #Status/Permanent 
 
-#Review
+#Status/Review
 
 Zettelkasten describes a method o[[Maps of Content/Personal Knowledge Management]]]], or PKM, inspired by the prolific sociologis[[People/Niklas Luhmann]]]].
 

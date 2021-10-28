@@ -9,6 +9,16 @@
       "type": "file",
       "title": "The Collector's Fallacy",
       "path": "Literary Notes/The Collector's Fallacy.md"
+    },
+    {
+      "type": "file",
+      "title": "Projects Kanban",
+      "path": "Projects/Projects Kanban.md"
+    },
+    {
+      "type": "file",
+      "title": "Azure Machine Learning",
+      "path": "Literary Notes/Azure Machine Learning.md"
     }
   ]
 }

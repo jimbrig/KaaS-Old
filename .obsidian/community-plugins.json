@@ -29,5 +29,7 @@
   "folder-note-plugin",
   "obsidian-extract-pdf-highlights",
   "convert-url-to-iframe",
-  "todoist-sync-plugin"
+  "todoist-sync-plugin",
+  "hotkey-helper",
+  "obsidian-kanban"
 ]

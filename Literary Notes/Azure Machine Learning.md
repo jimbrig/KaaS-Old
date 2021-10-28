@@ -5,7 +5,7 @@ Tags: ["#Category/Development"]
 Alias:
 ---
 
-#Category/Cloud/Azure
+#Category/Technology/Cloud/Azure
 [[Microsoft Azure]]
 
 # Azure Machine Learning

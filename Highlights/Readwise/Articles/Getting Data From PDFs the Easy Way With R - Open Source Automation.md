@@ -19,4 +19,4 @@ Link: http://theautomatic.net/2018/08/24/getting-data-from-pdfs-the-easy-way-wit
   matrix_results <- extract_tables(site)
   # get back the tables as data frames, keeping their headers
   df_results <- extract_tables(site, output = "data.frame", header = TRUE)
-    - Tags: [[r]] 
+    - Tags: [[R]] 

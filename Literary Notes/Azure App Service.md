@@ -5,7 +5,7 @@ Tags: []
 Alias:
 ---
 
-#Category/Cloud/Azure 
+#Category/Technology/Cloud/Azure 
 
 See also: [[Microsoft Azure]]
 

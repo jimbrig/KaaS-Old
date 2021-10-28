@@ -18,7 +18,14 @@ This is a fallacy.
 
 Why? Because *to know about something* is not the same as *knowing something*. Just *knowing about* a thing is less than superficial since know about it  is merely to be certain of its existence, and nothing more. Ultimately, this is *fake-knowledge* and it hinders us on the road to true excellence. 
 
-To counter the fallacy, one must merge the contents, information, ideas, and thoughts of others into our own curated knowledge store. Only then, when you spend the time and energy to actually think about the information in your own context, have you learned something. Merely filing things away doesn't lead 
+To counter the fallacy, one must merge the contents, information, ideas, and thoughts of others into our own curated knowledge store. Only then, when you spend the time and energy to actually think about the information in your own context, have you learned something. Merely filing things away doesn't lead us anywhere.
 
-To counter the fallacy, one must merge the contents, information, ideas, and thoughts of others into our own curated knowledge store. Only then, when you spend the time and energy to actually think about the information in your own context, have you learned something. Merely filing things away doesn't lead[[Literary Notes/Collectors Do Not Make Progress]]Not[[Literary Notes/Rinse and Repeat - Research, Read, Assimilate]], Read, Assimilate]][[Literary Notes/Zettelkasten]]ink[[Maps of Content/Personal Knowledge Management]]nal[[Frameworks I Live By]]
-- [[Framew[[Placeholders/Raindrop.io#My Collection on Raindrop io|My Collection of Bookmarks on Raindrop.io]] of Bookmarks on Raindrop.io]]
+- [[Collectors Do Not Make Progress]]
+- [[Rinse and Repeat - Research, Read, Assimilate]]
+
+***
+
+Backlinks:
+- [[Zettelkasten]]
+- [[Personal Knowledge Management]]
+- [[Frameworks I Live By]]

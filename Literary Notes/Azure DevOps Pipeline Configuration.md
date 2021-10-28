@@ -7,7 +7,7 @@ Alias:
 
 # Azure DevOps Pipeline Configuration
 
-#Category/Cloud/Azure 
+#Category/Technology/Cloud/Azure 
 
 Backlink: [[Azure DevOps]]
 See also: [[Microsoft Azure]]

@@ -1,3 +1,5 @@
+- 2021-10-28 at 00h01 · [[Dwight D. Eisenhower]]
+- 2021-10-28 at 00h00 · [[The Collector's Fallacy]]
 - 2021-10-27 at 23h59 · [[Collectors Do Not Make Progress]]
 - 2021-10-27 at 22h27 · [[README]]
 - 2021-10-27 at 22h18 · [[_README]]
@@ -107,7 +109,6 @@
 - 2021-10-27 at 22h08 · [[PKM - Trust the Process]]
 - 2021-10-27 at 22h08 · [[README]]
 - 2021-10-27 at 22h08 · [[Rinse and Repeat - Research, Read, Assimilate]]
-- 2021-10-27 at 22h08 · [[The Collector's Fallacy]]
 - 2021-10-27 at 22h08 · [[Personal Knowledge Management]]
 - 2021-10-27 at 22h08 · [[Productivity]]
 - 2021-10-27 at 22h08 · [[About]]

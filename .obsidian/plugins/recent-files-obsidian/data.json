@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dwight D. Eisenhower",
+      "path": "Dwight D. Eisenhower.md"
+    },
+    {
       "basename": "The Collector's Fallacy",
       "path": "Literary Notes/The Collector's Fallacy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Unlinked-Files",
       "path": "Meta/Unlinked-Files.md"
-    },
-    {
-      "basename": "Zettelkasten",
-      "path": "Literary Notes/Zettelkasten.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "Literary Notes/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Inbox/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Maps of Content/_README.md"
+    },
+    {
+      "basename": "Development",
+      "path": "Maps of Content/Development/Development.md"
+    },
+    {
+      "basename": "Microsoft Azure",
+      "path": "Maps of Content/Development/Microsoft Azure.md"
+    },
+    {
+      "basename": "Web Development",
+      "path": "Maps of Content/Development/Web Development.md"
+    },
+    {
+      "basename": "Atomic Notes",
+      "path": "Placeholders/Atomic Notes.md"
+    },
+    {
+      "basename": "README",
+      "path": "Projects/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Database Pooling",
       "path": "Literary Notes/Database Pooling.md"
     },
@@ -43,10 +79,6 @@
     {
       "basename": "Projects Kanban",
       "path": "Projects/Projects Kanban.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Build Tools R Package",
@@ -129,18 +161,6 @@
       "path": "Changelog.md"
     },
     {
-      "basename": "Development",
-      "path": "Maps of Content/Development/Development.md"
-    },
-    {
-      "basename": "Web Development",
-      "path": "Maps of Content/Development/Web Development.md"
-    },
-    {
-      "basename": "Microsoft Azure",
-      "path": "Maps of Content/Development/Microsoft Azure.md"
-    },
-    {
       "basename": "Microsoft Windows",
       "path": "Maps of Content/Microsoft Windows.md"
     },
@@ -179,22 +199,6 @@
     {
       "basename": "Rinse and Repeat - Research, Read, Assimilate",
       "path": "Literary Notes/Rinse and Repeat - Research, Read, Assimilate.md"
-    },
-    {
-      "basename": "README",
-      "path": "Literary Notes/README.md"
-    },
-    {
-      "basename": "PKM - Trust the Process",
-      "path": "Literary Notes/PKM - Trust the Process.md"
-    },
-    {
-      "basename": "Getting Things Done",
-      "path": "Literary Notes/Getting Things Done.md"
-    },
-    {
-      "basename": "Frameworks I Live By",
-      "path": "Literary Notes/Frameworks I Live By.md"
     }
   ],
   "omittedPaths": [],

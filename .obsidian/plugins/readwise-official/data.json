@@ -7,10 +7,8 @@
   "lastSyncFailed": false,
   "lastSavedStatusID": 2102277,
   "currentSyncStatusID": 0,
-  "refreshBooks": true,
-  "booksToRefresh": [
-    "2756793"
-  ],
+  "refreshBooks": false,
+  "booksToRefresh": [],
   "booksIDsMap": {
     "Highlights/Readwise/Articles/Why Organising Your To-Dos by Project Does Not Work..md": "6397091",
     "Highlights/Readwise/Books/Free to Focus.md": "2756797",

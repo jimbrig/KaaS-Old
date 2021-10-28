@@ -1,3 +1,4 @@
+- 2021-10-27 at 23h59 · [[Collectors Do Not Make Progress]]
 - 2021-10-27 at 22h27 · [[README]]
 - 2021-10-27 at 22h18 · [[_README]]
 - 2021-10-27 at 22h18 · [[_README]]
@@ -97,7 +98,6 @@
 - 2021-10-27 at 22h08 · [[Monthly]]
 - 2021-10-27 at 22h08 · [[Quarterly]]
 - 2021-10-27 at 22h08 · [[Weekly]]
-- 2021-10-27 at 22h08 · [[Collectors Do Not Make Progress]]
 - 2021-10-27 at 22h08 · [[Developer Operations - DevOps]]
 - 2021-10-27 at 22h08 · [[Frameworks I Live By]]
 - 2021-10-27 at 22h08 · [[Getting Things Done]]

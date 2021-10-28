@@ -5,6 +5,10 @@
       "path": "Literary Notes/Database Pooling.md"
     },
     {
+      "basename": "Microsoft Developer Docs",
+      "path": "Inbox/Microsoft Developer Docs.md"
+    },
+    {
       "basename": "System Design",
       "path": "Literary Notes/System Design.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Frameworks I Live By",
       "path": "Literary Notes/Frameworks I Live By.md"
-    },
-    {
-      "basename": "Developer Operations - DevOps",
-      "path": "Literary Notes/Developer Operations - DevOps.md"
-    },
-    {
-      "basename": "Collectors Do Not Make Progress",
-      "path": "Literary Notes/Collectors Do Not Make Progress.md"
     }
   ],
   "omittedPaths": [],

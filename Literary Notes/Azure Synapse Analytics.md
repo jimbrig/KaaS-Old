@@ -5,9 +5,9 @@ Tags: []
 Alias:
 ---
 
-#Category/Cloud/Azure
+#Category/Technology/Cloud/Azure
 [[Microsoft Azure]]
 
 # Azure Synapse Analytics
 
-#Category/Cloud/Azure 
+#Category/Technology/Cloud/Azure 

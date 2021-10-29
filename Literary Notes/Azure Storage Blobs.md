@@ -5,9 +5,9 @@ Tags: []
 Alias:
 ---
 
-#Category/Cloud/Azure
+#Category/Technology/Cloud/Azure
 [[Microsoft Azure]]
 
 # Azure Storage Blobs
 
-#Category/Cloud/Azure 
+#Category/Technology/Cloud/Azure 

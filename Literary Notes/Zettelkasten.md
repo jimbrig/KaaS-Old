@@ -1,10 +1,20 @@
+---
+Date: 2021-10-28
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Alias: Zettelkasten
+---
+
+Type: #Type/Framework 
+Status: #Status/Permanent | #Status/Review
+
+
 # Zettelkasten
 
-Status: #Status/Permanent 
+*Source: [Getting Started • Zettelkasten Method](https://zettelkasten.de/posts/overview/#the-introduction-to-the-zettelkasten-method)*
 
-#Status/Review
+Website: <https://zettelkasten.de>
 
-Zettelkasten describes a method o[[Maps of Content/Personal Knowledge Management]]]], or PKM, inspired by the prolific sociologis[[People/Niklas Luhmann]]]].
+Zettelkasten describes a method of [[Personal Knowledge Management]], or PKM, inspired by the [[Prolific]] prolific sociologist [[Niklas Luhmann]].
 
 ## Contents
 
@@ -13,7 +23,10 @@ Zettelkasten describes a method o[[Maps of Content/Personal Knowledge Management
 ## Principles
 
 > Principles are higher than techniques. Principles produce techniques in an instant.  
-—Ido[[Placeholders/Principle of Atomicity]]f Atomicity]]: put things that belong together into a single note, [give it an ID](https://zettelkasten.de/posts/add-identity/), but limit its content to that sin[[Placeholders/Principle of Connectivity]]Connectivity]]: how different techniques can implement the same underlying principle - links versus note sequences
+—Ido Portal
+
+- [[Principle of Atomicity]]: put things that belong together into a single note, [give it an ID](https://zettelkasten.de/posts/add-identity/), but limit its content to that single topic.
+- [[Principle of Connectivity]]: how different techniques can implement the same underlying principle - links versus note sequences
 
 ## Knowledge Management
 
@@ -96,7 +109,7 @@ We also cover the relevant bit of history in [our introduction](https://zettelka
 
 ## Tools
 
-Check out our [forum about software and gadge[[People/Niklas Luhmann]]zet[[Literary Notes/The Collector's Fallacy]]ls)[[Literary Notes/PKM - Trust the Process]]y.
+Check out our [forum about software and gadgets](https://forum.zettelkasten.de/categories/tools) for tips from the community.
 
 
 ## Related
@@ -104,3 +117,4 @@ Check out our [forum about software and gadge[[People/Niklas Luhmann]]zet[[Liter
 - [[Niklas Luhmann]]
 - [[The Collector's Fallacy]]
 - [[PKM - Trust the Process]]
+	

@@ -17,5 +17,6 @@ Next, Eisenhower would simply crumble up the paper and toss it into the trashcan
 ***
 
 Backlinks:
+
 -	[[The Collector's Fallacy]]
 -	[[Getting Things Done]]

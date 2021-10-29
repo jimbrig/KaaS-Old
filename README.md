@@ -41,3 +41,5 @@ The others are still works in progress as I collect and curate more notes into t
 
 
 
+Note: Launch this vault directly via the [[Obsidian URI Schemas]]: `obsidian://open?vault=KaaS`.
+

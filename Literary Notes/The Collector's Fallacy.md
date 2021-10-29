@@ -10,6 +10,8 @@ Status: #Status/Permanent
 
 *Source: [The Collector’s Fallacy](https://zettelkasten.de/posts/collectors-fallacy/)*
 
+[[Dwight D. Eisenhower]] - interesting historical tidbit related to the *Collectors Fallacy* and how to counter it.
+
 As knowledge workers in the digital era, there is a tendency to gather useful stuff and feel good about it. To collect is a reward in itself. This propogates further when we become inclined to look for the next awe-inspiring, groundbreaking thought for intellectual stimulation. This results in a pile of promising books, articles, and resources that we store as bookmarks and feel good about because its the *cutting edge*.
 
 This is a fallacy.

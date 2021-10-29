@@ -5,9 +5,9 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2102277,
+  "lastSavedStatusID": 2108658,
   "currentSyncStatusID": 0,
-  "refreshBooks": true,
+  "refreshBooks": false,
   "booksToRefresh": [],
   "booksIDsMap": {
     "Highlights/Readwise/Articles/Why Organising Your To-Dos by Project Does Not Work..md": "6397091",

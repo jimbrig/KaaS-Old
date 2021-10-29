@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literary Notes/Database Pooling.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Review",
+                "query": "collectors fallacy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,12 +64,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 495
   },
   "right": {
     "id": "bfbc1479c692d933",
@@ -79,35 +78,6 @@
         "id": "e8d362a19b26e03a",
         "type": "tabs",
         "children": [
-          {
-            "id": "a680cf414457f065",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Literary Notes/Database Pooling.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f9878c8a473a2a77",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Literary Notes/Database Pooling.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "a0d63e6199433b15",
             "type": "leaf",
@@ -125,20 +95,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literary Notes/Database Pooling.md"
+                "file": "README.md"
               }
             }
           },
           {
-            "id": "6df24996cb397457",
+            "id": "cfd34afd45bb73e1",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "timeline",
               "state": {}
             }
           },
           {
-            "id": "b3c8a8fb0f42928e",
+            "id": "6d5a5e232bc07f24",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -146,12 +116,47 @@
             }
           },
           {
+            "id": "079447f21d976364",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "552186d5d21c4071",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "aee1d35a5422ece1",
+        "type": "tabs",
+        "children": [
+          {
             "id": "6286e0dfec9b2207",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Literary Notes/Database Pooling.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,15 +186,15 @@
             }
           },
           {
-            "id": "cfd34afd45bb73e1",
+            "id": "6df24996cb397457",
             "type": "leaf",
             "state": {
-              "type": "timeline",
+              "type": "calendar",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,15 +203,15 @@
   },
   "active": "1d3c8e6870d80bf6",
   "lastOpenFiles": [
-    "Literary Notes/Database Pooling.md",
-    "Literary Notes/System Design.md",
-    "Literary Notes/SQLAlchemy Engines.md",
-    "Literary Notes/SQLAlchemy.md",
-    "Literary Notes/assets/Pasted image 20211027155839.png",
-    "Literary Notes/SQLAlchemy ORM.md",
-    "Literary Notes/Python Flask.md",
-    "Literary Notes/REST API Design Best Practices.md",
-    "Projects/RStudio Configuration.md",
-    "Projects/Projects Kanban.md"
+    "README.md",
+    "Inbox/Obsidian URI Schemas.md",
+    "People/Dwight D. Eisenhower.md",
+    "Literary Notes/The Collector's Fallacy.md",
+    "Literary Notes/Collectors Do Not Make Progress.md",
+    "Literary Notes/_README.md",
+    "Inbox/_README.md",
+    "Maps of Content/_README.md",
+    "Maps of Content/Development/Development.md",
+    "Maps of Content/Development/Microsoft Azure.md"
   ]
 }

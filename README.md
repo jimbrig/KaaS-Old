@@ -12,3 +12,5 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 
 Currently I am persistenly perusing and curating my 10,000+ various notes houses across various platforms and locations: I would say I am about **18%** complete in this endeavor.
 
+Note: Launch this vault directly via the [Obsidian URI]
+

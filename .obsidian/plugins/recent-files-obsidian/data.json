@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Dwight D. Eisenhower",
-      "path": "Dwight D. Eisenhower.md"
+      "path": "People/Dwight D. Eisenhower.md"
     },
     {
       "basename": "The Collector's Fallacy",
@@ -43,10 +47,6 @@
     {
       "basename": "README",
       "path": "Projects/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Database Pooling",

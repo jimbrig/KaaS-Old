@@ -1,3 +1,4 @@
+- 2021-10-29 at 02h08 · [[Obsidian URI Schemas]]
 - 2021-10-29 at 02h08 · [[README]]
 - 2021-10-29 at 02h07 · [[Dwight D. Eisenhower]]
 - 2021-10-29 at 01h12 · [[The Collector's Fallacy]]

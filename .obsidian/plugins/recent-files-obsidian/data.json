@@ -5,6 +5,10 @@
       "path": "README.md"
     },
     {
+      "basename": "Obsidian URI Schemas",
+      "path": "Inbox/Obsidian URI Schemas.md"
+    },
+    {
       "basename": "Dwight D. Eisenhower",
       "path": "People/Dwight D. Eisenhower.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Unresolved-Links",
       "path": "Meta/Unresolved-Links.md"
-    },
-    {
-      "basename": "Unlinked-Files",
-      "path": "Meta/Unlinked-Files.md"
     }
   ],
   "omittedPaths": [],

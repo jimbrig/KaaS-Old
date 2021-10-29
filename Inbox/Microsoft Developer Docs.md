@@ -1,5 +1,5 @@
 #Category/Development
-#Category/Development/Cloud
+#Category/Technology/Cloud
 #Category/Technology/Windows
 
-#Status/NotStarted
+#Status/Blank

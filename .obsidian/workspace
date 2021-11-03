@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "19a28f4380dc6c9d",
+    "id": "a35481bdf5f13346",
     "type": "split",
     "children": [
       {
-        "id": "1d3c8e6870d80bf6",
+        "id": "b47e91f1fc02cad2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Literary Notes/Database Pooling.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Review",
+                "query": "tag:#Category",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 275
   },
   "right": {
     "id": "bfbc1479c692d933",
@@ -78,35 +75,6 @@
         "id": "e8d362a19b26e03a",
         "type": "tabs",
         "children": [
-          {
-            "id": "a680cf414457f065",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Literary Notes/Database Pooling.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f9878c8a473a2a77",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Literary Notes/Database Pooling.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "a0d63e6199433b15",
             "type": "leaf",
@@ -123,34 +91,89 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "cfd34afd45bb73e1",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ed633ca4ddac521",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
               "state": {
-                "file": "Literary Notes/Database Pooling.md"
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6df24996cb397457",
+            "id": "141f3959ec005db3",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c0c773ec00ec4eb",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
               "state": {}
             }
           },
           {
-            "id": "b3c8a8fb0f42928e",
+            "id": "3a695a6829051d3c",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
+          {
+            "id": "066a9f8a57528537",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "903540b4b4277895",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "aee1d35a5422ece1",
+        "type": "tabs",
+        "children": [
           {
             "id": "6286e0dfec9b2207",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Literary Notes/Database Pooling.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,32 +203,31 @@
             }
           },
           {
-            "id": "cfd34afd45bb73e1",
+            "id": "6df24996cb397457",
             "type": "leaf",
             "state": {
-              "type": "timeline",
+              "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 453,
+    "width": 464,
     "collapsed": true
   },
-  "active": "1d3c8e6870d80bf6",
+  "active": "b47e91f1fc02cad2",
   "lastOpenFiles": [
+    "Code/Git Commands/Git Fast Forward.md",
     "Literary Notes/Database Pooling.md",
-    "Literary Notes/System Design.md",
-    "Literary Notes/SQLAlchemy Engines.md",
-    "Literary Notes/SQLAlchemy.md",
-    "Literary Notes/assets/Pasted image 20211027155839.png",
-    "Literary Notes/SQLAlchemy ORM.md",
-    "Literary Notes/Python Flask.md",
-    "Literary Notes/REST API Design Best Practices.md",
-    "Projects/RStudio Configuration.md",
-    "Projects/Projects Kanban.md"
+    "Maps of Content/Technology/Web Development.md",
+    "Visual Studio Code.md",
+    "Maps of Content/_README.md",
+    "Maps of Content/_Index_of_Maps of Content.md",
+    "Maps of Content/Technology/Cloud/Amazon Web Services.md",
+    "Code/_Index_of_Code.md",
+    "Inbox/_Index_of_Inbox.md",
+    "Literary Notes/_README.md"
   ]
 }

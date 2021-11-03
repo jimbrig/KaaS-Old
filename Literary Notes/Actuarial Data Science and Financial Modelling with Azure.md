@@ -32,4 +32,4 @@ You believe in the promise of the cloud: it can run your financial and risk mode
 [[Cloud Computing]]
 [[Microsoft Azure]]
 [[Machine Learning]]
-- [[Azure Machine Learning]]
+[[Azure Machine Learning]]

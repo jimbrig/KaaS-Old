@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2103240,
+  "lastSavedStatusID": 2134317,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -392,6 +392,7 @@
     "Highlights/Readwise/Articles/The Best Part of Windows 11 Is a Revamped Windows Subsystem for Linux.md": "11388647",
     "Highlights/Readwise/Articles/Business Engineering — An Alternative Approach to Architecting and Executing Complex Businesses….md": "11395160",
     "Highlights/Readwise/Articles/13 Things to Put on Your Daily Checklist for Boosted Productivity.md": "11499310",
-    "Highlights/Readwise/Articles/Dev Environments as Code With Containers and Visual Studio Code.md": "11574514"
+    "Highlights/Readwise/Articles/Dev Environments as Code With Containers and Visual Studio Code.md": "11574514",
+    "Highlights/Readwise/Articles/Git Process for Small Organizations to Begin With.md": "11684821"
   }
 }

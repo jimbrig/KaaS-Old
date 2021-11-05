@@ -13,6 +13,22 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "fc8463db2cd27cae",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "e511259a449cc72b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -71,29 +87,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a680cf414457f065",
+            "id": "69420a876aa8de86",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "tag",
               "state": {
-                "file": "Changelog.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
+          {
+            "id": "36ce6c441cee4922",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "37c9462928abb5c5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "97a16404a7bdfd06",
+        "type": "tabs",
+        "children": [
           {
             "id": "6286e0dfec9b2207",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Changelog.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,91 +153,24 @@
                 }
               }
             }
-          },
-          {
-            "id": "93391c5bad355b52",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Changelog.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "69420a876aa8de86",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "c241a65558ba75b5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Changelog.md"
-              }
-            }
-          },
-          {
-            "id": "36ce6c441cee4922",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "0c1cdf4bf996e9d8",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "0f3942ab7b785c86",
-            "type": "leaf",
-            "state": {
-              "type": "stats-tracker",
-              "state": {}
-            }
-          },
-          {
-            "id": "bb8ca47c20b27152",
-            "type": "leaf",
-            "state": {
-              "type": "toggl-report",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 453,
-    "collapsed": true
+    "width": 453
   },
-  "active": "1d3c8e6870d80bf6",
+  "active": "e511259a449cc72b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Inbox/.gitignore.md",
     "Changelog.md",
     "Code/Vim/Vim Cheatsheet.md",
     "README.md",
     "Pasted image 20211028101347.png",
-    "conflict-files-obsidian-git.md",
     "Literary Notes/Database Pooling.md",
     "Literary Notes/_assets/Database-Pooling.png",
     "Literary Notes/System Design.md",
-    "Literary Notes/SQLAlchemy Engines.md",
-    "Literary Notes/SQLAlchemy.md"
+    "Literary Notes/SQLAlchemy Engines.md"
   ]
 }

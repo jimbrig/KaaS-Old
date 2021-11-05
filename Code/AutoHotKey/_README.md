@@ -1682,7 +1682,7 @@ Links:
 - [[Master AHK Script]]
 
 Related:
-- [[Code/Espanso/README|Espanso Scripts]]
+- [[Code/Espanso/_README|Espanso Scripts]]
 - [[Productivity]]
 - [[Windows Setup]]
 - [[Windows Dotfiles]]

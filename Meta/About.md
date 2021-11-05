@@ -19,7 +19,7 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 ### Note Types
 
 - [[Plans/Daily/README]]: Daily notes for journaling and reflection
-- [[Literary Notes/README]]: Notes representing external ideas and knowledge that I have captured.
+- [[Literary Notes/_README]]: Notes representing external ideas and knowledge that I have captured.
 - [[Permanent Notes/README]]: Notes that are considered *Evergreen*, i.e., notes that I have curated and formulated.
 - [[Concept Notes]]: Notes that are just describing or defining a concept or idea.
 - [[Inbox/Placeholders/README|Structural Notes or Placeholders]]: Structure notes are notes that organize other notes

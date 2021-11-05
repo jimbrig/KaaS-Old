@@ -18,7 +18,7 @@
 
 ### Utility Notes
 
-- [[Maps of Content/README]]
+- [[MOCs/README]]
 - [[Person Notes]]
 - [[Project Notes]]
 - [[Templates]]

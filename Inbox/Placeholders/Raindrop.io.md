@@ -32,6 +32,6 @@ Raindrop.io is the best place to keep all your favorite books, songs, articles o
 -   Save text, images & links from the web
 -   Upload images & files
 -   Add notes & photos fr[[Inbox/Tools I Use]]
-*[[Maps of Content/Productivity]]
--[[Maps of Content/Personal Knowledge Management]]y]][[Literary Notes/The Collector's Fallacy]]nagement]]
+*[[Productivity]]
+-[[Personal Knowledge Management]]y]][[Literary Notes/The Collector's Fallacy]]nagement]]
 -	[[The Collector's Fallacy]]]

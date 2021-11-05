@@ -9,7 +9,7 @@ Category: #Category/PKM
 
 # Personal Knowledge Management with Zettelkasten and Obsidian
 
-C[[Maps of Content/Personal Knowledge Management]]Managemen[[Placeholders/Building a Second Brain]]econd Brai[[Placeholders/PARA]]B)[[Literary Notes/Zettelkasten]][Zet[[Placeholders/Evergreen Notes]]ver[[Placeholders/Linking Your Thinking - LYT]] Th[[Placeholders/Markdown]]]][[Placeholders/Obsidian]]n]][[Placeholders/Version Control]] [[Version Control]]
+C[[Personal Knowledge Management]]Managemen[[Building a Second Brain]]econd Brai[[PARA]]B)[[Literary Notes/Zettelkasten]][Zet[[Evergreen Notes]]ver[[Linking Your Thinking - LYT]] Th[[Markdown]]]][[Obsidian]]n]][[Version Control]] [[Version Control]]
 
 ## Inputs
 
@@ -20,7 +20,7 @@ Variety of inputs that feed my knowledge:
 - Podcasts
 - Books
 - Personal Notes
-- e[[Placeholders/Raindrop.io]] ma[[Placeholders/Instapaper]]- [[[Placeholders/Feedly]]io][[Placeholders/Readwise]]pap[[Placeholders/Zotero]]Fee[[Placeholders/GitHub]][Read[[Placeholders/GitHub Gists]]ro]]
+- e[[Raindrop.io]] ma[[Instapaper]]- [[[Placeholders/Feedly]]io][[Readwise]]pap[[Zotero]]Fee[[GitHub]][Read[[GitHub Gists]]ro]]
 - [[GitHub]] and [[GitHub Gists]]
 
 ## PKM Domains
@@ -38,15 +38,15 @@ Variety of inputs that feed my knowledge:
 
 ## My System
 
-- M[[Placeholders/Git]]
-- M[[Placeholders/GitHub]]s
+- M[[Git]]
+- M[[GitHub]]s
 - My Toolbelt:
 	- [[Todoist]]
 	- [[Git]] and [[GitHub]]
 	- Readwise
 	- Raindrop.io
 	- PocketCasts
-[[Placeholders/Obsidian]]	- Zotero
+[[Obsidian]]	- Zotero
 	- [[Visual Studio Code]]
 	- [[Typora]]
 	- [[Obsidian]]
@@ -63,7 +63,7 @@ Variety of inputs that feed my knowledge:
 ## Theory and Definitions
 
 - Evergreen Notes
-- [[Maps of Content/README|Maps of Content]]
+- [[MOCs/README|Maps of Content]]
 - API N[[Literary Notes/Information Flow]]kasten
 - Atomic Notes
 - Digital Garden

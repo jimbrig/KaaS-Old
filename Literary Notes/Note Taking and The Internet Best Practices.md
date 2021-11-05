@@ -106,7 +106,7 @@ A smartphone, I argue, is a suitable filter from “stuff” to “inbox.” The
 To answer the questions from the beginning of this post:
 
 -   **How am I supposed to deal with these streams when only a fraction of the links are of real value to me?** I deal with the inflow of information by forcing myself to select quickly which items deserve my attention and which don’t. I can’t pay attention to everything, and I can’t read every article from start to finish. I need to decide: do I browse the web for fun or to expand my knowledge? This determines my mode of reading.
--   **How do I take lasting notes?** I read web pages or RSS feed subscriptions on my mobile device. I take lasting notes on my Mac only. Mobile devices can be useful to filter the load of unread feed items because services like Instapaper exis[[Literary Notes/Zettelkasten]] ex[[Literary Notes/The Collector's Fallacy]] th[[Literary Notes/Information Flow]]the[[Maps of Content/Personal Knowledge Management]]ckl[[Literary Notes/Rinse and Repeat - Research, Read, Assimilate]]llacy]]
+-   **How do I take lasting notes?** I read web pages or RSS feed subscriptions on my mobile device. I take lasting notes on my Mac only. Mobile devices can be useful to filter the load of unread feed items because services like Instapaper exis[[Literary Notes/Zettelkasten]] ex[[Literary Notes/The Collector's Fallacy]] th[[Literary Notes/Information Flow]]the[[Personal Knowledge Management]]ckl[[Literary Notes/Rinse and Repeat - Research, Read, Assimilate]]llacy]]
 -	[[Information Flow]]
 -	[[Personal Knowledge Management]]
 -	[[Rinse and Repeat - Research, Read, Assimilate]]

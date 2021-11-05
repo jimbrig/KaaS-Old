@@ -7,7 +7,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 
 # Highlights
 
-The Highlights directory houses highlights extracted from various sources using [[Placeholders/Readwise]] and manual export from [[Placeholders/Medium]].
+The Highlights directory houses highlights extracted from various sources using [[Readwise]] and manual export from [[Medium]].
 
 Readwise highlights are categorized by type:
 - Articles
@@ -16,9 +16,9 @@ Readwise highlights are categorized by type:
 
 and include my personal highlights from:
 
-- [[Placeholders/Instapaper]] Highlights
-- [[Placeholders/Feedly]] Article Highlights
-- [[Placeholders/Medium]] Article Highlights
+- [[Instapaper]] Highlights
+- [[Feedly]] Article Highlights
+- [[Medium]] Article Highlights
 -  Digital Books (eBook, Kindle, etc.)
 - Imported Highlights
 - PDF Highlights

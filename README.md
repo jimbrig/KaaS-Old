@@ -27,7 +27,7 @@ The [[Changelog]] is also a good *Meta* resource.
 
 ### Maps of Content
 
-If this vault serves as my version of [[Building a Second Brain|a second brain]], then [[Maps of Content/README|Maps of Content]] or *MOC's* are the underlying [[Synapse]]'s connecting the neurotransmitters of the brain together to form a complex, structured system. 
+If this vault serves as my version of [[Building a Second Brain|a second brain]], then [[MOCs/README|Maps of Content]] or *MOC's* are the underlying [[Synapse]]'s connecting the neurotransmitters of the brain together to form a complex, structured system. 
 
 In other words MOC's serve as structural, index notes that list related [[Atomic Notes]] in a single location.
 

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literary Notes/Database Pooling.md",
-            "mode": "source"
+            "file": "Changelog.md",
+            "mode": "preview"
           }
         }
       }
@@ -49,18 +49,10 @@
             }
           },
           {
-            "id": "a7bef592b75c4c60",
+            "id": "9b63f234330d4439",
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "b74aecc3fa298bf7",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
               "state": {}
             }
           }
@@ -68,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 252
   },
   "right": {
     "id": "bfbc1479c692d933",
@@ -84,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literary Notes/Database Pooling.md",
+                "file": "Changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,61 +88,12 @@
             }
           },
           {
-            "id": "f9878c8a473a2a77",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Literary Notes/Database Pooling.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a0d63e6199433b15",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "64093bf9f3ef30bd",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Literary Notes/Database Pooling.md"
-              }
-            }
-          },
-          {
-            "id": "6df24996cb397457",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b3c8a8fb0f42928e",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "6286e0dfec9b2207",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Literary Notes/Database Pooling.md",
+                "file": "Changelog.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,15 +123,72 @@
             }
           },
           {
-            "id": "cfd34afd45bb73e1",
+            "id": "93391c5bad355b52",
             "type": "leaf",
             "state": {
-              "type": "timeline",
+              "type": "outgoing-link",
+              "state": {
+                "file": "Changelog.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69420a876aa8de86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c241a65558ba75b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Changelog.md"
+              }
+            }
+          },
+          {
+            "id": "36ce6c441cee4922",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c1cdf4bf996e9d8",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f3942ab7b785c86",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb8ca47c20b27152",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,15 +197,15 @@
   },
   "active": "1d3c8e6870d80bf6",
   "lastOpenFiles": [
+    "Changelog.md",
+    "Code/Vim/Vim Cheatsheet.md",
+    "README.md",
+    "Pasted image 20211028101347.png",
+    "conflict-files-obsidian-git.md",
     "Literary Notes/Database Pooling.md",
+    "Literary Notes/_assets/Database-Pooling.png",
     "Literary Notes/System Design.md",
     "Literary Notes/SQLAlchemy Engines.md",
-    "Literary Notes/SQLAlchemy.md",
-    "Literary Notes/assets/Pasted image 20211027155839.png",
-    "Literary Notes/SQLAlchemy ORM.md",
-    "Literary Notes/Python Flask.md",
-    "Literary Notes/REST API Design Best Practices.md",
-    "Projects/RStudio Configuration.md",
-    "Projects/Projects Kanban.md"
+    "Literary Notes/SQLAlchemy.md"
   ]
 }

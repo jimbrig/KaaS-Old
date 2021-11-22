@@ -1,5 +1,11 @@
 # KaaS - Knowledge as a Service
 
+**NOTE**
+
+*Please see the newer version at: <https://github.com/jimbrig/kaas-new> and official published vault at: <https://publish.obsidian.md/kaas/>.*
+
+***
+
 [![Deploy with MkDocs](https://github.com/jimbrig/KaaS/actions/workflows/deploy.yml/badge.svg)](https://github.com/jimbrig/KaaS/actions/workflows/deploy.yml)
 
 Welcome to my personal knowledge base - **KaaS** or Knowledge as a Service.
